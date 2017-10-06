@@ -11,4 +11,4 @@ I'm a Linux user since the 90's. I'm slowly but surely switching the side from t
 
 I hope my blog is of value for you. Check out my tools at [GitHub](https://github.com/ikem-krueger). Have fun and live long and prosper.
 
-PS: If you want a blog like this, check out this [repository](https://github.com/barryclark/jekyll-now).
+PS: If you want a blog like this, check out [this](https://github.com/barryclark/jekyll-now) repository.
