@@ -3,7 +3,7 @@ layout: post
 title: Hello world!
 ---
 
-If it walks like a duck, and quackes like a duck, it's probably a penguin pretending to be a duck. :)
+If it walks like a duck, and quacks like a duck, it's probably a penguin pretending to be a duck. :)
 
 ![_config.yml]({{ site.baseurl }}/images/duck-pretending.jpg)
 
