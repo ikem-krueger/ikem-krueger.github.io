@@ -179,13 +179,10 @@ img {
 }
 
 .site-info {
-  float: none;
-  display: block;
-  margin: 0 auto;
+  text-align: center;
 }
 
 .site-name {
-  margin: 0 auto;
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
@@ -195,7 +192,6 @@ img {
 }
 
 .site-description {
-  margin: 0 auto;
   color: $gray;
   font-size: 16px;
 }
