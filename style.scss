@@ -179,13 +179,9 @@ img {
 }
 
 .site-info {
-  float: left;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
+  float: none;
+  display: block;
+  margin: 0 auto;
 }
 
 .site-name {
