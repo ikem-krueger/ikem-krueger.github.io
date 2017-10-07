@@ -183,6 +183,7 @@ img {
 }
 
 .site-name {
+  text-align: center;
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
@@ -192,6 +193,7 @@ img {
 }
 
 .site-description {
+  text-align: center;
   color: $gray;
   font-size: 16px;
 }
