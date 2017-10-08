@@ -7,7 +7,7 @@ layout: default
 
     <article class="post">
 
-      <h1>{{ post.date | date: "%Y/%d/%m: " }}<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h1>{{ post.date | date: "%-d %B %Y" }}<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
     </article>
 
