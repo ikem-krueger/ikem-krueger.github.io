@@ -7,4 +7,4 @@ I wanted Git and Python on my Windows system. I went to install [Git-Scm](https:
 
 It seems that Git-Scm comes with a lot of the GNU tools. And Thonny with Python.
 
-So if I put both to the system environment variable "PATH", I have access to both of them, with a minimum of overhead.
+So I put both to the system environment variable "PATH", and now I have access to both of them, with a minimum of overhead.
