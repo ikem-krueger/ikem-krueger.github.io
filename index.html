@@ -5,11 +5,7 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
 
-    <article class="post">
-
       <div><span class="date">{{ post.date | date: "%Y-%m-%d: " }}</span><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></div>
-
-    </article>
 
   {% endfor %}
 </div>
