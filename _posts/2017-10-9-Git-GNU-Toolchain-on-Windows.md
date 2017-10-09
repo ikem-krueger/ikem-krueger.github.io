@@ -9,4 +9,4 @@ It seems that Git-Scm comes with a lot of the GNU tools:
 
 ![_config.yml]({{ site.baseurl }}/images/git-gnu-tools.png)
 
-So I put them to the system environment variable "PATH", and now I have access to them, with a minimum of overhead.
+So I put the path to the system environment variable "PATH", and now I can access them on the console.
