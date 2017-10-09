@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python IDE, Git, GNU Toolchain on Windows
+title: Git for Windows and the secret GNU Toolchain
 ---
 
 I wanted Git on my Windows system. I went to install [Git-Scm](https://git-scm.com/).
