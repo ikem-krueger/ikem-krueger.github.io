@@ -1,3 +1,4 @@
+- [ ] add a link to the original repo
 - [ ] fix the index page padding/margin of the posts list
 - [ ] add edit link to the posts pages
 - [ ] add version back/forth link to the posts pages
