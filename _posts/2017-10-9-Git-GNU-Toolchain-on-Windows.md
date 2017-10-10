@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Git for Windows and the secret GNU Toolchain
+tags: windows, git, gnu-toolchain
 ---
 
 I wanted Git on my Windows system. I went to install [Git-Scm](https://git-scm.com/).
