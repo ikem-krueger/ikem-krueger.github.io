@@ -5,7 +5,7 @@ layout: default
 <article class="post">
   <h1><a href="{{ site.baseurl }}">Index</a></h1>
 
-  <div class="entry">
+  <div class="entry" style="padding-left:20px;">
     {% for post in site.posts %}
       {{ post.date | date: "%Y-%m-%d: " }}<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br>
     {% endfor %}
