@@ -14,6 +14,6 @@ I wanted to access them on the console.
 
 So I went to:
 
-My Computer ‣ Properties ‣ Advanced ‣ Environment Variables
+> My Computer ‣ Properties ‣ Advanced ‣ Environment Variables
 
 Edit the system environment variable "PATH" and added "C:\Program Files\Git\usr\bin".
