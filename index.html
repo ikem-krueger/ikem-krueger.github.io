@@ -5,11 +5,12 @@ layout: default
 <article class="post">
   <h1><a href="{{ site.baseurl }}">Index</a></h1>
 
-  <div class="entry">
+  <div>
+    <ul>
     {% for post in site.posts %}
-      {{ post.date | date: "%Y-%m-%d: " }}<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br />
+      <li>{{ post.date | date: "%Y-%m-%d: " }}<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
+    </ul>
   </div>
 
-  {% include disqus.html %}
 </article>
