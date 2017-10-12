@@ -7,8 +7,9 @@ layout: default
 
   <div class="entry">
     {% for post in site.posts %}
-      <li>{{ post.date | date: "%Y-%m-%d: " }}<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br>
+      {{ post.date | date: "%Y-%m-%d: " }}<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br>
     {% endfor %}
   </div>
 
+  {% include disqus.html %}
 </article>
