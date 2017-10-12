@@ -10,10 +10,10 @@ It seems that Git-Scm comes with a lot of the GNU tools:
 
 ![_config.yml]({{ site.baseurl }}/images/git-gnu-tools.png)
 
+I wanted to access them on the console.
+
 So I went to:
 
 My Computer ‣ Properties ‣ Advanced ‣ Environment Variables
 
-Edit the system environment variable "PATH", added "C:\Program Files\Git\usr\bin".
-
-And now I can access them on the console.
+Edit the system environment variable "PATH" and added "C:\Program Files\Git\usr\bin".
