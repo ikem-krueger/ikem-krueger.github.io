@@ -1,0 +1,14 @@
+Boot command line:
+
+> cat /proc/cmdline
+
+List loaded modules:
+
+> lsmod
+
+If you want to know all possible module parameters:
+
+> modinfo -p libata
+
+See [kernel-parameters.txt](https://www.kernel.org/doc/Documentation/admin-guide/kernel-parameters.txt) for even more parameters.
+
