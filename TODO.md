@@ -1,3 +1,5 @@
+- [ ] load disqus comments on click
+- [ ] anchors like ubuntuusers wiki headers
 - [ ] add a link to the original repo
 - [x] fix the index page padding/margin of the posts list
 - [ ] add edit link to the posts pages
