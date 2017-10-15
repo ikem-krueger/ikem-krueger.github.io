@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Workaround FPDMA boot errors on Fedora
+tags: linux, fedora, grub2
 ---
 
 I had to fix a box with Fedora with boot errors like:
