@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cheap USP for the Raspberry Pi
+title: Cheap UPS for the Raspberry Pi
 tags:
 ---
 
