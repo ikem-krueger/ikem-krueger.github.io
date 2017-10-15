@@ -1,14 +1,26 @@
+---
+layout: post
+title: Working with modules
+tags: linux, modules
+---
+
 Boot command line:
 
-> cat /proc/cmdline
+```bash
+cat /proc/cmdline
+```
 
 List loaded modules:
 
-> lsmod
+```bash
+lsmod
+```
 
 If you want to know all possible module parameters:
 
-> modinfo -p libata
+```bash
+modinfo -p libata
+```
 
 See [kernel-parameters.txt](https://www.kernel.org/doc/Documentation/admin-guide/kernel-parameters.txt) for even more parameters.
 
