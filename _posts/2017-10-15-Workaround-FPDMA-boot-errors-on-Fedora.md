@@ -12,7 +12,7 @@ I had to fix a box with Fedora with boot errors like:
 [   11.631207] ata5.00: status: { DRDY }
 ```
 
-I found out, that you can workaround the error by disabling a feature called "[Native Command Queuing](https://en.wikipedia.org/wiki/Native_Command_Queuing)" or short "NCQ".
+I found out, that you can workaround the errors by disabling a feature called "[Native Command Queuing](https://en.wikipedia.org/wiki/Native_Command_Queuing)" or short "NCQ".
 
 You do that by open `/etc/default/grub` and edit the line `GRUB_CMDLINE_LINUX_DEFAULT` and add `libata.force=noncq`.
 
