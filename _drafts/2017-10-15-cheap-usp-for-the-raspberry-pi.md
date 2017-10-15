@@ -4,4 +4,4 @@ title: Cheap USP for the Raspberry Pi
 tags:
 ---
 
-lala
+Intenso Powerbank P5200
