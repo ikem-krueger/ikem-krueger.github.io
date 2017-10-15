@@ -18,4 +18,4 @@ So I went to:
 My Computer ‣ Properties ‣ Advanced ‣ Environment Variables
 ```
 
-Edit the system environment variable "Path" and added "C:\Program Files\Git\usr\bin".
+Edit the system environment variable `Path` and added `C:\Program Files\Git\usr\bin`.
