@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Workaround FPDMA boot errors on Fedora
+title: Workaround DMA boot errors on Fedora
 tags: linux, fedora, grub2
 ---
 
