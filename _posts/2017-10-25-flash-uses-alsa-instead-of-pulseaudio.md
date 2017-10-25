@@ -8,7 +8,9 @@ On my laptop I'm running Linux Mint Debian Edition.
 
 There I use Firefox. And everytime I opened a site where the Adobe Flash Player was required, VLC stopped playing music.
 
-You can check that yourself with:
+I remembered that PulseAudio need exclusive access to the soundcard. And that some programs use direct access to the soundcard via ALSA.
+
+So I checked for that with:
 
 ```
 fuser -v /dev/snd/*
