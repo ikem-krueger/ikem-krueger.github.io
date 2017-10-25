@@ -23,18 +23,13 @@ The output on using ALSA:
 /dev/snd/pcmC1D0p:   ikem     16017 F...m plugin-containe
 ```
 
-The output on using PulseAudio:
+I was opening Firefox `about:plugins` and checked `Shockwave Flash`.
 
 ```
-                     USER        PID ACCESS COMMAND
-/dev/snd/controlC0:  ikem     16017 F.... pulseaudio
-/dev/snd/controlC1:  ikem     16017 F.... pulseaudio
-/dev/snd/pcmC1D0p:   ikem     16017 F...m pulseaudio
+/opt/mint-flashplugin-11/libflashplayer.so
 ```
 
-Notice the change in the last lines.
-
-I checked then if there is more then one package which provides `libflashplayer.so`:
+I checked then if there is another package which provides `libflashplayer.so`:
 
 ```
 apt-file search libflashplayer.so
@@ -48,7 +43,9 @@ mint-flashplugin-11: /opt/mint-flashplugin-11/libflashplayer.so
 mint-flashplugin-24: /opt/mint-flashplugin-24/libflashplayer.so
 ```
 
-So I thought I give it a go and removed `mint-flashplugin-11`, `mint-flashplugin-24` and installed `flashplayer-mozilla`:
+So I thought, what if I remove the `mint-flashplugin` and use `flashplayer-mozilla` instead?
+
+I thought I give it a go and run:
 
 ```
 sudo apt-get remove mint-flashplugin-11 mint-flashplugin-24
