@@ -4,7 +4,9 @@ title: Fix Adobe Flash Player uses ALSA instead of PulseAudio
 tags: firefox, flashplayer, debian, linux, lmde
 ---
 
-I had the problem that Firefox the flash player plugin was using ALSA.
+On my laptop I'm running Linux Mint Debian Edition.
+
+There I use Firefox. And everytime I opened a site where the Adobe Flash Player was required, VLC stopped playing music.
 
 You can check that yourself with:
 
@@ -32,7 +34,11 @@ The output on using PulseAudio:
 
 Notice the change in the last lines.
 
+I checked then if there is more then one package which provides "libflashplayer.so":
 
+```
+apt-file search libflashplayer.so
+```
 
 ```
 sudo apt-get install flashplayer-mozilla
