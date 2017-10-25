@@ -40,8 +40,18 @@ I checked then if there is more then one package which provides "libflashplayer.
 apt-file search libflashplayer.so
 ```
 
+And I got:
+
+```
+flashplayer-mozilla: /usr/lib/flashplayer-mozilla/libflashplayer.so
+mint-flashplugin-11: /opt/mint-flashplugin-11/libflashplayer.so
+mint-flashplugin-24: /opt/mint-flashplugin-24/libflashplayer.so
+```
+
+So I thought I give it a go, and installed "flashplayer-mozilla":
+
 ```
 sudo apt-get install flashplayer-mozilla
 ```
 
-Which removes `mint-flashplugin-24, mint-flashplugin, mint-meta-debian-codecs`.
+And that fixed it.
