@@ -34,7 +34,7 @@ The output on using PulseAudio:
 
 Notice the change in the last lines.
 
-I checked then if there is more then one package which provides "libflashplayer.so":
+I checked then if there is more then one package which provides `libflashplayer.so`:
 
 ```
 apt-file search libflashplayer.so
@@ -48,10 +48,10 @@ mint-flashplugin-11: /opt/mint-flashplugin-11/libflashplayer.so
 mint-flashplugin-24: /opt/mint-flashplugin-24/libflashplayer.so
 ```
 
-So I thought I give it a go, and installed "flashplayer-mozilla":
+So I thought I give it a go, and installed `flashplayer-mozilla`:
 
 ```
 sudo apt-get install flashplayer-mozilla
 ```
 
-And that fixed it.
+Which replaced mint-flashplugin-24 that fixed it.
