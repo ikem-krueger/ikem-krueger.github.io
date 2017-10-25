@@ -22,6 +22,7 @@ fuser -v /dev/snd/*
 /dev/snd/controlC1:  ikem     16017 F.... pulseaudio
 /dev/snd/pcmC1D0p:   ikem     16031 F...m plugin-containe
 ```
+The `plugin-container` or `flash` was using the soundcard.
 
 I was opening Firefox `about:plugins` and looked at `Shockwave Flash`:
 
@@ -63,4 +64,6 @@ fuser -v /dev/snd/*
 /dev/snd/pcmC1D0p:   ikem     16023 F...m pulseaudio
 ```
 
-Which fixed it.
+Showed me, PulseAudio was used.
+
+Case closed.
