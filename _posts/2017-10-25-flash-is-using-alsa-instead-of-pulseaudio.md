@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fix Adobe Flash Player uses ALSA instead of PulseAudio
+title: Fix Adobe Flash Player is using ALSA instead of PulseAudio
 tags: firefox, flashplayer, debian, linux, lmde
 ---
 
