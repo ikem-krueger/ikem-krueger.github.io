@@ -16,3 +16,8 @@ do
   sudo ln -s /usr/bin/ccache /usr/local/bin/$f
 done
 ```
+
+```
+ccache -s
+```
+
