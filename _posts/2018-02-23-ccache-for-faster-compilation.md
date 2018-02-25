@@ -39,7 +39,7 @@ And after installing I run "which gcc" to make sure that the correct link is bei
 which gcc
 ```
 
-How do I check if ccache is used? Compile something and then run:
+How do you check if ccache is used? Compile something and then run:
 
 ```
 ccache -s
