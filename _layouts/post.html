@@ -15,8 +15,10 @@ layout: default
 
   <div class="edit">
     <a href="https://github.com/ikem-krueger/ikem-krueger.github.io/edit/master/{{page.path}}">Edit</a>
-    {{ file.mtime | date: "%Y-%m-%d" }}
-    {{ path.mtime | date: "%Y-%m-%d" }}
+  </div>
+  
+  <div class="last_edit">
+    Last edit: {{ site.mtime | date: "%Y-%m-%d %H:%M" }}
   </div>
   
   {% include disqus.html %}
