@@ -1,4 +1,4 @@
-Nachdem VMware Workstation Player 14 bei mir nicht wollte (weil sie den Support für meine CPU eingestellt haben), bin ich zur Version 12 gewechselt.
+After VMware Workstation Player 14 didn't like to work on my pc (because they cut the support for my cpu), I switched to version 12 of it.
 
 - [VMware Workstation Player 12](https://my.vmware.com/de/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0)
 - [macOS Unlocker for VMware V2.1](https://github.com/DrDonk/unlocker)
