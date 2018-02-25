@@ -44,3 +44,5 @@ How do you check if ccache is used? Compile something and then run:
 ```
 ccache -s
 ```
+
+[Edit](https://github.com/ikem-krueger/ikem-krueger.github.io/edit/master/_posts/2018-02-23-ccache-for-faster-compilation.md)
