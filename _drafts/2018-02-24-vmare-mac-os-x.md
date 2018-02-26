@@ -4,3 +4,5 @@ After VMware Workstation Player 14 didn't like to work on my pc (because they cu
 - [macOS Unlocker for VMware V2.1](https://github.com/DrDonk/unlocker)
 - [macOS 10.12 Sierra Final by TechReviews.rar](https://archive.org/details/MacOS10.12SierraFinalByTechReviews_201706).
 - [macOS 10.12.vmx](https://www.reddit.com/r/vmware/comments/541gp7/why_is_my_virtual_machine_not_loading/)
+
+On a german keyboard the `Alt Gr+L` gets you `@`.
