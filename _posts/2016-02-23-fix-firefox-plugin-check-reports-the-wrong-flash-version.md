@@ -16,8 +16,6 @@ I was curious, if I could open the “pluginreg.dat” and if so, what was in th
 
 I searched for “flash” and found a path:
 
-Content `inline quote`.
-
 ```
 C:\Windows\SysWOW64\Macromed\Flash
 ```
@@ -33,3 +31,5 @@ NPSWF32_20_0_0_306.dll
 FlashPlayerPlugin_19_0_0_245.exe
 NPSWF32_19_0_0_245.dll
 ```
+
+I deleted the later two files. Restarted Firefox. Run the plugin checker again and et violà! the plugin was shown as “up to date”.
