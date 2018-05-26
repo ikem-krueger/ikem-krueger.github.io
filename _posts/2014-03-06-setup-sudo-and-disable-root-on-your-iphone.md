@@ -8,10 +8,10 @@ tags: apple, iphone, cydia, sudo, cc by-nc-sa
 
 Beforehand you need to Jailbreak your iPhone!
 
-iOS 7.0.x use [evasi0n](http://evasi0n.com/)
-iOS 7.1.x use [Pangu 7](http://en.7.pangu.io/)
-iOS 8.0/8.1 use [Pangu 8](http://en.pangu.io/)
-iOS 8.1.3-8.3 use [TaiG](http://www.taig.com/en/)
+- iOS 7.0.x use [evasi0n](http://evasi0n.com/)
+- iOS 7.1.x use [Pangu 7](http://en.7.pangu.io/)
+- iOS 8.0/8.1 use [Pangu 8](http://en.pangu.io/)
+- iOS 8.1.3-8.3 use [TaiG](http://www.taig.com/en/)
 
 Open Cydia and install “APT 0.7 Strict”, “Sudo”, “nano”, “MTerminal” and “SSH Connect”.
 
