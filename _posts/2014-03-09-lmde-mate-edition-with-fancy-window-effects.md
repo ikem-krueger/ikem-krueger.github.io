@@ -10,7 +10,7 @@ Download the following files:
 
 - [compton_0.1~beta2-1_amd64.deb](http://ftp.de.debian.org/debian/pool/main/c/compton/compton_0.1%7Ebeta2-1_amd64.deb)
 - [compton.conf](https://pastebin.com/N2Ga2hPS)
-- [compton.desktop](https://pastebin.com/i2tcWBZk)
+- [compton.desktop](https://pastebin.com/7gSSj5Cg)
 
 Install “compton_0.1~beta2-1_amd64.deb”:
 
