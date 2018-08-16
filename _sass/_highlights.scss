@@ -1,4 +1,12 @@
 
+.post blockquote::before {
+  content: "”";
+  color: grey;
+  float: left;
+  font-size: 60px;
+  color: #CCCCCC;
+}
+
 .highlighter-rouge {
   background-color: #FFFFB9;
   display: inline;
