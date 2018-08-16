@@ -12,9 +12,7 @@ So I searched for a way to keep the cached files, to speed up the building proce
 
 From the site:
 
-```
-ccache is a compiler cache. It speeds up recompilation by caching previous compilations and detecting when the same compilation is being done again.
-```
+> ccache is a compiler cache. It speeds up recompilation by caching previous compilations and detecting when the same compilation is being done again.
 
 Under Debian you install ccache with:
 
