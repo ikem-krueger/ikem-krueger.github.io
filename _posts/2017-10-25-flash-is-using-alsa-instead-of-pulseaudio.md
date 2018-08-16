@@ -30,10 +30,7 @@ I was opening Firefox `about:plugins` and looked at `Shockwave Flash`:
 I checked if there is another package which provides `libflashplayer.so`:
 
 ```
-apt-file search libflashplayer.so
-```
-
-```
+user@box ~ $ apt-file search libflashplayer.so
 flashplayer-mozilla: /usr/lib/flashplayer-mozilla/libflashplayer.so
 mint-flashplugin-11: /opt/mint-flashplugin-11/libflashplayer.so
 mint-flashplugin-24: /opt/mint-flashplugin-24/libflashplayer.so
