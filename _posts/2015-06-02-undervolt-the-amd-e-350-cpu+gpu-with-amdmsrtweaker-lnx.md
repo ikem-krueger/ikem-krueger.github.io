@@ -22,7 +22,7 @@ sudo amdmsr
 Undervolt:
 
 ```
-sudo amdmsrt P0=16@1.2 P1=12.8@1.0 P2=8@0.8 NB_P0=0.85 NB_P1=0.8
+sudo amdmsr P0=16@1.2 P1=12.8@1.0 P2=8@0.8 NB_P0=0.85 NB_P1=0.8
 ```
 
 P-State=Multiplicator@Voltage
