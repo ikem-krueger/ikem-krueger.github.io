@@ -13,10 +13,7 @@ I remembered that some programs use direct access to the soundcard via ALSA and 
 So I checked who uses the soundcard:
 
 ```
-fuser -v /dev/snd/*
-```
-
-```
+user@box ~ $ fuser -v /dev/snd/*
                      USER        PID ACCESS COMMAND
 /dev/snd/controlC0:  ikem     16017 F.... pulseaudio
 /dev/snd/controlC1:  ikem     16017 F.... pulseaudio
@@ -54,7 +51,7 @@ sudo apt-get install flashplayer-mozilla
 And another:
 
 ```
-fuser -v /dev/snd/*
+user@box ~ $ fuser -v /dev/snd/*
 
                      USER        PID ACCESS COMMAND
 /dev/snd/controlC0:  ikem     16023 F.... pulseaudio
