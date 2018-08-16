@@ -6,7 +6,7 @@ tags: undervolt, amd, e350, brazos, zacate, cc by-nc-sa
 
 Download Undervolt:
 
-https://sourceforge.net/projects/undervolt/
+<https://sourceforge.net/projects/undervolt/>
 
 Load neccessary modules:
 
