@@ -6,7 +6,7 @@ tags: undervolt, amd, e350, brazos, zacate, cc by-nc-sa
 
 Download AmdMsrTweaker-Lnx:
 
-https://github.com/johkra/amdmsrtweaker-lnx
+<https://github.com/johkra/amdmsrtweaker-lnx>
 
 Load neccessary modules:
 
