@@ -4,7 +4,7 @@ title: Install mint-debian-mirrors on LMDE 2014
 tags: lmde, mint-debian-mirror, cc by-nc-sa
 ---
 
-Download [mint-debian-mirrors_2013.09.23_all.deb](http://mirror.internode.on.net/pub/linuxmint-packages/pool/main/m/mint-debian-mirrors/mint-debian-mirrors_2013.09.23_all.deb).
+Download [mint-debian-mirrors_2013.09.23_all.deb](http://packages.linuxmint.com/pool/main/m/mint-debian-mirrors/mint-debian-mirrors_2013.09.23_all.deb).
 
 Install the package with:
 
