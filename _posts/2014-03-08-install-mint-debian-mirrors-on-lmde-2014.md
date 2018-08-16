@@ -26,10 +26,6 @@ And then run:
 
 ```
 sudo mv /etc/apt/sources.list.d/official-package-repositories.list /etc/apt/sources.list
-```
-```
 mint-choose-debian-mirror
-```
-```
 sudo apt-get update
 ```
