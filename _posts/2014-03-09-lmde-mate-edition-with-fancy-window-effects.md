@@ -16,8 +16,7 @@ Install “compton_0.1~beta2-1_amd64.deb”:
 
 ```
 sudo dpkg -i compton_0.1~beta2-1_amd64.deb
-```
-```
+
 sudo apt-get -f install
 ```
 
