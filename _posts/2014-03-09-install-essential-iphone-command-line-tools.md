@@ -4,7 +4,7 @@ title: Install essential iPhone command line tools
 tags: apple, iphone, cydia, cc by-nc-sa
 ---
 
-First use Cydia to install “APT” and “MTerminal”!
+First use Cydia to install “APT” and “MTerminal”.
 
 Then open “MTerminal”:
 
