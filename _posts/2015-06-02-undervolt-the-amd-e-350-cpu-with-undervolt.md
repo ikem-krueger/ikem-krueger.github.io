@@ -4,7 +4,7 @@ title: Undervolt the AMD E-350 CPU with Undervolt
 tags: undervolt, amd, e350, brazos, zacate, cc by-nc-sa
 ---
 
-Download [Undervolt](https://sourceforge.net/projects/undervolt/).
+Download [Undervolt](https://sourceforge.net/projects/undervolt/), extract and compile it.
 
 
 Load neccessary modules:
