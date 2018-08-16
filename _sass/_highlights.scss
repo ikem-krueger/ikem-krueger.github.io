@@ -1,4 +1,9 @@
 
+.edit {
+  display: block;
+  padding: 10px 0px;
+}
+
 .post blockquote::before {
   content: "”";
   color: grey;
