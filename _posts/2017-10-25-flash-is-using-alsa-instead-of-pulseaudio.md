@@ -49,7 +49,6 @@ And another:
 
 ```
 user@box ~ $ fuser -v /dev/snd/*
-
                      USER        PID ACCESS COMMAND
 /dev/snd/controlC0:  ikem     16023 F.... pulseaudio
 /dev/snd/controlC1:  ikem     16023 F.... pulseaudio
