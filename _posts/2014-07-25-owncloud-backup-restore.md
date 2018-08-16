@@ -7,7 +7,7 @@ tags: owncloud, cc by-nc-sa
 Install owncloud:
 
 ```
-apt-get install owncloud
+sudo apt-get install owncloud
 ```
 
 Run the setup wizard.
