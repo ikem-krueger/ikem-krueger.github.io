@@ -25,9 +25,7 @@ I opened the Windows Explorer, opened the path and what did I saw? Two versions 
 ```
 FlashPlayerPlugin_20_0_0_306.exe
 NPSWF32_20_0_0_306.dll
-```
 
-```
 FlashPlayerPlugin_19_0_0_245.exe
 NPSWF32_19_0_0_245.dll
 ```
