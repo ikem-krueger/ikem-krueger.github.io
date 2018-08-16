@@ -12,8 +12,7 @@ Load neccessary modules:
 
 ```
 sudo modprobe msr
-```
-```
+
 sudo modprobe cpuid
 ```
 
