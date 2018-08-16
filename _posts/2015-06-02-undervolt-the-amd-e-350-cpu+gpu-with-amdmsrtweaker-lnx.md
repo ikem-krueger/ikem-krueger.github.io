@@ -4,7 +4,7 @@ title: Undervolt the AMD E-350 CPU+GPU with AmdMsrTweaker-Lnx
 tags: undervolt, amd, e350, brazos, zacate, cc by-nc-sa
 ---
 
-Download [AmdMsrTweaker-Lnx](https://github.com/johkra/amdmsrtweaker-lnx).
+Download [AmdMsrTweaker-Lnx](https://github.com/johkra/amdmsrtweaker-lnx), extract and compile it.
 
 Load neccessary modules:
 
