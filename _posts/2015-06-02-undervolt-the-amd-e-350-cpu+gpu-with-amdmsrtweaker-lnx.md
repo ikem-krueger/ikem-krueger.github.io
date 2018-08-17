@@ -28,3 +28,7 @@ sudo amdmsrt P0=16@1.2 P1=12.8@1.0 P2=8@0.8 NB_P0=0.85 NB_P1=0.8
 Where “P0=16@1.2” means:
 
 P-state “0”, multiplicator “16”, voltage “1.2” volts.
+
+PS:
+
+I wrote a daemon for it called [amdmsrt-daemon](https://gitlab.com/ikem-krueger/amdmsrt-daemon).
