@@ -25,8 +25,6 @@ Undervolt:
 sudo undervolt -p 0:0x1C,2.00 -p 1:0x2C,2.50 -p 2:0x3C,4.00
 ```
 
-P-State:Voltage_ID,Divider
-
 Example: “0:0x1C,2.00”
 
 P-state “0”, voltage id “0x1C”, divider “2.00”.
