@@ -28,7 +28,3 @@ sudo undervolt -p 0:0x1C,2.00 -p 1:0x2C,2.50 -p 2:0x3C,4.00
 Example: “0:0x1C,2.00”
 
 P-state “0”, voltage id “0x1C”, divider “2.00”.
-
-You have to experiment with the values!
-
-The values work on my pc, but that doesn’t mean they work on yours too!
