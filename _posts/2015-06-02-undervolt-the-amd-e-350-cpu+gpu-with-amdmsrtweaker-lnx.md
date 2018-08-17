@@ -28,7 +28,3 @@ sudo amdmsr P0=16@1.2 P1=12.8@1.0 P2=8@0.8 NB_P0=0.85 NB_P1=0.8
 Example: “P0=16@1.2”
 
 P-state “0”, multiplicator “16”, voltage “1.2” volts.
-
-You have to experiment with the values!
-
-The values work on my pc, but that doesn’t mean they work on yours too!
