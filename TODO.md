@@ -2,5 +2,5 @@
 - [ ] anchors like ubuntuusers wiki headers
 - [ ] add a link to the original repo
 - [x] fix the index page padding/margin of the posts list
-- [ ] add edit link to the posts pages
+- [x] add edit link to the posts pages
 - [ ] add version back/forth link to the posts pages
