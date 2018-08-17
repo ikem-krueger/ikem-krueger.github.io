@@ -1,3 +1,5 @@
+- [ ] add cc-by-sa licence banner
+- [ ] add about page
 - [ ] load disqus comments on click
 - [ ] anchors like ubuntuusers wiki headers
 - [ ] add a link to the original repo
