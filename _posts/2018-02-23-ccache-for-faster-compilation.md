@@ -4,7 +4,7 @@ title: CCache for faster compilation
 tags: debian, ubuntu, gcc, make, ccache
 ---
 
-I was working on Debian, modifying GPicView. My plan is to let them look a bit like IrfanView.
+I was working on Debian, modifying GPicView.
 
 So I got the sources, changed the source files, and build the package. I know that gcc, make, and some other tools create cache files, but they are thrown away, everytime the package is rebuild.
 
