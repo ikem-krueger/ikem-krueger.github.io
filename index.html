@@ -11,10 +11,5 @@ layout: default
       {{ post.date | date: "%Y-%m-%d: " }}<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br>
     {% endfor %}
   </div>
-
-  <div class="edit">
-    <a href="https://github.com/ikem-krueger/ikem-krueger.github.io/commits/master/index.html" target="_blank">History</a>
-    <a href="https://github.com/ikem-krueger/ikem-krueger.github.io/edit/master/index.html" target="_blank">Edit</a>
-  </div>
   {% include disqus.html %}
 </article>
