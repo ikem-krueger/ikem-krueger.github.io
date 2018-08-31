@@ -10,17 +10,13 @@ Specifications:
 
 | Motherboard: | ASUS IPIB-LB (Benicia) |
 | -- | -- |
+| BIOS: | AMI v5.43 |
 | Chipset: | Intel G33 (Bearlake) |
 | CPU: | Intel Core 2 Quad 9300 @ 2.50 GHz (Penryn) |
 | RAM: | 8 GB DDR2-RAM |
 | Video: | Intel G33/G31 Express Chipset |
 | Audio: | Realtek ALC888S |
 | Ethernet: | Realtek 8111C |
-
-| BIOS: ||
-| -- | -- |
-| Vendor: | AMI |
-| Version: | 5.43 |
 
 I bought this additional hardware:
 
