@@ -5,14 +5,14 @@ tags: mac os x, cc by-nc-sa
 ---
 HP Pavilion a6769de
 
-Motherboard: ASUS IPIB-LB (Benicia)
-
-Chipset: Intel G33 (Bearlake)
-CPU: Intel Core 2 Quad 9300 @ 2.50 GHz (Penryn)
-RAM: 8 GB DDR2-RAM
-Video: Intel G33/G31 Express Chipset
-Audio: Realtek ALC888S
-Ethernet: Realtek 8111C
+| Motherboard: | ASUS IPIB-LB (Benicia) |
+| :-- | :-- |
+| Chipset: | Intel G33 (Bearlake) |
+| CPU: | Intel Core 2 Quad 9300 @ 2.50 GHz (Penryn) |
+| RAM: | 8 GB DDR2-RAM |
+| Video: | Intel G33/G31 Express Chipset |
+| Audio: | Realtek ALC888S |
+| Ethernet: | Realtek 8111C |
 
 Additional:
 
