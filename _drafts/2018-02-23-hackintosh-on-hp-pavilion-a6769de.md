@@ -6,11 +6,12 @@ tags: mac os x, cc by-nc-sa
 
 I owe an [HP Pavilion a6769de](https://support.hp.com/us-en/product/hp-pavilion-a6700-desktop-pc-series/3823602/model/3886081/product-info).
 
+The motherboard is an ASUS IPIB-LB (Benicia).
+
 Specifications:
 
-| Motherboard: | ASUS IPIB-LB (Benicia) |
+|||
 | -- | -- |
-| BIOS: | AMI v5.43 |
 | Chipset: | Intel G33 (Bearlake) |
 | CPU: | Intel Core 2 Quad 9300 @ 2.50 GHz (Penryn) |
 | RAM: | 8 GB DDR2-RAM |
@@ -18,16 +19,29 @@ Specifications:
 | Audio: | Realtek ALC888S |
 | Ethernet: | Realtek 8111C |
 
+The Intel GMA 3100 is the problem child. Some people got them to work, but that's way over my head how they did it.
+
 I bought this additional hardware:
 
-|Other:||
+|||
 | -- | -- |
 | Video: | NVidia GeForce 8400 GS [10de:06e4] |
 | Audio: | Soundblaster SB 5.1 VX [1102:0007] |
 | WLAN: | Realtek 8812AU [0111:0bda] |
 | SSD: | SPCC Solid State Disk |
 
+The most important piece here is the Nvidia GeForce 8400 GS. Works out-of-the-box without intervention.
+
+The driver installed later, are for better performance.
+
 ## BIOS Settings
+
+|||
+| -- | -- |
+| Vendor: | AMI |
+| Version: | 5.43 |
+
+You get into the BIOS by hitting "F10". (You see an advanced menu with "Ctrl+F10".)
 
 Change the BIOS settings to:
 
@@ -36,6 +50,10 @@ Change the BIOS settings to:
 - Video: PCIe x16
 - Audio: internal disabled
 - Ethernet: disabled
+
+The boot device selection is shown by hitting "Esc".
+
+I owe an USB keyboard, and wait until "Numlock" starts to blink and then I hit "Esc".
 
 ### Create bootable USB stick
 
