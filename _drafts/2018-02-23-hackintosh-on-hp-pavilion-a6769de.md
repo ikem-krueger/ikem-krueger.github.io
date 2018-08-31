@@ -4,13 +4,11 @@ title: Hackintosh on HP Pavilion a6769de
 tags: mac os x, cc by-nc-sa
 ---
 
-I owe an [HP Pavilion a6769de](https://support.hp.com/us-en/product/hp-pavilion-a6700-desktop-pc-series/3823602/model/3886081/product-info).
-
-The motherboard is an ASUS IPIB-LB (Benicia).
+I owe an [HP Pavilion a6769de](https://support.hp.com/us-en/product/hp-pavilion-a6700-desktop-pc-series/3823602/model/3886081/product-info) desktop computer.
 
 Specifications:
 
-|||
+| Motherboard: | ASUS IPIB-LB (Benicia) |
 | -- | -- |
 | Chipset: | Intel G33 (Bearlake) |
 | CPU: | Intel Core 2 Quad 9300 @ 2.50 GHz (Penryn) |
