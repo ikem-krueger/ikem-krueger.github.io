@@ -14,7 +14,7 @@ HP Pavilion a6769de
 | Audio: | Realtek ALC888S |
 | Ethernet: | Realtek 8111C |
 
-| Additional: ||
+|Other:||
 | -- | -- |
 | Video: | NVidia GeForce 8400 GS [10de:06e4] |
 | Audio: | Soundblaster SB 5.1 VX [1102:0007] |
