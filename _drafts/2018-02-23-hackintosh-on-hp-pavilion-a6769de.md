@@ -6,8 +6,6 @@ tags: mac os x, cc by-nc-sa
 
 I owe an [HP Pavilion a6769de](https://support.hp.com/us-en/product/hp-pavilion-a6700-desktop-pc-series/3823602/model/3886081/product-info) desktop computer.
 
-Specifications:
-
 | Motherboard: | ASUS IPIB-LB (Benicia) |
 | -- | -- |
 | Chipset: | Intel G33 (Bearlake) |
