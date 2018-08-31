@@ -75,8 +75,6 @@ Change the BIOS settings to:
 
 The boot device selection is shown by hitting "Esc".
 
-I owe an USB keyboard, and wait until "Numlock" starts to blink and then I hit "Esc".
-
 ### Install additional drivers (kexts)
 
 - Realtek 8812AU [[Direct Link]](https://rehmann.co/blog/wp-content/uploads/2017/12/MacOS10.9_MacOS10.12_Driver.zip) [[Source]](https://rehmann.co/blog/amazonbasics-usb-wifi-adapter-driver/)
