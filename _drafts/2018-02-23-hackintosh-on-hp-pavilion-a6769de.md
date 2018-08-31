@@ -6,7 +6,7 @@ tags: mac os x, cc by-nc-sa
 HP Pavilion a6769de
 
 | Motherboard: | ASUS IPIB-LB (Benicia) |
-| :-- | :-- |
+| -- | -- |
 | Chipset: | Intel G33 (Bearlake) |
 | CPU: | Intel Core 2 Quad 9300 @ 2.50 GHz (Penryn) |
 | RAM: | 8 GB DDR2-RAM |
@@ -14,12 +14,12 @@ HP Pavilion a6769de
 | Audio: | Realtek ALC888S |
 | Ethernet: | Realtek 8111C |
 
-Additional:
-
-Video: NVidia GeForce 8400 GS [10de:06e4]
-Audio: Soundblaster SB 5.1 VX [1102:0007]
-WLAN: Realtek 8812AU [0111:0bda]
-SSD: SPCC Solid State Disk
+| Additional: ||
+| -- | -- |
+| Video: | NVidia GeForce 8400 GS [10de:06e4] |
+| Audio: | Soundblaster SB 5.1 VX [1102:0007] |
+| WLAN: | Realtek 8812AU [0111:0bda] |
+| SSD: | SPCC Solid State Disk |
 
 BIOS
 
