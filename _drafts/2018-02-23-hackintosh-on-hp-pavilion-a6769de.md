@@ -26,7 +26,9 @@ HP Pavilion a6769de
 | Vendor: | AMI |
 | Version: | 5.43 |
 
-### BIOS Settings
+## BIOS Settings
+
+Change the BIOS settings to:
 
 - SATA mode: AHCI
 - Firewire: disabled
@@ -43,6 +45,10 @@ Download "CloverBootDiskCreator.exe", "Clover.img" and "OSX_10.13.6_Installer.hf
 Follow the instructions on [here](https://www.aioboot.com/en/clover-boot-disk/#Clover-Boot-Disk-Creator) to create the USB stick.
 
 ### Clover boot fix
+
+When you install Mac OS X High Sierra on an SSD, it automatically create an APFS volume.
+
+You need to configure Clover to deal with that:
 
 ```
 mv EFI/CLOVER/drivers-Off/drivers64/ApfsDriverLoader-64.efi EFI/CLOVER/drivers64/ApfsDriverLoader-64.efi
