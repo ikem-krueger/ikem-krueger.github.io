@@ -38,20 +38,23 @@ Settings:
 
 Download CloverBootDiskCreator.exe, Clover.img and OSX_10.13.6_Installer.hfs from https://www.aioboot.com/en/clover-boot-disk/
 
-#### Clover boot fix
+### Clover boot fix
 
+```
 mv EFI/CLOVER/drivers-Off/drivers64/ApfsDriverLoader-64.efi EFI/CLOVER/drivers64/ApfsDriverLoader-64.efi
-
 mv EFI/CLOVER/drivers-Off/drivers64UEFI/ApfsDriverLoader-64.efi EFI/CLOVER/drivers64UEFI/ApfsDriverLoader-64.efi
+```
 
 ### Install additional drivers (kexts)
 
-Realtek 8812AU MacOS10.9_MacOS10.12_Driver.zip https://rehmann.co/blog/amazonbasics-usb-wifi-adapter-driver/
+Realtek 8812AU [MacOS10.9_MacOS10.12_Driver.zip](https://rehmann.co/blog/wp-content/uploads/2017/12/MacOS10.9_MacOS10.12_Driver.zip) https://rehmann.co/blog/amazonbasics-usb-wifi-adapter-driver/
 
 NVidia GeForce 8400 GS https://github.com/Benjamin-Dobell/nvidia-update
 
 ### Install Clover to harddisk
 
+```
 diskutil mount EFI
+```
 
 custom install
