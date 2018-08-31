@@ -17,7 +17,7 @@ I owe an [HP Pavilion a6769de](https://support.hp.com/us-en/product/hp-pavilion-
 
 I checked if I can install Mac OS X High Sierra on it.
 
-There is no real tool for it. Accourding to [this](https://hardforum.com/threads/hackintosh-mobos.1740462/#post-1039528003) guy, it boils down to this:
+Compatibility boils down to (accourding to [this guy](https://hardforum.com/threads/hackintosh-mobos.1740462/#post-1039528003)):
 
 - [x] Intel Chipset, not nvidia or the like
 - [x] Core 2 Duo 775 or above (1156, 1366, 1155, 2011 compatible)
