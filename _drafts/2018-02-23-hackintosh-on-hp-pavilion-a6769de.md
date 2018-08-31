@@ -48,6 +48,8 @@ Download "CloverBootDiskCreator.exe", "Clover.img" and "OSX_10.13.6_Installer.hf
 
 Follow the instructions on [here](https://www.aioboot.com/en/clover-boot-disk/#Clover-Boot-Disk-Creator) to create the USB stick.
 
+![Foo](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/images/Clover-Boot-Disk-Creator.jpg "Bar")
+
 #### Fix Clover
 
 When you install Mac OS X High Sierra on an SSD, it automatically create an APFS volume.
