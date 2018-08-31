@@ -1,0 +1,57 @@
+---
+layout: post
+title: Hackintosh on HP Pavilion a6769de
+tags: mac os x, cc by-nc-sa
+---
+HP Pavilion a6769de
+
+Motherboard: ASUS IPIB-LB (Benicia)
+
+Chipset: Intel G33 (Bearlake)
+CPU: Intel Core 2 Quad 9300 @ 2.50 GHz (Penryn)
+RAM: 8 GB DDR2-RAM
+Video: Intel G33/G31 Express Chipset
+Audio: Realtek ALC888S
+Ethernet: Realtek 8111C
+
+Additional:
+
+Video: NVidia GeForce 8400 GS [10de:06e4]
+Audio: Soundblaster SB 5.1 VX [1102:0007]
+WLAN: Realtek 8812AU [0111:0bda]
+SSD: SPCC Solid State Disk
+
+BIOS
+
+Vendor: AMI
+Version: 5.43
+
+Settings:
+
+SATA mode: AHCI
+Firewire: disabled
+Video: PCIe x16
+Audio: internal disabled
+Ethernet: disabled
+
+### Create bootable USB-stick
+
+Download CloverBootDiskCreator.exe, Clover.img and OSX_10.13.6_Installer.hfs from https://www.aioboot.com/en/clover-boot-disk/
+
+#### Clover boot fix
+
+mv EFI/CLOVER/drivers-Off/drivers64/ApfsDriverLoader-64.efi EFI/CLOVER/drivers64/ApfsDriverLoader-64.efi
+
+mv EFI/CLOVER/drivers-Off/drivers64UEFI/ApfsDriverLoader-64.efi EFI/CLOVER/drivers64UEFI/ApfsDriverLoader-64.efi
+
+### Install additional drivers (kexts)
+
+Realtek 8812AU MacOS10.9_MacOS10.12_Driver.zip https://rehmann.co/blog/amazonbasics-usb-wifi-adapter-driver/
+
+NVidia GeForce 8400 GS https://github.com/Benjamin-Dobell/nvidia-update
+
+### Install Clover to harddisk
+
+diskutil mount EFI
+
+custom install
