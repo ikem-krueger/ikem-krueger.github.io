@@ -3,7 +3,10 @@ layout: post
 title: Hackintosh on HP Pavilion a6769de
 tags: mac os x, cc by-nc-sa
 ---
-HP Pavilion a6769de
+
+I owe an HP Pavilion a6769de.
+
+Specifications:
 
 | Motherboard: | ASUS IPIB-LB (Benicia) |
 | -- | -- |
@@ -14,17 +17,19 @@ HP Pavilion a6769de
 | Audio: | Realtek ALC888S |
 | Ethernet: | Realtek 8111C |
 
+| BIOS: ||
+| -- | -- |
+| Vendor: | AMI |
+| Version: | 5.43 |
+
+I bought this additional hardware:
+
 |Other:||
 | -- | -- |
 | Video: | NVidia GeForce 8400 GS [10de:06e4] |
 | Audio: | Soundblaster SB 5.1 VX [1102:0007] |
 | WLAN: | Realtek 8812AU [0111:0bda] |
 | SSD: | SPCC Solid State Disk |
-
-| BIOS: ||
-| -- | -- |
-| Vendor: | AMI |
-| Version: | 5.43 |
 
 ## BIOS Settings
 
