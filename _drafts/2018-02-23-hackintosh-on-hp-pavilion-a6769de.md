@@ -34,11 +34,13 @@ HP Pavilion a6769de
 - Audio: internal disabled
 - Ethernet: disabled
 
-### Create bootable USB-stick
+### Create bootable USB stick
+
+You need Windows to create the USB stick.
 
 Download "CloverBootDiskCreator.exe", "Clover.img" and "OSX_10.13.6_Installer.hfs" from [here](https://www.aioboot.com/en/clover-boot-disk/#Download).
 
-Follow the instructions on [here](https://www.aioboot.com/en/clover-boot-disk/#Clover-Boot-Disk-Creator) to create the usb stick.
+Follow the instructions on [here](https://www.aioboot.com/en/clover-boot-disk/#Clover-Boot-Disk-Creator) to create the USB stick.
 
 ### Clover boot fix
 
