@@ -48,7 +48,7 @@ Follow the instructions on [here](https://www.aioboot.com/en/clover-boot-disk/#C
 
 When you install Mac OS X High Sierra on an SSD, it automatically create an APFS volume.
 
-You need to configure Clover to deal with that:
+You need to configure Clover to recognize them:
 
 ```
 mv EFI/CLOVER/drivers-Off/drivers64/ApfsDriverLoader-64.efi EFI/CLOVER/drivers64/ApfsDriverLoader-64.efi
