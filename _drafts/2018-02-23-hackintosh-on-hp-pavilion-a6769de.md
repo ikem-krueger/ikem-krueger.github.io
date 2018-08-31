@@ -17,7 +17,15 @@ Specifications:
 | Audio: | Realtek ALC888S |
 | Ethernet: | Realtek 8111C |
 
-The Intel GMA 3100 is the problem child. Some people got them to work, but that's way over my head how they did it.
+I checked if I can install Mac OS X High Sierra on it. There is no real tool for it. 
+
+But it boils down to this:
+
+- 1
+- 2
+- 3
+
+The Intel GMA 3100 is a problem child. Some people got them to work, I'm not one of them.
 
 I bought this additional hardware:
 
