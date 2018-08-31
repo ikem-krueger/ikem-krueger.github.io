@@ -36,7 +36,9 @@ HP Pavilion a6769de
 
 ### Create bootable USB-stick
 
-Download CloverBootDiskCreator.exe, Clover.img and OSX_10.13.6_Installer.hfs from https://www.aioboot.com/en/clover-boot-disk/
+Download "CloverBootDiskCreator.exe", "Clover.img" and "OSX_10.13.6_Installer.hfs" from [here](https://www.aioboot.com/en/clover-boot-disk/#Download).
+
+Follow the instructions on [here](https://www.aioboot.com/en/clover-boot-disk/#Clover-Boot-Disk-Creator) to create the usb stick.
 
 ### Clover boot fix
 
