@@ -6,15 +6,6 @@ tags: mac os x, cc by-nc-sa
 
 I owe an [HP Pavilion a6769de](https://support.hp.com/us-en/product/hp-pavilion-a6700-desktop-pc-series/3823602/model/3886081/product-info) desktop computer.
 
-| Motherboard: | ASUS IPIB-LB (Benicia) |
-| -- | -- |
-| Chipset: | Intel G33 (Bearlake) |
-| CPU: | Intel Core 2 Quad 9300 @ 2.50 GHz (Penryn) |
-| RAM: | 8 GB DDR2-RAM |
-| Video: | Intel G33/G31 Express Chipset |
-| Audio: | Realtek ALC888S |
-| Ethernet: | Realtek 8111C |
-
 I checked if I can install Mac OS X High Sierra on it. There is no real tool for it. 
 
 But it boils down to this:
@@ -24,6 +15,15 @@ But it boils down to this:
 3. Realtek audio
 4. Realtek 8111 Ethernet or some Intel chips
 5. A supported video card (ATI - 5850, 5870, 5770, 6850, 6870, Nvidia - 640 or above (any 6xx), 520 or above, Intel - HD3000 or HD4000)
+
+| Motherboard: | ASUS IPIB-LB (Benicia) |
+| -- | -- |
+| Chipset: | Intel G33 (Bearlake) |
+| CPU: | Intel Core 2 Quad 9300 @ 2.50 GHz (Penryn) |
+| RAM: | 8 GB DDR2-RAM |
+| Video: | Intel G33/G31 Express Chipset |
+| Audio: | Realtek ALC888S |
+| Ethernet: | Realtek 8111C |
 
 The Intel GMA 3100 is a problem child. Some people got them to work, I'm not one of them.
 
