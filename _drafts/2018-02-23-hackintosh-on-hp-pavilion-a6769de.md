@@ -26,7 +26,7 @@ HP Pavilion a6769de
 | Vendor: | AMI |
 | Version: | 5.43 |
 
-Settings:
+### BIOS Settings
 
 - SATA mode: AHCI
 - Firewire: disabled
