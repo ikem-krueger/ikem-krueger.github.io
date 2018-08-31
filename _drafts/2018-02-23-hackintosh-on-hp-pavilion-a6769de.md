@@ -6,15 +6,17 @@ tags: mac os x, cc by-nc-sa
 
 I owe an [HP Pavilion a6769de](https://support.hp.com/us-en/product/hp-pavilion-a6700-desktop-pc-series/3823602/model/3886081/product-info) desktop computer.
 
-I checked if I can install Mac OS X High Sierra on it. There is no real tool for it. 
+I checked if I can install Mac OS X High Sierra on it.
 
-But it boils down to this:
+There is no real tool for it. But it boils down to this:
 
 1. Intel Chipset, not nvidia or the like
 2. Core 2 Duo 775 or above (1156, 1366, 1155, 2011 compatible)
 3. Realtek audio
 4. Realtek 8111 Ethernet or some Intel chips
 5. A supported video card (ATI - 5850, 5870, 5770, 6850, 6870, Nvidia - 640 or above (any 6xx), 520 or above, Intel - HD3000 or HD4000)
+
+[[Source](https://hardforum.com/threads/hackintosh-mobos.1740462/#post-1039528003)]
 
 | Motherboard: | ASUS IPIB-LB (Benicia) |
 | -- | -- |
