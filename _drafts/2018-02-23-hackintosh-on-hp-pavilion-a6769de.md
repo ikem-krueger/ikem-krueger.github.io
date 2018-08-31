@@ -21,18 +21,18 @@ HP Pavilion a6769de
 | WLAN: | Realtek 8812AU [0111:0bda] |
 | SSD: | SPCC Solid State Disk |
 
-BIOS
-
-Vendor: AMI
-Version: 5.43
+| BIOS: ||
+| -- | -- |
+| Vendor: | AMI |
+| Version: | 5.43 |
 
 Settings:
 
-SATA mode: AHCI
-Firewire: disabled
-Video: PCIe x16
-Audio: internal disabled
-Ethernet: disabled
+- SATA mode: AHCI
+- Firewire: disabled
+- Video: PCIe x16
+- Audio: internal disabled
+- Ethernet: disabled
 
 ### Create bootable USB-stick
 
