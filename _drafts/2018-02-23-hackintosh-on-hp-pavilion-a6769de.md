@@ -40,7 +40,26 @@ The most important piece here is the Nvidia GeForce 8400 GS. Works out-of-the-bo
 
 The driver installed later, are for better performance.
 
-## BIOS Settings
+### Create a bootable USB stick
+
+You need Windows to create the USB stick.
+
+Download "CloverBootDiskCreator.exe", "Clover.img" and "OSX_10.13.6_Installer.hfs" from [here](https://www.aioboot.com/en/clover-boot-disk/#Download).
+
+Follow the instructions on [here](https://www.aioboot.com/en/clover-boot-disk/#Clover-Boot-Disk-Creator) to create the USB stick.
+
+#### Fix Clover
+
+When you install Mac OS X High Sierra on an SSD, it automatically create an APFS volume.
+
+You need to configure Clover to recognize them:
+
+```
+mv EFI/CLOVER/drivers-Off/drivers64/ApfsDriverLoader-64.efi EFI/CLOVER/drivers64/ApfsDriverLoader-64.efi
+mv EFI/CLOVER/drivers-Off/drivers64UEFI/ApfsDriverLoader-64.efi EFI/CLOVER/drivers64UEFI/ApfsDriverLoader-64.efi
+```
+
+### Change the BIOS settings
 
 |||
 | -- | -- |
@@ -52,33 +71,11 @@ You get into the BIOS by hitting "F10". (You see an advanced menu with "Ctrl+F10
 Change the BIOS settings to:
 
 - SATA mode: AHCI
-- Firewire: disabled
 - Video: PCIe x16
-- Audio: internal disabled
-- Ethernet: disabled
 
 The boot device selection is shown by hitting "Esc".
 
 I owe an USB keyboard, and wait until "Numlock" starts to blink and then I hit "Esc".
-
-### Create bootable USB stick
-
-You need Windows to create the USB stick.
-
-Download "CloverBootDiskCreator.exe", "Clover.img" and "OSX_10.13.6_Installer.hfs" from [here](https://www.aioboot.com/en/clover-boot-disk/#Download).
-
-Follow the instructions on [here](https://www.aioboot.com/en/clover-boot-disk/#Clover-Boot-Disk-Creator) to create the USB stick.
-
-### Clover boot fix
-
-When you install Mac OS X High Sierra on an SSD, it automatically create an APFS volume.
-
-You need to configure Clover to recognize them:
-
-```
-mv EFI/CLOVER/drivers-Off/drivers64/ApfsDriverLoader-64.efi EFI/CLOVER/drivers64/ApfsDriverLoader-64.efi
-mv EFI/CLOVER/drivers-Off/drivers64UEFI/ApfsDriverLoader-64.efi EFI/CLOVER/drivers64UEFI/ApfsDriverLoader-64.efi
-```
 
 ### Install additional drivers (kexts)
 
