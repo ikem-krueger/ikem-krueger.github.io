@@ -37,12 +37,12 @@ Download "CloverBootDiskCreator.exe", "Clover.img" and "OSX_10.13.6_Installer.hf
 
 Then run the "CloverBootDiskCreator.exe".
 
+![](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/images/Clover-Boot-Disk-Creator.jpg "Clover Boot Disk Creator")
+
 1. Clover: Select the Clover.img file.
 2. OSX: Selects the OSX_10.13.6_Installer.hfs file.
 3. Target Disk: Select your USB.
 4. Click OK.
-
-![Foo](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/images/Clover-Boot-Disk-Creator.jpg "Bar")
 
 #### Fix Clover
 
