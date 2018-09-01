@@ -61,9 +61,13 @@ The boot device selection is shown by hitting "Esc".
 
 Download [Clover](https://sourceforge.net/projects/cloverefiboot/).
 
+Mount EFI partition:
+
 ```
 diskutil mount EFI
 ```
+
+![Foo](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/images/Screen-Shot-2017-12-14-at-03.22.58.png "Bar")
 
 ![Foo](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/images/Screen-Shot-2017-12-14-at-03.23.26.png "Bar")
 
