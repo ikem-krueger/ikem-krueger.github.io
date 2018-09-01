@@ -89,6 +89,8 @@ Mount the EFI partition:
 diskutil mount EFI
 ```
 
+Install Clover:
+
 ![](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/images/Screen-Shot-2017-12-14-at-03.22.58.png "Clover Installation Type before clicking the Customize button")
 
 ![](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/images/Screen-Shot-2017-12-14-at-03.23.26.png "Clover Installation Type after clicking the Customize button")
