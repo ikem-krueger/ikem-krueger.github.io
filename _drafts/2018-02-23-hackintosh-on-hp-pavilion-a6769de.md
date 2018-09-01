@@ -8,7 +8,7 @@ I owe an [HP Pavilion a6769de](https://support.hp.com/us-en/product/hp-pavilion-
 
 I checked if I can install Mac OS X High Sierra on it.
 
-Compatibility boils down to (accourding to [this guy](https://hardforum.com/threads/hackintosh-mobos.1740462/#post-1039528003)):
+Compatibility boils down to:
 
 - [x] Intel Chipset, not nvidia or the like
 - [x] Core 2 Duo 775 or above (1156, 1366, 1155, 2011 compatible)
@@ -18,7 +18,7 @@ Compatibility boils down to (accourding to [this guy](https://hardforum.com/thre
 
 The Intel GMA 3100 is a problem child. Some people got them to work, I'm not one of them.
 
-Hence I bought a Nvidia GeForce 8400 GS. This card works out-of-the-box without intervention.
+Hence I bought an Nvidia GeForce 8400 GS. This card works out-of-the-box without intervention.
 
 ### Create a bootable USB stick
 
