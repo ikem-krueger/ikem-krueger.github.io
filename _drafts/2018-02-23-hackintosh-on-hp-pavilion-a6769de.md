@@ -6,6 +6,15 @@ tags: mac os x, cc by-nc-sa
 
 I owe an [HP Pavilion a6769de](https://support.hp.com/us-en/product/hp-pavilion-a6700-desktop-pc-series/3823602/model/3886081/product-info) desktop computer.
 
+ | Motherboard: | ASUS IPIB-LB (Benicia) |
+ | -- | -- |
+ | Chipset: | Intel G33 (Bearlake) |
+ | CPU: | Intel Core 2 Quad 9300 @ 2.50 GHz (Penryn) |
+ | RAM: | 8 GB DDR2-RAM |
+ | Video: | Intel G33/G31 Express Chipset |
+ | Audio: | Realtek ALC888S |
+ | Ethernet: | Realtek 8111C |
+
 I checked if I can install Mac OS X High Sierra on it.
 
 Compatibility boils down to:
