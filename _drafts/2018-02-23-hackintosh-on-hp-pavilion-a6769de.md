@@ -97,6 +97,6 @@ Install Clover:
 
 ### Install additional drivers (kexts)
 
-- Realtek 8812AU [[Direct Link]](https://rehmann.co/blog/wp-content/uploads/2017/12/MacOS10.9_MacOS10.12_Driver.zip) [[Source]](https://rehmann.co/blog/amazonbasics-usb-wifi-adapter-driver/)
+- Realtek 8812AU [[Direct Link]](https://github.com/chris1111/Wireless-USB-Adapter-Clover/files/1835745/Wireless.USB.Adapter.Clover.zip) [[Source]](https://github.com/chris1111/Wireless-USB-Adapter-Clover)
 
 - NVidia GeForce 8400 GS [[Direct Link]](https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/master/nvidia-update.sh) [[Source]](https://github.com/Benjamin-Dobell/nvidia-update)
