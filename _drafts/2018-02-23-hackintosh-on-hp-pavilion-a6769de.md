@@ -25,7 +25,7 @@ Compatibility boils down to:
 - [x] Realtek 8111 Ethernet or some Intel chips
 - [x] A supported video card (ATI - 5850, 5870, 5770, 6850, 6870, Nvidia - 640 or above (any 6xx), 520 or above, Intel - HD3000 or HD4000)
 
-The Intel GMA 3100 is a problem child. Some people got them to work, I'm not one of them.
+The Intel GMA 3100 is a problem child. Some people got them to [work](https://www.insanelymac.com/forum/topic/325283-desktop-intel-hd-3000-graphics/), I'm none of them.
 
 Hence I bought an Nvidia GeForce 8400 GS. This card works out-of-the-box without intervention.
 
