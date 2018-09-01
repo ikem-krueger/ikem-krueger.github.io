@@ -6,15 +6,6 @@ tags: mac os x, cc by-nc-sa
 
 I owe an [HP Pavilion a6769de](https://support.hp.com/us-en/product/hp-pavilion-a6700-desktop-pc-series/3823602/model/3886081/product-info) desktop computer.
 
-| Motherboard: | ASUS IPIB-LB (Benicia) |
-| -- | -- |
-| Chipset: | Intel G33 (Bearlake) |
-| CPU: | Intel Core 2 Quad 9300 @ 2.50 GHz (Penryn) |
-| RAM: | 8 GB DDR2-RAM |
-| Video: | Intel G33/G31 Express Chipset |
-| Audio: | Realtek ALC888S |
-| Ethernet: | Realtek 8111C |
-
 I checked if I can install Mac OS X High Sierra on it.
 
 Compatibility boils down to (accourding to [this guy](https://hardforum.com/threads/hackintosh-mobos.1740462/#post-1039528003)):
@@ -27,18 +18,7 @@ Compatibility boils down to (accourding to [this guy](https://hardforum.com/thre
 
 The Intel GMA 3100 is a problem child. Some people got them to work, I'm not one of them.
 
-I bought this additional hardware:
-
-|||
-| -- | -- |
-| Video: | NVidia GeForce 8400 GS [10de:06e4] |
-| Audio: | Soundblaster SB 5.1 VX [1102:0007] |
-| WLAN: | Realtek 8812AU [0111:0bda] |
-| SSD: | SPCC Solid State Disk |
-
-The most important piece here is the Nvidia GeForce 8400 GS. Works out-of-the-box without intervention.
-
-The driver installed later, are for better performance.
+Hence I bought a Nvidia GeForce 8400 GS. This card works out-of-the-box without intervention.
 
 ### Create a bootable USB stick
 
