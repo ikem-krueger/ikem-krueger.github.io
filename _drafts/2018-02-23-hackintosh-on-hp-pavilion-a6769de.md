@@ -65,7 +65,19 @@ Change the BIOS settings to:
 - SATA mode: AHCI
 - Video: PCIe x16
 
-The boot device selection is shown by hitting "Esc".
+### Booting from the USB stick
+
+When the boot screen is shown, hit "Esc" to see the boot device selection screen.
+
+Select the USB stick, and hit "Enter".
+
+Choose "Boot Macintosh Install from HD".
+
+Be patient. It takes around 5 minutes, until the Mac OS X installer screen shows up.
+
+### Install Mac OS X High Sierra
+
+The installation takes around 30 minutes. With around three reboots in between.
 
 ### Install Clover to harddisk
 
