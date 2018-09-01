@@ -35,7 +35,12 @@ You need Windows to create the USB stick.
 
 Download "CloverBootDiskCreator.exe", "Clover.img" and "OSX_10.13.6_Installer.hfs" from [here](https://www.aioboot.com/en/clover-boot-disk/#Download).
 
-Follow the instructions [here](https://www.aioboot.com/en/clover-boot-disk/#Clover-Boot-Disk-Creator) to create the USB stick.
+Then run the "CloverBootDiskCreator.exe".
+
+1. Clover: Select the Clover.img file.
+2. OSX: Selects the OSX_10.13.6_Installer.hfs file.
+3. Target Disk: Select your USB.
+4. Click OK.
 
 ![Foo](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/images/Clover-Boot-Disk-Creator.jpg "Bar")
 
