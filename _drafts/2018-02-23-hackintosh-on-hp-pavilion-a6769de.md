@@ -73,7 +73,7 @@ The boot device selection is shown by hitting "Esc".
 
 ### Install Clover to harddisk
 
-Download the [Clover](https://sourceforge.net/projects/cloverefiboot/) installation package.
+Download the [Clover Installation Package](https://sourceforge.net/projects/cloverefiboot/files/latest/download).
 
 Mount the EFI partition:
 
