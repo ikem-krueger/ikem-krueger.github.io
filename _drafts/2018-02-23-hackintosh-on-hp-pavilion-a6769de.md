@@ -8,6 +8,7 @@ I owe an [HP Pavilion a6769de](https://support.hp.com/us-en/product/hp-pavilion-
 
  | Motherboard: | ASUS IPIB-LB (Benicia) |
  | -- | -- |
+ | BIOS: | AMI v5.43 |
  | Chipset: | Intel G33 (Bearlake) |
  | CPU: | Intel Core 2 Quad 9300 @ 2.50 GHz (Penryn) |
  | RAM: | 8 GB DDR2-RAM |
@@ -56,11 +57,6 @@ mv EFI/CLOVER/drivers-Off/drivers64UEFI/ApfsDriverLoader-64.efi EFI/CLOVER/drive
 ```
 
 ### Change the BIOS settings
-
-|||
-| -- | -- |
-| Vendor: | AMI |
-| Version: | 5.43 |
 
 You get into the BIOS by hitting "F10". (You see an advanced menu with "Ctrl+F10".)
 
