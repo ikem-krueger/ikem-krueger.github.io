@@ -20,7 +20,7 @@ You get something like:
 5:692  0:000  - [10]: Volume: PcieRoot(0x0)\Pci(0x1F,0x2)\Sata(0x2,0x0,0x0)\HD(3,MBR,0x58CA9BE8,0x128A6800,0x172000)
 ```
 
-You can see I have two disks.
+I have two disks.
 
 My first disk on "Sata(0x0,0x0,0x0)" has two volumes (partitions):
 
@@ -36,6 +36,8 @@ HD(1,MBR,0x58CA9BE8,0x800,0x1327A0)
 HD(2,MBR,0x58CA9BE8,0x133000,0x127732EA)
 HD(3,MBR,0x58CA9BE8,0x128A6800,0x172000)
 ```
+
+To determine what disk to hide, we use "diskutil" to get an idea of the disk/volume layout.
 
 ```
 diskutil list
@@ -67,6 +69,22 @@ You get something like:
    3:               Windows_NTFS                         775.9 MB   disk2s3
 
 ```
+
+The mapping goes like this:
+
+The disk on "Sata(0x0,0x0,0x0)" belongs to "/dev/disk0".
+
+"HD(1,GPT,98DD79E1-77B8-4493-8C6D-1EB22CD317D9,0x28,0x64000)" to "disk0s1".
+"HD(2,GPT,C8C1F84F-2102-4F9F-AF56-E1329F1D18D1,0x64028,0x1BEC0460)" to "disk0s2".
+
+The disk on "Sata(0x2,0x0,0x0)" belongs to "/dev/disk2".
+
+"HD(1,MBR,0x58CA9BE8,0x800,0x1327A0)" to "disk2s1".
+"HD(2,MBR,0x58CA9BE8,0x133000,0x127732EA)" to "disk2s2".
+"HD(3,MBR,0x58CA9BE8,0x128A6800,0x172000)" to "disk2s3".
+
+
+-----
 
 Mount the EFI partition:
 
