@@ -37,6 +37,37 @@ HD(2,MBR,0x58CA9BE8,0x133000,0x127732EA)
 HD(3,MBR,0x58CA9BE8,0x128A6800,0x172000)
 ```
 
+```
+diskutil list
+```
+
+You get something like: 
+
+```
+/dev/disk0 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *240.1 GB   disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:                 Apple_APFS Container disk1         239.8 GB   disk0s2
+
+/dev/disk1 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +239.8 GB   disk1
+                                 Physical Store disk0s2
+   1:                APFS Volume Macintosh HD            73.8 GB    disk1s1
+   2:                APFS Volume Preboot                 39.8 MB    disk1s2
+   3:                APFS Volume Recovery                5.2 GB     disk1s3
+   4:                APFS Volume VM                      20.5 KB    disk1s4
+
+/dev/disk2 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:     FDisk_partition_scheme                        *160.0 GB   disk2
+   1:               Windows_NTFS System-reserviert       642.7 MB   disk2s1
+   2:               Windows_NTFS Windows                 158.6 GB   disk2s2
+   3:               Windows_NTFS                         775.9 MB   disk2s3
+
+```
+
 Mount the EFI partition:
 
 ```
