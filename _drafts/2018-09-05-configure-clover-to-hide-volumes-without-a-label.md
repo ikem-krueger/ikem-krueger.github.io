@@ -29,7 +29,7 @@ HD(1,GPT,98DD79E1-77B8-4493-8C6D-1EB22CD317D9,0x28,0x64000)
 HD(2,GPT,C8C1F84F-2102-4F9F-AF56-E1329F1D18D1,0x64028,0x1BEC0460)
 ```
 
-My second disk on "Sata(0x`2`,0x0,0x0)" has three volumes (partitions):
+My second disk on "Sata(0x2,0x0,0x0)" has three volumes (partitions):
 
 ```
 HD(1,MBR,0x58CA9BE8,0x800,0x1327A0)
@@ -72,16 +72,16 @@ You get something like:
 
 The mapping goes like this:
 
-The disk on "Sata(0x0,0x0,0x0)" belongs to "/dev/disk0".
+The disk on "Sata(0x`0`,0x0,0x0)" belongs to "/dev/disk`0`".
 
-- "HD(1,GPT,98DD79E1-77B8-4493-8C6D-1EB22CD317D9,0x28,0x64000)" to "disk0s1".
-- "HD(2,GPT,C8C1F84F-2102-4F9F-AF56-E1329F1D18D1,0x64028,0x1BEC0460)" to "disk0s2".
+- "HD(`1`,GPT,98DD79E1-77B8-4493-8C6D-1EB22CD317D9,0x28,0x64000)" to "disk0s`1`".
+- "HD(`2`,GPT,C8C1F84F-2102-4F9F-AF56-E1329F1D18D1,0x64028,0x1BEC0460)" to "disk0s`2`".
 
-The disk on "Sata(0x2,0x0,0x0)" belongs to "/dev/disk2".
+The disk on "Sata(0x`2`,0x0,0x0)" belongs to "/dev/disk`2`".
 
-- "HD(1,MBR,0x58CA9BE8,0x800,0x1327A0)" to "disk2s1".
-- "HD(2,MBR,0x58CA9BE8,0x133000,0x127732EA)" to "disk2s2".
-- "HD(3,MBR,0x58CA9BE8,0x128A6800,0x172000)" to "disk2s3".
+- "HD(`1`,MBR,0x58CA9BE8,0x800,0x1327A0)" to "disk2s`1`".
+- "HD(`2`,MBR,0x58CA9BE8,0x133000,0x127732EA)" to "disk2s`2`".
+- "HD(`3`,MBR,0x58CA9BE8,0x128A6800,0x172000)" to "disk2s`3`".
 
 
 -----
