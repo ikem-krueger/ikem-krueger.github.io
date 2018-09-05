@@ -10,7 +10,7 @@ Show all possible volumes:
 bdmesg|grep 'Volume: .*HD([0-9],.*)'
 ```
 
-You get something like: 
+Output: 
 
 ```
 5:689  0:000  - [06]: Volume: PcieRoot(0x0)\Pci(0x1F,0x2)\Sata(0x0,0x0,0x0)\HD(1,GPT,98DD79E1-77B8-4493-8C6D-1EB22CD317D9,0x28,0x64000)
@@ -37,13 +37,13 @@ HD(2,MBR,0x58CA9BE8,0x133000,0x127732EA)
 HD(3,MBR,0x58CA9BE8,0x128A6800,0x172000)
 ```
 
-To determine what disk to hide, we use "diskutil" to get an idea of the disk/volume layout.
+To determine what disk to hide, we use "diskutil" to get an idea of the disk layout.
 
 ```
 diskutil list
 ```
 
-You get something like: 
+Output: 
 
 ```
 /dev/disk0 (internal, physical):
