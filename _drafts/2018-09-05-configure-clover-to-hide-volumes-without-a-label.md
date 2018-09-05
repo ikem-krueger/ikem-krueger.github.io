@@ -37,7 +37,7 @@ HD(2,MBR,0x58CA9BE8,0x133000,0x127732EA)
 HD(3,MBR,0x58CA9BE8,0x128A6800,0x172000)
 ```
 
-To determine what disk to hide, we use "diskutil" to get an idea of the disk layout.
+To determine what disk to hide, we use "diskutil" to get an idea of the disk layout:
 
 ```
 diskutil list
