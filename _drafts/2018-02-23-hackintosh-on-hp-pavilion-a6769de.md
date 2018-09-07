@@ -22,13 +22,15 @@ I checked if I can install Mac OS X High Sierra on it.
 
 Compatibility boils down to:
 
-- [ ] Intel Chipset (not NVidia or the like)
-- [ ] Core 2 Duo 775 or above (1156, 1366, 1155, 2011 compatible)
-- [ ] Realtek audio
-- [ ] Realtek 8111 Ethernet or some Intel chips
-- [ ] A supported video card (ATI - 5850, 5870, 5770, 6850, 6870, NVidia - 640 or above (any 6xx), 520 or above, Intel - HD3000 or HD4000)
+- [x] Intel Chipset (not NVidia or the like)
+- [x] Core 2 Duo 775 or above (1156, 1366, 1155, 2011 compatible)
+- [x] Realtek audio
+- [x] Realtek 8111 Ethernet or some Intel chips
+- [x] A supported video card (ATI - 5850, 5870, 5770, 6850, 6870, NVidia - 640 or above (any 6xx), 520 or above, Intel - HD3000 or HD4000)
 
-The Intel GMA 3100 is a problem child. Some people got them to [work](https://www.insanelymac.com/forum/topic/325283-desktop-intel-hd-3000-graphics/), I'm none of them.
+All of my hardware is supported. 
+
+Troublesome is the Intel GMA 3100 and the Realtek ALC888S.
 
 I bought:
 
