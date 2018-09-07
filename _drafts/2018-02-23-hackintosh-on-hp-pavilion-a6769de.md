@@ -53,7 +53,7 @@ Then run the "CloverBootDiskCreator.exe".
 
 1. Select the Clover.img file
 2. Select the OSX_10.13.6_Installer.hfs file
-3. Select your USB
+3. Select your USB drive
 4. Click "OK"
 
 #### Fix Clover
