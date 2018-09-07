@@ -50,7 +50,7 @@ Then run the "CloverBootDiskCreator.exe".
 1. Select the Clover.img file
 2. Select the OSX_10.13.6_Installer.hfs file
 3. Select your USB
-4. Click OK
+4. Click "OK"
 
 #### Fix Clover
 
@@ -107,3 +107,7 @@ Install Clover:
 - Realtek 8812AU [[Direct Link]](https://github.com/chris1111/Wireless-USB-Adapter-Clover/files/1835745/Wireless.USB.Adapter.Clover.zip) [[Source]](https://github.com/chris1111/Wireless-USB-Adapter-Clover)
 
 - NVidia GeForce 8400 GS [[Direct Link]](https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/master/nvidia-update.sh) [[Source]](https://github.com/Benjamin-Dobell/nvidia-update)
+
+### Additonal fixes
+
+TODO
