@@ -28,7 +28,7 @@ Compatibility boils down to:
 
 The Intel GMA 3100 is a problem child. Some people got them to [work](https://www.insanelymac.com/forum/topic/325283-desktop-intel-hd-3000-graphics/), I'm none of them.
 
-Hence I bought an Nvidia GeForce 8400 GS. This card works out-of-the-box without intervention.
+I bought:
 
 | Additional: ||
 | -- | -- |
@@ -47,10 +47,10 @@ Then run the "CloverBootDiskCreator.exe".
 
 ![](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/images/Clover-Boot-Disk-Creator.jpg "Clover Boot Disk Creator")
 
-1. Clover: Select the Clover.img file.
-2. OSX: Select the OSX_10.13.6_Installer.hfs file.
-3. Target Disk: Select your USB.
-4. Click OK.
+1. Select the Clover.img file
+2. Select the OSX_10.13.6_Installer.hfs file
+3. Select your USB
+4. Click OK
 
 #### Fix Clover
 
