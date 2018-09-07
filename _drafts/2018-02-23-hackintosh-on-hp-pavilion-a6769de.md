@@ -30,6 +30,13 @@ The Intel GMA 3100 is a problem child. Some people got them to [work](https://ww
 
 Hence I bought an Nvidia GeForce 8400 GS. This card works out-of-the-box without intervention.
 
+| Additional: ||
+| -- | -- |
+| Video: | NVidia GeForce 8400 GS [10DE:06E4] |
+| Audio: | Sound Blaster Tactic(3D) Alpha [30DC:041E] |
+| WLAN: | Realtek 8812AU [0111:0BDA] |
+| SSD: | SPCC Solid State Disk |
+
 ### Create a bootable USB stick
 
 You need Windows to create the USB stick.
@@ -41,7 +48,7 @@ Then run the "CloverBootDiskCreator.exe".
 ![](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/images/Clover-Boot-Disk-Creator.jpg "Clover Boot Disk Creator")
 
 1. Clover: Select the Clover.img file.
-2. OSX: Selects the OSX_10.13.6_Installer.hfs file.
+2. OSX: Select the OSX_10.13.6_Installer.hfs file.
 3. Target Disk: Select your USB.
 4. Click OK.
 
@@ -73,11 +80,11 @@ Select the USB stick, and hit "Enter".
 
 Choose "Boot Macintosh Install from HD".
 
-Be patient. It takes around 5 minutes, until the Mac OS X installer screen shows up.
+Be patient. It takes around 5 minutes until the Mac OS X installer screen shows up.
 
 ### Install Mac OS X High Sierra
 
-The installation takes around 30 minutes. With around three reboots in between.
+The installation takes around 30 minutes, with three reboots in between.
 
 ### Install Clover to harddisk
 
