@@ -115,3 +115,9 @@ Install Clover:
 ### Additonal fixes
 
 TODO
+
+### Tweaks
+
+```
+trimforce enable
+```
