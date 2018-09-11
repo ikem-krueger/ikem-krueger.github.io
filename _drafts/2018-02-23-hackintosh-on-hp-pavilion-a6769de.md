@@ -118,15 +118,15 @@ Settings -> Energy Saver -> Computer Sleep: Never
 
 ### Tweaks
 
-Enable TRIM:
-
-```
-trimforce enable
-```
-
 Enable subpixel font rendering on non-Apple LCDs:
 
 ```
 defaults write NSGlobalDomain AppleFontSmoothing -int 2
+```
+
+Enable TRIM:
+
+```
+trimforce enable
 ```
 
