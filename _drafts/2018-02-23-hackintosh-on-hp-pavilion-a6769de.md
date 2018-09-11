@@ -121,7 +121,7 @@ Settings -> Energy Saver -> Computer Sleep: Never
 Enable subpixel font rendering on non-Apple LCDs:
 
 ```
-defaults write NSGlobalDomain AppleFontSmoothing -int 2
+defaults -currentHost write -globalDomain AppleFontSmoothing -int 2
 ```
 
 Enable TRIM:
