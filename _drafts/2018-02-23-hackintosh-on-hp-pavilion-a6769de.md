@@ -114,7 +114,7 @@ Install Clover:
 
 ### Additonal fixes
 
-TODO
+Settings -> Energy Saver -> Computer Sleep: Never
 
 ### Tweaks
 
