@@ -6,7 +6,7 @@ tags: debian, ubuntu, gcc, make, ccache
 
 I was working on Debian, modifying GPicView.
 
-I have to edit the source and compiling them several times.
+I have to edit and compile the source several times.
 
 I know that it is a time costly process and I know that gcc, make, and some other tools create cache files, but throw them away after the binary is build.
 
