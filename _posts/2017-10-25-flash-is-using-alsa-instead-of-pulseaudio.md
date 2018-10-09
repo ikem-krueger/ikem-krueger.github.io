@@ -6,9 +6,9 @@ tags: firefox, flashplayer, debian, linux, lmde
 
 On my laptop I'm running Linux Mint Debian Edition.
 
-There I use Firefox. And everytime I opened a site where the Adobe Flash Player was required, VLC stopped playing music.
+I use Firefox, and everytime I opened a site where the Adobe Flash Player was used, VLC stopped playing music.
 
-I remembered that some programs use direct access to the soundcard via ALSA and PulseAudio need exclusive access to the soundcard.
+I vaguely remembered that some programs use ALSA to direct access the soundcard. But PulseAudio needs exclusive access to the soundcard to work properly.
 
 So I checked who uses the soundcard:
 
@@ -19,9 +19,9 @@ user@box ~ $ fuser -v /dev/snd/*
 /dev/snd/controlC1:  ikem     16017 F.... pulseaudio
 /dev/snd/pcmC1D0p:   ikem     16031 F...m plugin-containe
 ```
-The `plugin-container` or `flash` was using the soundcard.
+The `plugin-container` was using the soundcard. And `plugin-container` usual means `flash`.
 
-I was opening Firefox `about:plugins` and looked at `Shockwave Flash`:
+So I was opening Firefox `about:plugins` and looked at `Shockwave Flash`, which showed the path of the plugin used:
 
 ```
 /opt/mint-flashplugin-11/libflashplayer.so
@@ -36,9 +36,9 @@ mint-flashplugin-11: /opt/mint-flashplugin-11/libflashplayer.so
 mint-flashplugin-24: /opt/mint-flashplugin-24/libflashplayer.so
 ```
 
-And I thought, what if I replace the `mint-flashplugin` with the `flashplayer-mozilla` instead?
+And I thought: "What if I replace the `mint-flashplugin` with the `flashplayer-mozilla`?"
 
-So I tried it and run:
+So I run:
 
 ```
 sudo apt-get remove mint-flashplugin-11 mint-flashplugin-24
@@ -55,6 +55,6 @@ user@box ~ $ fuser -v /dev/snd/*
 /dev/snd/pcmC1D0p:   ikem     16023 F...m pulseaudio
 ```
 
-Showed me, PulseAudio was used.
+Showed me, PulseAudio was being used.
 
 Case closed.
