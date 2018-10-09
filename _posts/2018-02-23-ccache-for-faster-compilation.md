@@ -6,7 +6,9 @@ tags: debian, ubuntu, gcc, make, ccache
 
 I was working on Debian, modifying GPicView.
 
-I know that gcc, make, and some other tools create cache files, but they are thrown away, everytime the package is rebuild.
+I have to edit the source and compiling them several times.
+
+I know that it is a time costly process and I know that gcc, make, and some other tools create cache files, but throw them away after the binary is build.
 
 So I looked for a way to keep the cached files, to speed up the building process. And that's where I found [ccache](https://ccache.samba.org/).
 
