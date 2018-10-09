@@ -22,7 +22,7 @@ Under Debian you install ccache with:
 sudo apt-get install ccache
 ```
 
-But how do you use ccache for all compilations? Well, the question is answered [here](https://ccache.samba.org/manual/latest.html#_run_modes).
+But how do I use ccache for all compilations? The question is answered [here](https://ccache.samba.org/manual/latest.html#_run_modes).
 
 I decided for the "symlinks" method:
 
