@@ -19,3 +19,5 @@ My Computer ‣ Properties ‣ Advanced ‣ Environment Variables
 ```
 
 Edit the system environment variable `Path` and added `C:\Program Files\Git\usr\bin`.
+
+And now I have access to all the little GNU tools on my Windows box. :)
