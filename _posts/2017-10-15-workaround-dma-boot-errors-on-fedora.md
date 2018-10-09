@@ -4,7 +4,7 @@ title: Workaround DMA boot errors on Fedora
 tags: linux, fedora, grub2
 ---
 
-I had to fix a box with Fedora with boot errors like:
+I had to fix a laptop with Fedora with boot errors like:
 
 ```
 [   11.631123] ata5.00: failed command: READ FPDMA QUEUED
