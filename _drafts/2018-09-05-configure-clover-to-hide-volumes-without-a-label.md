@@ -83,6 +83,8 @@ The disk on "Sata(0x`2`,0x0,0x0)" belongs to "/dev/disk`2`" with the volumes:
 - HD(`2`,MBR,0x58CA9BE8,0x133000,0x127732EA) --> disk2s`2`
 - HD(`3`,MBR,0x58CA9BE8,0x128A6800,0x172000) --> disk2s`3`
 
-Open "Clover Configurator", go to the section "Gui" and look for "Hide Volume". 
+Open "Clover Configurator". Go to the section "Gui" and look for "Hide Volume". 
 
-Now click on "+" and hit "Enter". Paste "HD(3,MBR,0x58CA9BE8,0x128A6800,0x172000)", safe, done.
+Now click on "+" and hit "Enter". 
+
+Paste "HD(3,MBR,0x58CA9BE8,0x128A6800,0x172000)", "Enter", safe and you're done.
