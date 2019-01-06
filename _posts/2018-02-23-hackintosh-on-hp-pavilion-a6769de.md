@@ -8,13 +8,13 @@ I owe an [HP Pavilion a6769de](https://support.hp.com/us-en/product/hp-pavilion-
 
  | Hardware | Name |
  | :-- | :-- |
- | Motherboard: | ASUS IPIB-LB (Benicia) |
- | BIOS: | AMI v5.43 |
- | Chipset: | Intel G33 (Bearlake) |
- | CPU: | Intel Core 2 Quad 9300 @ 2.50 GHz (Penryn) |
- | RAM: | 8 GB DDR2-RAM |
- | Video: | Intel G33/G31 Express Chipset |
- | Audio: | Realtek ALC888S |
+ | Motherboard | ASUS IPIB-LB (Benicia) |
+ | BIOS | AMI v5.43 |
+ | Chipset | Intel G33 (Bearlake) |
+ | CPU | Intel Core 2 Quad 9300 @ 2.50 GHz (Penryn) |
+ | RAM | 8 GB DDR2-RAM |
+ | Video | Intel G33/G31 Express Chipset |
+ | Audio | Realtek ALC888S |
  | Ethernet: | Realtek 8111C |
 
 I checked if I can install Mac OS X High Sierra on it.
@@ -38,10 +38,10 @@ I bought:
 
  | Hardware | Name |
  | :-- | :-- |
- | Video: | NVidia GeForce GT 710 [10DE:128B] |
- | Audio: | Sound Blaster Tactic(3D) Alpha [30DC:041E] |
- | WLAN: | Realtek 8812AU [0111:0BDA] |
- | SSD: | SPCC Solid State Disk |
+ | Video | NVidia GeForce GT 710 [10DE:128B] |
+ | Audio | Sound Blaster Tactic(3D) Alpha [30DC:041E] |
+ | WLAN | Realtek 8812AU [0111:0BDA] |
+ | SSD | SPCC Solid State Disk |
 
 ### Create a bootable USB stick
 
