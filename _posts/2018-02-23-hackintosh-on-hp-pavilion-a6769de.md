@@ -69,6 +69,10 @@ mv EFI/CLOVER/drivers-Off/drivers64/ApfsDriverLoader-64.efi EFI/CLOVER/drivers64
 mv EFI/CLOVER/drivers-Off/drivers64UEFI/ApfsDriverLoader-64.efi EFI/CLOVER/drivers64UEFI/ApfsDriverLoader-64.efi
 ```
 
+#### Configure Clover
+
+[TODO]
+
 ### Change the BIOS settings
 
 You get into the BIOS by hitting "F10". (You see an advanced menu with "Ctrl+F10".)
