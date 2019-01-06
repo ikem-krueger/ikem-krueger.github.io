@@ -6,10 +6,9 @@ tags: mac os x, cc by-nc-sa
 
 I owe an [HP Pavilion a6769de](https://support.hp.com/us-en/product/hp-pavilion-a6700-desktop-pc-series/3823602/model/3886081/product-info) desktop computer.
 
-Specifications:
-
+ | Hardware | Name |
+ | :-- | :-- |
  | Motherboard: | ASUS IPIB-LB (Benicia) |
- | -- | -- |
  | BIOS: | AMI v5.43 |
  | Chipset: | Intel G33 (Bearlake) |
  | CPU: | Intel Core 2 Quad 9300 @ 2.50 GHz (Penryn) |
@@ -37,12 +36,12 @@ Troublesome is the Intel GMA 3100 and the Realtek ALC888S.
 
 I bought:
 
-| Additional: ||
-| -- | -- |
-| Video: | NVidia GeForce GT 710 [10DE:128B] |
-| Audio: | Sound Blaster Tactic(3D) Alpha [30DC:041E] |
-| WLAN: | Realtek 8812AU [0111:0BDA] |
-| SSD: | SPCC Solid State Disk |
+ | Hardware | Name |
+ | :-- | :-- |
+ | Video: | NVidia GeForce GT 710 [10DE:128B] |
+ | Audio: | Sound Blaster Tactic(3D) Alpha [30DC:041E] |
+ | WLAN: | Realtek 8812AU [0111:0BDA] |
+ | SSD: | SPCC Solid State Disk |
 
 ### Create a bootable USB stick
 
