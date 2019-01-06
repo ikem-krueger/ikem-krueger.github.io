@@ -15,7 +15,7 @@ I owe an [HP Pavilion a6769de](https://support.hp.com/us-en/product/hp-pavilion-
  | RAM | 8 GB DDR2-RAM |
  | Video | Intel G33/G31 Express Chipset |
  | Audio | Realtek ALC888S |
- | Ethernet: | Realtek 8111C |
+ | Ethernet | Realtek 8111C |
 
 I checked if I can install Mac OS X High Sierra on it.
 
