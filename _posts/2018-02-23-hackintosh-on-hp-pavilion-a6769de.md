@@ -108,6 +108,10 @@ Install Clover:
 
 ![](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/images/Screen-Shot-2017-12-14-at-03.23.26.png "Clover Installation Type after clicking the Customize button")
 
+### Fix Clover
+
+See fix above.
+
 ### Configure Clover
 
 [TODO]
