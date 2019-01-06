@@ -22,13 +22,16 @@ I checked if I can install Mac OS X High Sierra on it.
 
 Compatibility boils down to:
 
-- [x] Intel Chipset (not NVidia or the like)
+- [x] Intel Chipset
 - [x] Core 2 Duo 775 or above (1156, 1366, 1155, 2011 compatible)
 - [x] Realtek audio
 - [x] Realtek 8111 Ethernet or some Intel chips
-- [x] A supported video card (ATI - 5850, 5870, 5770, 6850, 6870, NVidia - 640 or above (any 6xx), 520 or above, Intel - HD3000 or HD4000)
+- [x] A supported video card:
+  - Intel - HD3000 or HD4000
+  - ATI - 5850, 5870, 5770, 6850, 6870
+  - NVidia - 520 or above, 640 or above (any 6xx)
 
-All of my hardware is supported. 
+Almost all of my hardware is supported. 
 
 Troublesome is the Intel GMA 3100 and the Realtek ALC888S.
 
@@ -36,7 +39,7 @@ I bought:
 
 | Additional: ||
 | -- | -- |
-| Video: | NVidia GeForce 8400 GS [10DE:06E4] |
+| Video: | NVidia GeForce GT 710 [10DE:128B] |
 | Audio: | Sound Blaster Tactic(3D) Alpha [30DC:041E] |
 | WLAN: | Realtek 8812AU [0111:0BDA] |
 | SSD: | SPCC Solid State Disk |
@@ -110,9 +113,9 @@ Install Clover:
 
 - Realtek 8812AU [[Direct Link]](https://github.com/chris1111/Wireless-USB-Adapter-Clover/files/1835745/Wireless.USB.Adapter.Clover.zip) [[Source]](https://github.com/chris1111/Wireless-USB-Adapter-Clover)
 
-- NVidia GeForce 8400 GS [[Direct Link]](https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/master/nvidia-update.sh) [[Source]](https://github.com/Benjamin-Dobell/nvidia-update)
+- NVidia GeForce GT 710 [[Direct Link]](https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/master/nvidia-update.sh) [[Source]](https://github.com/Benjamin-Dobell/nvidia-update)
 
-### Additonal fixes
+### Workarounds
 
 Settings -> Energy Saver -> Computer Sleep: Never
 
