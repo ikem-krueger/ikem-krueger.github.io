@@ -21,11 +21,11 @@ I checked if I can install Mac OS X High Sierra on it.
 
 Compatibility boils down to:
 
-- [x] Chipset: Intel
-- [x] CPU: Core 2 Duo 775 or above (1156, 1366, 1155, 2011 compatible)
-- [x] Audio: Realtek
-- [x] Ethernet: Realtek 8111 or Intel
-- [x] Video:
+- Chipset: Intel
+- CPU: Core 2 Duo 775 or above (1156, 1366, 1155, 2011 compatible)
+- Audio: Realtek
+- Ethernet: Realtek 8111 or Intel
+- Video:
   - Intel - HD3000 or HD4000
   - ATI - 5850, 5870, 5770, 6850, 6870
   - NVidia - 520 or above, 640 or above (any 6xx)
