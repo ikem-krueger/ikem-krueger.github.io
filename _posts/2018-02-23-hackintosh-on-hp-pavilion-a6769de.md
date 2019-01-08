@@ -8,7 +8,7 @@ I owe an [HP Pavilion a6769de](https://support.hp.com/us-en/product/hp-pavilion-
 
  | Hardware | Name |
  | :-- | :-- |
- | Motherboard | ASUS IPIB-LB (Benicia) |
+ | Motherboard | ASUS IPIBL-LB (Benicia) |
  | BIOS | AMI v5.43 |
  | Chipset | Intel G33 (Bearlake) |
  | CPU | Intel Core 2 Quad 9300 @ 2.50 GHz (Penryn) |
