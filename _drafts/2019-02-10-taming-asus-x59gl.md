@@ -70,7 +70,7 @@ Total: 13€
 
 ### Work hours:
 
-* ?€ Better don't count that
+* ?€ Better don't count that...
 
 ### Overall costs:
 
