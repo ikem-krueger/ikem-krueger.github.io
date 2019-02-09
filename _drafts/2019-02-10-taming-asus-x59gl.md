@@ -32,7 +32,7 @@ I checked what CPU upgrade were possible. The PGA478 socket allowed any Intel Co
 
 I looked for several things: a similar cpu, with the same TDP, and a reasonable price.
 
-I decided to upgrade the processor from an [Intel Pentium T3200](http://www.cpu-world.com/sspec/SL/SLAVG.html) to an [Intel Core 2 Duo T9400].
+I decided to upgrade the processor from an [Intel Pentium T3200](http://www.cpu-world.com/sspec/SL/SLAVG.html) to an [Intel Core 2 Duo T9400](http://www.cpu-world.com/sspec/SL/SLGEK.html).
 
 After plugging the cpu in the socket, adding heat paste, hitting power, the laptop... didn't started.
 
