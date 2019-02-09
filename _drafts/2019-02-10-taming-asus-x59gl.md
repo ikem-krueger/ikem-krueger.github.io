@@ -1,3 +1,9 @@
+---
+layout: post
+title: Taming ASUS X59GL
+tags: windows
+---
+
 The ASUS X59GL has a heat issue.
 
 The ASUS X59GL cpu and gpu are on the same heatpipe.
@@ -56,16 +62,16 @@ Aufgabenplanung.
 
 ### Parts:
 
-  5€ [Intel Core 2 Duo T9400]
-+ 5€ [2GB RAM]
-+ 3€ [Thermal Paste]
+  5â‚¬ [Intel Core 2 Duo T9400]
++ 5â‚¬ [2GB RAM]
++ 3â‚¬ [Thermal Paste]
 ----
- 13€
+ 13â‚¬
 
 ### Work hours:
 
-?€ Better don't count that
+?â‚¬ Better don't count that
 
 ### Overall costs:
 
-13€ + ?€ = 13€
+13â‚¬ + ?â‚¬ = 13â‚¬
