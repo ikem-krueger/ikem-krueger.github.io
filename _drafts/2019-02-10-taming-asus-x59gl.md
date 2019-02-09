@@ -72,6 +72,6 @@ Total: 13€
 
 * ?€ Better don't count that...
 
-### Overall costs:
+### Total:
 
 13€ Parts + ?€ Work hours = 13€ Total
