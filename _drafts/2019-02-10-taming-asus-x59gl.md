@@ -14,7 +14,7 @@ It took me a while to find that out.
 
 ## Upgrade
 
-This ASUS X59GL comes pre-configured with an Intel Pentium T3200 Dual Core with 2GHz, 3GB RAM, 250GB HDD and a DVD-Burner. Shipped with Windows Vista Home Premium 32bit.
+This ASUS X59GL comes pre-configured with an Intel Pentium T3200 Dual Core @ 2GHz, 3GB RAM, 250GB HDD and a DVD-Burner. Shipped with Windows Vista Home Premium 32bit.
 
 ### OS upgrade
 
@@ -73,3 +73,13 @@ Total: 13€
 ### Total:
 
 13€ Parts + ?€ Work hours = 13€ Total
+
+## Conclusion
+
+ASUS X59GL has now an Intel Core 2 Duo @ 2.5GHz, 4GB RAM.
+
+Web browsing, watching Youtube videos works fine. Older games should run too.
+
+## Future improvements
+
+I suggest to replace the fan with a [newer one]. And replacing the 250GB HDD with a [250GB SSD].
