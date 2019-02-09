@@ -78,7 +78,11 @@ Total: 13€
 
 ASUS X59GL has now an Intel Core 2 Duo @ 2.5GHz, 4GB RAM.
 
-Web browsing, watching Youtube videos works fine. Older games should run too.
+Windows 7 works very well on it.
+
+Web browsing, watching Youtube videos works fine. Older games should work too.
+
+It had become a working horse. An old working horse.
 
 ## Future improvements
 
