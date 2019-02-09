@@ -62,11 +62,11 @@ Aufgabenplanung.
 
 ### Parts:
 
-  5€ [Intel Core 2 Duo T9400]
-+ 5€ [2GB RAM]
-+ 3€ [Thermal Paste]
-----
- 13€
+* 5€ [Intel Core 2 Duo T9400]
+* 5€ [2GB RAM]
+* 3€ [Thermal Paste]
+
+Total: 13€
 
 ### Work hours:
 
