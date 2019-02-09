@@ -26,7 +26,7 @@ I went for Windows 7 Home Premium 64bit.
 
 The Intel Pentium T3200 is one of the worse cpus.
 
-It has no SpeedStep, and a mini cache. Both leads to a mediocre performance.
+It has no SpeedStep, and L3 cache of 1MB. Both leads to a mediocre performance.
 
 I checked what CPU upgrade were possible. The PGA478 socket allowed any Intel Core 2 Duo/Quad.
 
