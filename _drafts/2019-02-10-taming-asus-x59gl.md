@@ -74,4 +74,4 @@ Total: 13€
 
 ### Overall costs:
 
-Parts 13€ + Work hours ?€ = 13€
+13€ Parts + ?€ Work hours = 13€ Total
