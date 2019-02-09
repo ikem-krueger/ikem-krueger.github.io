@@ -76,7 +76,7 @@ Total: 13€
 
 ## Conclusion
 
-ASUS X59GL has now an Intel Core 2 Duo @ 2.5GHz, 4GB RAM.
+ASUS X59GL has now an Intel Core 2 Duo @ 2.5GHz, 4GB RAM, 250GB HDD.
 
 Windows 7 works very well on it.
 
