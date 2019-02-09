@@ -30,7 +30,7 @@ The Intel Pentium T3200 is one of the worse cpus.
 
 It has no SpeedStep, and a mini cache. Both leads to a mediocre performance.
 
-I checked what CPU upgrade were possible. The foo socket allowed any Intel Core 2 Duo/Quad.
+I checked what CPU upgrade were possible. The PGA775 socket allowed any Intel Core 2 Duo/Quad.
 
 I looked for several things: a similar cpu, with the same TDP, and a reasonable price.
 
