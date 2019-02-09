@@ -34,7 +34,7 @@ I looked for several things: a similar cpu, with the same TDP, and a reasonable 
 
 I decided to upgrade the processor from an [Intel Pentium T3200](http://www.cpu-world.com/sspec/SL/SLAVG.html) to an [Intel Core 2 Duo T9400](http://www.cpu-world.com/sspec/SL/SLGEK.html).
 
-After plugging the cpu in the socket, adding heat paste, hitting power, the laptop... didn't started.
+After plugging the cpu in the socket, adding heat paste, hitting power, the laptop did... not boot.
 
 After plugging in the old cpu, making a BIOS update from x.xx to 2.50 the new cpu was recognized.
 
