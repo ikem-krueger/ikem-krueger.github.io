@@ -14,7 +14,7 @@ It took me a while to find that out.
 
 ## Upgrade
 
-The ASUS X59GL comes pre-configured with an Intel Pentium T3200 Dual Core with 2GHz, 3GB RAM, 250GB HDD and a DVD-Burner.
+This ASUS X59GL comes pre-configured with an Intel Pentium T3200 Dual Core with 2GHz, 3GB RAM, 250GB HDD and a DVD-Burner.
 
 Shipped with Windows Vista Home Premium 32bit.
 
