@@ -58,6 +58,8 @@ This will configure ThrottleStop to:
 
 After that the maximum clock changed from 2.5GHz to 2.0 GHz.
 
+It also let ThrottleStop start minimized with no tray icon.
+
 ### Aufgabenplanung
 
 ## Costs:
