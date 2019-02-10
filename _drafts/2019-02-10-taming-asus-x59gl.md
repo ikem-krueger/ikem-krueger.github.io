@@ -48,7 +48,7 @@ I used [RealTemp](https://www.techpowerup.com/realtemp/) to stress test the CPU,
 
 Replacing thermal paste.
 
-Download ThrottleStop and extract it to "".
+Download [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) and extract it to "".
 
 Download this configuration file and put it into "".
 
