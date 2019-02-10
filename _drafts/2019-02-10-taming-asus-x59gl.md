@@ -64,8 +64,6 @@ Aufgabenplanung.
 * 5€ [2GB RAM DDR2 SODIMM](https://www.ebay-kleinanzeigen.de/s-sortierung:preis/2gb-ram-ddr2-sodimm/k0)
 * 3€ [Thermal Paste]
 
-Total: 13€
-
 ### Work hours:
 
 * ?€ Better don't count that...
