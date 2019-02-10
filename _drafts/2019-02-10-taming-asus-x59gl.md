@@ -87,7 +87,7 @@ Windows 7 works very well on it.
 
 Web browsing, watching Youtube videos works fine. Older games should work too.
 
-It had become a working horse. An old working horse.
+It had become a working horse. An old but solid working horse.
 
 ## Future improvements
 
