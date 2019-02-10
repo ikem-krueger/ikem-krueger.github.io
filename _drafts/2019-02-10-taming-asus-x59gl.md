@@ -94,6 +94,6 @@ It had become a working horse. An old but solid working horse.
 
 ## Future improvements
 
-I suggest to replace the fan with a [newer one](https://www.ebay.de/itm/273618471582). And replacing the 250GB HDD with a [250GB SSD].
+I suggest to replace the fan with a [newer one](https://www.ebay.de/itm/273618471582). And replacing the 250GB HDD with a [250GB SSD](https://computerstoreberlin.de/Samsung-850-EVO-250-GB-25-Zoll-SATA-III-6Gb-s-MZ-75E250-SSD-39369).
 
 I want a tool that only changes the max multiplier. When I find that, I will use that.
