@@ -66,7 +66,7 @@ Download [ThrottleStop.xml].
 
 Open Task Scheduler and import "ThrottleStop.xml".
 
-This starts ThrottleStop on boot.
+This let ThrottleStop start on boot.
 
 ## Costs:
 
