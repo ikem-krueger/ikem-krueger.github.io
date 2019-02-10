@@ -44,6 +44,22 @@ After plugging in the old cpu, making a BIOS update from x.xx to 2.50 the new cp
 
 RAM upgrade from 3GB RAM from different brands to 2*2GB RAM of the same brand.
 
+## Costs:
+
+### Parts:
+
+* 5€ [Intel Core 2 Duo T9400](https://www.ebay.de/itm/113327133419)
+* 5€ [2GB RAM DDR2 SODIMM](https://www.ebay-kleinanzeigen.de/s-sortierung:preis/2gb-ram-ddr2-sodimm/k0)
+* 3€ [Thermal Paste]
+
+### Work hours:
+
+* ?€ Better don't count that...
+
+### Total:
+
+13€ Parts + ?€ Work hours = 13€ Total
+
 ## Fixing the heat issue
 
 ### Install and configure ThrottleStop
@@ -67,22 +83,6 @@ Download [ThrottleStop.xml].
 Open Task Scheduler and import "ThrottleStop.xml".
 
 This let ThrottleStop start on boot.
-
-## Costs:
-
-### Parts:
-
-* 5€ [Intel Core 2 Duo T9400](https://www.ebay.de/itm/113327133419)
-* 5€ [2GB RAM DDR2 SODIMM](https://www.ebay-kleinanzeigen.de/s-sortierung:preis/2gb-ram-ddr2-sodimm/k0)
-* 3€ [Thermal Paste]
-
-### Work hours:
-
-* ?€ Better don't count that...
-
-### Total:
-
-13€ Parts + ?€ Work hours = 13€ Total
 
 ## Conclusion
 
