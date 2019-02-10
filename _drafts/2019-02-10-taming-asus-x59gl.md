@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Taming ASUS X59GL
-tags: windows
+tags: windows, undervolt, underclock
 ---
 
 The ASUS X59GL has a heat issue.
