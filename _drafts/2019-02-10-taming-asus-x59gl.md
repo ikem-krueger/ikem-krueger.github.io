@@ -76,7 +76,7 @@ It also let ThrottleStop start minimized with no tray icon.
 
 ### Configure Task Scheduler
 
-Download [ThrottleStop.xml].
+Download [ThrottleStop.xml](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_files/ThrottleStop/ThrottleStop.xml).
 
 Open Task Scheduler and import "ThrottleStop.xml".
 
