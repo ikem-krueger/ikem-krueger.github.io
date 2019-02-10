@@ -53,10 +53,10 @@ RAM upgrade from 3GB RAM from different brands to 2*2GB RAM of the same brand.
 ### Work hours:
 
 * x hrs Research
-* x hrs Windows installation
-* x hrs BIOS update
-* x hrs CPU installation and test
-* x hrs RAM installation and test
+* 8 hrs Windows installation
+* 1 hrs BIOS update
+* 1 hrs CPU installation and test
+* 1 hrs RAM installation and test
 
 ### Total:
 
