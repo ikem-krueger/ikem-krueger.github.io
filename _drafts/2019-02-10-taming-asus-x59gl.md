@@ -46,8 +46,6 @@ RAM upgrade from 3GB RAM from different brands to 2*2GB RAM of the same brand.
 
 I used [RealTemp](https://www.techpowerup.com/realtemp/) to stress test the CPU, and [FurMark](https://geeks3d.com/furmark/) to stress test the GPU.
 
-Replacing thermal paste.
-
 ### Install and configure ThrottleStop
 
 Download [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) and extract it to "C:\Program Files (x86)\ThrottleStop".
