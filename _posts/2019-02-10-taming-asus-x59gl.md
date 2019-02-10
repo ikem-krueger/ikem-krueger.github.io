@@ -84,7 +84,11 @@ This let ThrottleStop start on boot.
 
 ## Conclusion
 
-ASUS X59GL has now an Intel Core 2 Duo @ 2.5GHz, 4GB RAM, 250GB HDD.
+This ASUS X59GL has now an Intel Core 2 Duo T9400 @ 2.5GHz, 4GB RAM, 250GB HDD.
+
+The combination of the more efficient processor, with a different multiplier fixes the heat issue.
+
+This with the dual channel RAM give it a bit of "oomph".
 
 Windows 7 works very well on it.
 
