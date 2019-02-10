@@ -64,7 +64,7 @@ RAM upgrade from 3GB RAM from different brands to 2*2GB RAM of the same brand.
 
 Download [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) and extract it to "C:\Program Files (x86)\ThrottleStop".
 
-Download [ThrottleStop.ini] and put it into "C:\Program Files (x86)\ThrottleStop".
+Download [ThrottleStop.ini](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_files/ThrottleStop/ThrottleStop.ini) and put it into "C:\Program Files (x86)\ThrottleStop".
 
 This will configure ThrottleStop to:
 
