@@ -50,7 +50,7 @@ Replacing thermal paste.
 
 ### Install and configure ThrottleStop
 
-Download [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) and extract it to "".
+Download [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) and extract it to "C:\Program Files (x86)\ThrottleStop".
 
 Download this configuration file and put it into "".
 
