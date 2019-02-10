@@ -84,4 +84,4 @@ It had become a working horse. An old working horse.
 
 ## Future improvements
 
-I suggest to replace the fan with a [newer one]. And replacing the 250GB HDD with a [250GB SSD].
+I suggest to replace the fan with a [newer one](https://www.ebay.de/itm/273618471582). And replacing the 250GB HDD with a [250GB SSD].
