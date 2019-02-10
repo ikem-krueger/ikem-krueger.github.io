@@ -48,6 +48,8 @@ I used [RealTemp](https://www.techpowerup.com/realtemp/) to stress test the CPU,
 
 Replacing thermal paste.
 
+### Install ThrottleStop
+
 Download [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) and extract it to "".
 
 Download this configuration file and put it into "".
@@ -61,7 +63,7 @@ Check "C States".
 
 After that the maximum clock changed from 2.5GHz to 2.0 GHz.
 
-Aufgabenplanung.
+### Aufgabenplanung
 
 ## Costs:
 
