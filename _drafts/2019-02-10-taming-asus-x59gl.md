@@ -12,8 +12,6 @@ When both are under pressure, the cpu overheats and the laptop shuts down.
 
 It took me a while to find that out.
 
-I used [RealTemp](https://www.techpowerup.com/realtemp/) to stress test the CPU, and [FurMark](https://geeks3d.com/furmark/) to stress test the GPU.
-
 ## Upgrade
 
 This ASUS X59GL comes pre-configured with an Intel Pentium T3200 Dual Core @ 2GHz, 3GB RAM, 250GB HDD and a DVD-Burner. Shipped with Windows Vista Home Premium 32bit.
