@@ -54,10 +54,7 @@ Download [this configuration file] and put it into "C:\Program Files (x86)\Throt
 
 This will configure ThrottleStop to:
 
-"Set Multiplier" to "7.5".
-Check "SLFM".
-Uncheck "Disable Turbo".
-Check "C States".
+"Set Multiplier" to "7.5". Check "SLFM". Uncheck "Disable Turbo". Check "C States".
 
 After that the maximum clock changed from 2.5GHz to 2.0 GHz.
 
