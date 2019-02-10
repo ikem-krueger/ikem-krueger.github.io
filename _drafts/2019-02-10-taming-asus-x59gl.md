@@ -64,6 +64,8 @@ It also let ThrottleStop start minimized with no tray icon.
 
 Open Task Scheduler and import [this] configuration file.
 
+This starts ThrottleStop on boot.
+
 ## Costs:
 
 ### Parts:
