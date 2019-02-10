@@ -48,11 +48,18 @@ I used [RealTemp](https://www.techpowerup.com/realtemp/) to stress test the CPU,
 
 Replacing thermal paste.
 
-ThrottleStop configuration.
+Download ThrottleStop and extract it to "".
 
-Setting multiplicator from 9.0 to 7.5.
+Download this configuration file and put it into "".
 
-So the maximum clock changed from 2.5GHz to 2.0 GHz.
+This will configure ThrottleStop to:
+
+"Set Multiplier" to "7.5".
+Check "SLFM".
+Uncheck "Disable Turbo".
+Check "C States".
+
+After that the maximum clock changed from 2.5GHz to 2.0 GHz.
 
 Aufgabenplanung.
 
