@@ -12,6 +12,8 @@ When both are under pressure, the cpu overheats and the laptop shuts down.
 
 It took me a while to find that out.
 
+I used [RealTemp](https://www.techpowerup.com/realtemp/) to stress test the CPU, and [FurMark](https://geeks3d.com/furmark/) to stress test the GPU.
+
 ## Upgrade
 
 This ASUS X59GL comes pre-configured with an Intel Pentium T3200 Dual Core @ 2GHz, 3GB RAM, 250GB HDD and a DVD-Burner. Shipped with Windows Vista Home Premium 32bit.
@@ -43,8 +45,6 @@ After plugging in the old cpu, making a BIOS update from x.xx to 2.50 the new cp
 RAM upgrade from 3GB RAM from different brands to 2*2GB RAM of the same brand.
 
 ## Fixing the heat issue
-
-I used [RealTemp](https://www.techpowerup.com/realtemp/) to stress test the CPU, and [FurMark](https://geeks3d.com/furmark/) to stress test the GPU.
 
 ### Install and configure ThrottleStop
 
