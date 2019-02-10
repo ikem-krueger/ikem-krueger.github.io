@@ -50,7 +50,7 @@ I used [RealTemp](https://www.techpowerup.com/realtemp/) to stress test the CPU,
 
 Download [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) and extract it to "C:\Program Files (x86)\ThrottleStop".
 
-Download [this configuration file] and put it into "C:\Program Files (x86)\ThrottleStop".
+Download [this] configuration file and put it into "C:\Program Files (x86)\ThrottleStop".
 
 This will configure ThrottleStop to:
 
@@ -60,7 +60,9 @@ After that the maximum clock changed from 2.5GHz to 2.0 GHz.
 
 It also let ThrottleStop start minimized with no tray icon.
 
-### Aufgabenplanung
+### Configure Task Scheduler
+
+Open Task Scheduler and import [this] configuration file.
 
 ## Costs:
 
