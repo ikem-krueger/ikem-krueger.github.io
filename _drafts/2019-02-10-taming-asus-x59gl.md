@@ -96,4 +96,4 @@ It had become a working horse. An old but solid working horse.
 
 I suggest to replace the fan with a [newer one](https://www.ebay.de/itm/273618471582). And replacing the 250GB HDD with a [250GB SSD].
 
-I want a tool that only changes the max multiplier.
+I want a tool that only changes the max multiplier. When I find that, I will use that.
