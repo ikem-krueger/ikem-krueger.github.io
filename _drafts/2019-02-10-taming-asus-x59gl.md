@@ -50,7 +50,7 @@ I used [RealTemp](https://www.techpowerup.com/realtemp/) to stress test the CPU,
 
 Download [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) and extract it to "C:\Program Files (x86)\ThrottleStop".
 
-Download [this] configuration file and put it into "C:\Program Files (x86)\ThrottleStop".
+Download [ThrottleStop.ini] and put it into "C:\Program Files (x86)\ThrottleStop".
 
 This will configure ThrottleStop to:
 
@@ -62,7 +62,9 @@ It also let ThrottleStop start minimized with no tray icon.
 
 ### Configure Task Scheduler
 
-Open Task Scheduler and import [this] configuration file.
+Download [ThrottleStop.xml].
+
+Open Task Scheduler and import "ThrottleStop.xml".
 
 This starts ThrottleStop on boot.
 
