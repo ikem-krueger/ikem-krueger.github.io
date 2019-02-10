@@ -38,7 +38,7 @@ I decided to upgrade the processor from an [Intel Pentium T3200](http://www.cpu-
 
 After plugging the cpu in the socket, adding heat paste, hitting power, the laptop did... not boot.
 
-After plugging in the old cpu, making a BIOS update from version 208 to [version 222](https://www.asus.com/supportonly/X59GL/HelpDesk_BIOS/) the new cpu was recognized.
+After plugging in the old cpu, making a BIOS update from version 208 to [version 222](https://dlcdnets.asus.com/pub/ASUS/nb/F5GL/F5GLAS222.zip) the new cpu was recognized.
 
 ### RAM upgrade
 
