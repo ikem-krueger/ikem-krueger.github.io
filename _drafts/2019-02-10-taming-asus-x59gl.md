@@ -61,7 +61,7 @@ Aufgabenplanung.
 ### Parts:
 
 * 5€ [Intel Core 2 Duo T9400](https://www.ebay.de/itm/113327133419)
-* 5€ [2GB RAM]
+* 5€ [DDR2 SODIMM 2GB RAM]
 * 3€ [Thermal Paste]
 
 Total: 13€
