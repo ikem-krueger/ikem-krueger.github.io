@@ -118,7 +118,7 @@ See fix above.
 
 ### Install additional drivers (kexts)
 
-- Realtek 8812AU [[Direct Link]](https://github.com/chris1111/Wireless-USB-Adapter-Clover/files/1835745/Wireless.USB.Adapter.Clover.zip) [[Source]](https://github.com/chris1111/Wireless-USB-Adapter-Clover)
+- Realtek 8812AU [[Direct Link]](https://github.com/chris1111/Wireless-USB-Adapter-Clover/files/2975939/Wireless.USB.Adapter.Clover-V6.zip) [[Source]](https://github.com/chris1111/Wireless-USB-Adapter-Clover)
 
 - NVidia GeForce GT 710 [[Direct Link]](https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/master/nvidia-update.sh) [[Source]](https://github.com/Benjamin-Dobell/nvidia-update)
 
