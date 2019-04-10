@@ -11,7 +11,7 @@ I owe an [HP Pavilion a6769de](https://support.hp.com/us-en/product/hp-pavilion-
  | Motherboard | ASUS IPIBL-LB (Benicia) |
  | BIOS | AMI v5.43 |
  | Chipset | Intel G33 (Bearlake) |
- | CPU | Intel Core 2 Quad 9300 @ 2.50 GHz (Penryn) |
+ | CPU | Intel Xeon E5450 @ 3.0 GHz (Penryn) |
  | RAM | 8 GB DDR2-RAM |
  | Video | Intel G33/G31 Express Chipset |
  | Audio | Realtek ALC888S |
@@ -41,7 +41,7 @@ I bought:
  | Video | NVidia GeForce GT 710 [10DE:128B] |
  | Audio | Sound Blaster Tactic(3D) Alpha [30DC:041E] |
  | WLAN | Realtek 8812AU [0111:0BDA] |
- | SSD | SPCC Solid State Disk |
+ | SSD | Samsung 850 EVO |
 
 ### Create a bootable USB stick
 
