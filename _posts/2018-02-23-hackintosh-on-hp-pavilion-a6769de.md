@@ -51,7 +51,7 @@ Download "CloverBootDiskCreator.exe", "Clover.img" and "OSX_10.13.6_Installer.hf
 
 Then run the "CloverBootDiskCreator.exe".
 
-![](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/images/Clover-Boot-Disk-Creator.jpg "Clover Boot Disk Creator")
+![](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_posts/2018-02-23-hackintosh-on-hp-pavilion-a6769de/Clover-Boot-Disk-Creator.jpg "Clover Boot Disk Creator")
 
 1. Select the "Clover.img" file
 2. Select the "OSX_10.13.6_Installer.hfs" file
