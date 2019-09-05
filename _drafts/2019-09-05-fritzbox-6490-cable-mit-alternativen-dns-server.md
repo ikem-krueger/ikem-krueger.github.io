@@ -85,6 +85,8 @@ fritzchecksum -c "FRITZ.Box 6490 Cable (kdg) 141.07.01_04.09.19_2255.export"
 
 # Wiederherstellen
 
+Fritz!Box > System > Sicherung > Wiederherstellen
+
 ![Fritz!Box > System > Sicherung > Wiederherstellen](https://github.com/ikem-krueger/ikem-krueger.github.io/blob/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/Bildschirmfoto%202019-09-05%20um%2015.40.23.png)
 
 Die Fritz!Box lädt jetzt die Konfigurationsdatei, und startet danach neu.
