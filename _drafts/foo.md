@@ -6,13 +6,17 @@ tags: mac os x, fritzbox, dns, kabel deutschland, vodafone
 
 Die Kabel Deutschland/Vodafone DNS Server haben teilweise massive Probleme Namen in IP-Adressen aufzulösen.
 
-Manche Seiten brauchen dadurch sehr lange bis geladen sind. Und das trotz schneller Leitung!
+Dadurch brauchen manche Seiten sehr lange bis geladen sind. Und das trotz schneller Leitung!
 
 Also was tun? DNS Server wechseln.
 
-Eigentlich lässt sich das sehr leicht in der  Fritz!Box Oberfläche ändern.
+Eigentlich lässt sich das sehr leicht in der Fritz!Box Oberfläche machen:
 
-Nicht so bei der Oberfläche der Fritz!Box von Kabel Deutschland/Vodafone.
+-Bild-
+
+Nicht so bei der Oberfläche der Fritz!Box von Kabel Deutschland/Vodafone. Da gibt es dieses Menü nicht. 
+
+Aber es gibt trotzdem einen Weg das zu ändern. Über das exportieren/editieren/importieren der Einstellungen.
 
 Cloudflare DNS
 
