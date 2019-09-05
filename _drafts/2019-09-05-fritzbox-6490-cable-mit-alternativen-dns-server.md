@@ -22,6 +22,8 @@ Aber es gibt trotzdem einen Weg das zu ändern. Über das sichern/editieren/wied
 
 ![](https://github.com/ikem-krueger/ikem-krueger.github.io/blob/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/Bildschirmfoto%202019-09-05%20um%2015.40.02.png)
 
+Als Kennwort benutze ich das Anmelde-Kennwort der Fritz!Box Oberfläche. So muss ich mir kein Extra Kennwort merken.
+
 Ich empfehle eine Kopie von der Konfigurationsdatei zu machen. Dann kann man die Einstellungen bei Bedarf wieder zurücksetzen.
 
 # Editieren
