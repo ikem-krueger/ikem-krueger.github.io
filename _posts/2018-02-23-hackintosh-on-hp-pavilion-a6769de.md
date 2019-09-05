@@ -51,7 +51,7 @@ Download "CloverBootDiskCreator.exe", "Clover.img" and "OSX_10.13.6_Installer.hf
 
 Then run the "CloverBootDiskCreator.exe".
 
-![_config.yml]({{ site.baseurl }}/_posts/2018-02-23-hackintosh-on-hp-pavilion-a6769de/Clover-Boot-Disk-Creator.jpg "Clover Boot Disk Creator")
+![Clover Boot Disk Creator](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_posts/2018-02-23-hackintosh-on-hp-pavilion-a6769de/Clover-Boot-Disk-Creator.jpg)
 
 1. Select the "Clover.img" file
 2. Select the "OSX_10.13.6_Installer.hfs" file
@@ -104,9 +104,9 @@ diskutil mount EFI
 
 Install Clover:
 
-![_config.yml]({{ site.baseurl }}/_posts/2018-02-23-hackintosh-on-hp-pavilion-a6769de/Screen-Shot-2017-12-14-at-03.22.58.png "Clover Installation Type before clicking the Customize button")
+![Clover Installation Type before clicking the Customize button](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_posts/2018-02-23-hackintosh-on-hp-pavilion-a6769de/Screen-Shot-2017-12-14-at-03.22.58.png)
 
-![_config.yml]({{ site.baseurl }}/_posts/2018-02-23-hackintosh-on-hp-pavilion-a6769de/Screen-Shot-2017-12-14-at-03.23.26.png "Clover Installation Type after clicking the Customize button")
+![Clover Installation Type after clicking the Customize button](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_posts/2018-02-23-hackintosh-on-hp-pavilion-a6769de/Screen-Shot-2017-12-14-at-03.23.26.png)
 
 ### Fix Clover
 
