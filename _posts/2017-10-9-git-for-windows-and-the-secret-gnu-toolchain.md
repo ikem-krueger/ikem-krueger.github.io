@@ -8,7 +8,7 @@ I wanted Git on my Windows system. I went to install [Git-Scm](https://git-scm.c
 
 It seems that Git-Scm comes with a lot of the GNU tools:
 
-![_config.yml]({{ site.baseurl }}/_posts/2017-10-9-git-for-windows-and-the-secret-gnu-toolchain/git-gnu-tools.png)
+![Eingabeaufforderung](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_posts/2017-10-9-git-for-windows-and-the-secret-gnu-toolchain/git-gnu-tools.png)
 
 I wanted to access them on the console.
 
