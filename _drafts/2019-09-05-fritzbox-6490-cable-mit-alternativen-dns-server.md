@@ -8,7 +8,7 @@ Die Kabel Deutschland/Vodafone DNS Server haben teilweise massive Probleme Namen
 
 Dadurch brauchen manche Seiten sehr lange bis sie geladen sind. Und das trotz schneller Leitung!
 
-Also was tun? DNS Server wechseln.
+Also was tun? DNS Server wechseln!
 
 Eigentlich lässt sich der DNS Server sehr leicht in der Fritz!Box Oberfläche ändern:
 
