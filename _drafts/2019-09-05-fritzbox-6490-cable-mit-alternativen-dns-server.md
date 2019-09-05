@@ -28,14 +28,14 @@ Ich empfehle eine Kopie von der Konfigurationsdatei zu machen. Dann kann man die
 
 # Editieren
 
-Laut eigener Aussage bietet [Cloudflare](https://1.1.1.1/dns/) den schnellsten und sichersten DNS Dienst an. Deswegen nutze ich den.
+Laut eigener Aussage bietet [Cloudflare](https://1.1.1.1/dns/) den schnellsten und sichersten DNS Dienst an. Deswegen nutze ich diesen DNS Dienst.
 
 Die Cloudflare Adressen für die DNS Server sind:
 
 * für IPv4: 1.1.1.1 und 1.0.0.1
 * für IPv6: 2606:4700:4700::1111 und 2606:4700:4700::1001
 
-Um Cloudflare als DNS Server zu benutzen, musst du die exportierte Konfigurationsdatei mit einem Texteditor bearbeiten.
+Um Cloudflare als DNS Server zu benutzen, musst du die gesicherte Konfigurationsdatei mit einem Texteditor bearbeiten.
 
 Dann änderst du `lan_dns4_server = 0.0.0.0;` zu `lan_dns4_server = 1.1.1.1;`.
 
