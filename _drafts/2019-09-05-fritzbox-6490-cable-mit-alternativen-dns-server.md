@@ -12,7 +12,9 @@ Also was tun? DNS Server wechseln!
 
 Eigentlich lässt sich der DNS Server sehr leicht in der Fritz!Box Oberfläche ändern:
 
-![Fritz!Box Internet Zugangsdaten DNS Server](https://github.com/ikem-krueger/ikem-krueger.github.io/blob/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/1.JPG)
+Fritz!Box > Internet > Zugangsdaten > DNS Server
+
+![Fritz!Box > Internet > Zugangsdaten > DNS Server](https://github.com/ikem-krueger/ikem-krueger.github.io/blob/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/1.JPG)
 
 Nicht so bei der Fritz!Box von Kabel Deutschland/Vodafone. Da gibt es dieses Menü nicht. 
 
@@ -20,7 +22,9 @@ Aber es gibt trotzdem einen Weg das zu ändern. Über das sichern/editieren/wied
 
 # Sichern
 
-![Fritz!Box System Sicherung](https://github.com/ikem-krueger/ikem-krueger.github.io/blob/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/Bildschirmfoto%202019-09-05%20um%2015.40.02.png)
+Fritz!Box > System > Sicherung > Sichern
+
+![Fritz!Box > System > Sicherung > Sichern](https://github.com/ikem-krueger/ikem-krueger.github.io/blob/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/Bildschirmfoto%202019-09-05%20um%2015.40.02.png)
 
 Als Kennwort benutze ich das Anmelde-Kennwort der Fritz!Box Oberfläche. So muss ich mir kein Extra Kennwort merken.
 
@@ -81,7 +85,7 @@ fritzchecksum -c "FRITZ.Box 6490 Cable (kdg) 141.07.01_04.09.19_2255.export"
 
 # Wiederherstellen
 
-![Fritz!Box System Wiederherstellen](https://github.com/ikem-krueger/ikem-krueger.github.io/blob/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/Bildschirmfoto%202019-09-05%20um%2015.40.23.png)
+![Fritz!Box > System > Sicherung > Wiederherstellen](https://github.com/ikem-krueger/ikem-krueger.github.io/blob/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/Bildschirmfoto%202019-09-05%20um%2015.40.23.png)
 
 Die Fritz!Box lädt jetzt die Konfigurationsdatei, und startet danach neu.
 
