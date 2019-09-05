@@ -22,6 +22,8 @@ Aber es gibt trotzdem einen Weg das zu ändern. Über das exportieren/editieren/
 
 -Todo-
 
+Ich empfehle eine Kopie von der Konfigurationsdatei zu machen. Dann kann man die Einstellungen bei Bedarf wieder zurücksetzen.
+
 # Editieren
 
 Laut eigener Aussage bietet [Cloudflare](https://1.1.1.1/dns/) den schnellsten und sichersten DNS Dienst an. Deswegen nutze ich den.
