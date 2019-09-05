@@ -16,4 +16,4 @@ Disable the creation of .DS_store files:
 defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool TRUE
 ```
 
-And either kill Finder, logout/login or reboot.
+Now either kill Finder, logout/login or reboot.
