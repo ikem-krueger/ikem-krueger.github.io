@@ -43,7 +43,9 @@ In der Konfigurationsdatei gibt es eine Prüfsumme. Die muss repariert werden, b
 
 Dafür braucht man das Tool "[fritzchecksum](https://github.com/mementum/fritzchecksum)". Das muss man installieren.
 
-### Mac OS X
+### Fritzchecksum installieren
+
+#### Mac OS X
 
 Pip installieren:
 
@@ -57,7 +59,7 @@ Fritzchecksum installieren:
 sudo pip install fritzchecksum
 ```
 
-### Linux
+#### Linux
 
 Fritzchecksum installieren:
 
