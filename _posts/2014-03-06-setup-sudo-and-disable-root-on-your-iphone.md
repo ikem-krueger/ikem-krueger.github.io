@@ -4,8 +4,6 @@ title: Setup sudo and disable root on your iPhone
 tags: apple, iphone, cydia, sudo, cc by-nc-sa
 ---
 
-![_config.yml]({{ site.baseurl }}/_posts/2014-03-06-setup-sudo-and-disable-root-on-your-iphone/sandwich.png)
-
 Beforehand you need to Jailbreak your iPhone!
 
 - iOS 7.0.x use [evasi0n](http://evasi0n.com/)
