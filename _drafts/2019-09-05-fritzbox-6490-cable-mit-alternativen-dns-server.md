@@ -69,7 +69,7 @@ Fritzchecksum installieren:
 sudo pip install fritzchecksum
 ```
 
-#### Reparatur
+### Reparatur
 
 Die eigentliche Reparatur macht man dann so:
 
