@@ -14,11 +14,9 @@ Eigentlich l채sst sich der DNS Server sehr leicht in der Fritz!Box Oberfl채che �
 
 ![Fritz!Box > Internet > Zugangsdaten > DNS Server](https://github.com/ikem-krueger/ikem-krueger.github.io/blob/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/1.JPG)
 
-In der Fritz!Box Oberfl채che anmelden.
-
-In der Seitenleiste auf "Internet", "Zugangsdaten".
-
-Dann auf den Reiter "DNS Server".
+* In der Fritz!Box Oberfl채che anmelden.
+* In der Seitenleiste auf "Internet", "Zugangsdaten".
+* Dann auf den Reiter "DNS Server".
 
 Nicht so bei der Fritz!Box von Kabel Deutschland/Vodafone. Da gibt es dieses Men체 nicht. 
 
