@@ -41,7 +41,7 @@ Und `lan_dns6_server = ::;` zu `lan_dns6_server = 2606:4700:4700::1111;`.
 
 ## Prüfsumme reparieren
 
-In der Konfigurationsdatei gibt es eine Prüfsumme. Die muss repariert werden, bevor die Konfigurationsdatei importiert werden kann.
+In der Konfigurationsdatei gibt es eine Prüfsumme. Die muss repariert werden, bevor die Konfigurationsdatei benutzt werden kann.
 
 Dafür braucht man das Tool "[fritzchecksum](https://github.com/mementum/fritzchecksum)". Das muss man installieren.
 
