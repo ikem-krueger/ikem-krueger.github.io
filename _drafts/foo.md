@@ -1,4 +1,8 @@
-Fritzbox 6590 Cable mit alternativen DNS Server
+---
+layout: post
+title: Fritzbox 6590 Cable mit alternativen DNS Server
+tags: mac os x, fritzbox, dns
+---
 
 Cloudflare DNS
 
