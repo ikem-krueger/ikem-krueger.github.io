@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Disable the creation of .DS_store files
+title: Get rid of .DS_store files on network drives
 tags: mac os x, finder, smb
 ---
 
