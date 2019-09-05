@@ -12,9 +12,13 @@ Also was tun? DNS Server wechseln!
 
 Eigentlich lässt sich der DNS Server sehr leicht in der Fritz!Box Oberfläche ändern:
 
-Fritz!Box > Internet > Zugangsdaten > DNS Server
-
 ![Fritz!Box > Internet > Zugangsdaten > DNS Server](https://github.com/ikem-krueger/ikem-krueger.github.io/blob/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/1.JPG)
+
+In der Fritz!Box Oberfläche anmelden.
+
+In der Seitenleiste auf "Internet", "Zugangsdaten".
+
+Dann auf den Reiter "DNS Server".
 
 Nicht so bei der Fritz!Box von Kabel Deutschland/Vodafone. Da gibt es dieses Menü nicht. 
 
@@ -22,9 +26,13 @@ Aber es gibt trotzdem einen Weg das zu ändern. Über das sichern/editieren/wied
 
 # Sichern
 
-Fritz!Box > System > Sicherung > Sichern
-
 ![Fritz!Box > System > Sicherung > Sichern](https://github.com/ikem-krueger/ikem-krueger.github.io/blob/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/Bildschirmfoto%202019-09-05%20um%2015.40.02.png)
+
+In der Fritz!Box Oberfläche anmelden.
+
+In der Seitenleiste auf "System", "Sicherung".
+
+Dann auf den Reiter "Sichern".
 
 Als Kennwort benutze ich das Anmelde-Kennwort der Fritz!Box Oberfläche. So muss ich mir kein Extra Kennwort merken.
 
