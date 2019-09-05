@@ -8,9 +8,9 @@ Cloudflare DNS
 
 https://1.1.1.1/dns/
 
-Replace those addresses with the 1.1.1.1 DNS addresses:
-For IPv4: 1.1.1.1 and 1.0.0.1
-For IPv6: 2606:4700:4700::1111 and 2606:4700:4700::1001
+> Replace those addresses with the 1.1.1.1 DNS addresses:
+> For IPv4: 1.1.1.1 and 1.0.0.1
+> For IPv6: 2606:4700:4700::1111 and 2606:4700:4700::1001
 
 Öffne die `config.export` mit einem Texteditor.
 
