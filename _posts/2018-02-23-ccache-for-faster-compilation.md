@@ -24,7 +24,7 @@ sudo apt-get install ccache
 
 But how do I use ccache for all compilations? The question is answered [here](https://ccache.samba.org/manual/latest.html#_run_modes).
 
-I decided for the "symlinks" method:
+I decided for a variation of the "symlinks" method:
 
 ```
 for tool in /usr/lib/ccache/*
