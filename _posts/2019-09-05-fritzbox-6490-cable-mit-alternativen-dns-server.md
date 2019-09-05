@@ -16,7 +16,7 @@ Eigentlich lässt sich der DNS Server sehr leicht in der Fritz!Box Oberfläche �
 * In der Seitenleiste auf "Internet", "Zugangsdaten"
 * Dann auf den Reiter "DNS Server"
 
-![Fritz!Box > Internet > Zugangsdaten > DNS Server](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/1.JPG)
+![Fritz!Box > Internet > Zugangsdaten > DNS Server](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/FritzBox-DNS-1024x465.png)
 
 Nicht so bei der Fritz!Box von Kabel Deutschland/Vodafone. Da gibt es dieses Menü nicht. 
 
