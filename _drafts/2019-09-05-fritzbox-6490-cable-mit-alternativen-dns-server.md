@@ -12,9 +12,9 @@ Also was tun? DNS Server wechseln!
 
 Eigentlich lässt sich der DNS Server sehr leicht in der Fritz!Box Oberfläche ändern:
 
-* In der Fritz!Box Oberfläche anmelden.
-* In der Seitenleiste auf "Internet", "Zugangsdaten".
-* Dann auf den Reiter "DNS Server".
+* In der Fritz!Box Oberfläche anmelden
+* In der Seitenleiste auf "Internet", "Zugangsdaten"
+* Dann auf den Reiter "DNS Server"
 
 ![Fritz!Box > Internet > Zugangsdaten > DNS Server](https://github.com/ikem-krueger/ikem-krueger.github.io/blob/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/1.JPG)
 
@@ -24,9 +24,11 @@ Aber es gibt trotzdem einen Weg das zu ändern. Über das sichern/editieren/wied
 
 # Sichern
 
-* In der Fritz!Box Oberfläche anmelden.
-* In der Seitenleiste auf "System", "Sicherung".
-* Dann auf den Reiter "Sichern".
+* In der Fritz!Box Oberfläche anmelden
+* In der Seitenleiste auf "System", "Sicherung"
+* Dann auf den Reiter "Sichern"
+* Kennwort eingeben
+* Auf "Sichern" klicken
 
 ![Fritz!Box > System > Sicherung > Sichern](https://github.com/ikem-krueger/ikem-krueger.github.io/blob/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/Bildschirmfoto%202019-09-05%20um%2015.40.02.png)
 
@@ -89,9 +91,11 @@ fritzchecksum -c "FRITZ.Box 6490 Cable (kdg) 141.07.01_04.09.19_2255.export"
 
 # Wiederherstellen
 
-* In der Fritz!Box Oberfläche anmelden.
-* In der Seitenleiste auf "System", "Sicherung".
-* Dann auf den Reiter "Wiederherstellen".
+* In der Fritz!Box Oberfläche anmelden
+* In der Seitenleiste auf "System", "Sicherung"
+* Dann auf den Reiter "Wiederherstellen"
+* Datei auswählen
+* Auf "Wiederherstellen" klicken
 
 ![Fritz!Box > System > Sicherung > Wiederherstellen](https://github.com/ikem-krueger/ikem-krueger.github.io/blob/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/Bildschirmfoto%202019-09-05%20um%2015.40.23.png)
 
