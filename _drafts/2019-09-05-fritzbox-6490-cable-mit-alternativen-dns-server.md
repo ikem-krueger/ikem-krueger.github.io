@@ -16,9 +16,9 @@ Eigentlich lässt sich der DNS Server sehr leicht in der Fritz!Box Oberfläche �
 
 Nicht so bei der Fritz!Box von Kabel Deutschland/Vodafone. Da gibt es dieses Menü nicht. 
 
-Aber es gibt trotzdem einen Weg das zu ändern. Über das exportieren/editieren/importieren der Einstellungen.
+Aber es gibt trotzdem einen Weg das zu ändern. Über das sichern/editieren/wiederherstellen der Einstellungen.
 
-# Exportieren
+# Sichern
 
 ![](https://github.com/ikem-krueger/ikem-krueger.github.io/blob/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/Bildschirmfoto%202019-09-05%20um%2015.40.02.png)
 
@@ -77,7 +77,7 @@ Die eigentliche Reparatur macht man dann so:
 fritzchecksum -c "FRITZ.Box 6490 Cable (kdg) 141.07.01_04.09.19_2255.export"
 ```
 
-# Importieren
+# Wiederherstellen
 
 ![](https://github.com/ikem-krueger/ikem-krueger.github.io/blob/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/Bildschirmfoto%202019-09-05%20um%2015.40.23.png)
 
