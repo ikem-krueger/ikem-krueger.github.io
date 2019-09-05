@@ -69,7 +69,7 @@ Fritzchecksum installieren:
 sudo pip install fritzchecksum
 ```
 
-Die Prüfsumme repariert man dann mit:
+#### Reperatur:
 
 ```
 fritzchecksum -c "FRITZ.Box 6490 Cable (kdg) 141.07.01_04.09.19_2255.export"
