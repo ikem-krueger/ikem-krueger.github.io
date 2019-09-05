@@ -33,9 +33,9 @@ Die Cloudflare Adressen für die DNS Server sind:
 
 Um Cloudflare als DNS Server zu benutzen, musst du die exportierte Konfigurationsdatei mit einem Texteditor bearbeiten.
 
-Und `lan_dns4_server = 0.0.0.0;` zu `lan_dns4_server = 1.1.1.1;` ändern.
+Dann änderst du `lan_dns4_server = 0.0.0.0;` zu `lan_dns4_server = 1.1.1.1;`.
 
-Und `lan_dns6_server = ::;` zu `lan_dns6_server = 2606:4700:4700::1111;` ändern.
+Und `lan_dns6_server = ::;` zu `lan_dns6_server = 2606:4700:4700::1111;`.
 
 ## Prüfsumme reparieren
 
