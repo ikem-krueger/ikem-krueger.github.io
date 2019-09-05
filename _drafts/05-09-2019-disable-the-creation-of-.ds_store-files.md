@@ -4,13 +4,13 @@ title: Disable the creation of .DS_store files
 tags: mac os x, finder, smb
 ---
 
-Clean network mounts:
+Clean network mounts .DS_store files:
 
 ```
 dot_clean -m -v /Volumes/FRITZ.NAS/Daten
 ```
 
-Disable the creation of .DS_store files
+Disable the creation of .DS_store files:
 
 ```
 defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool TRUE
