@@ -1,8 +1,18 @@
 ---
 layout: post
 title: Fritzbox 6590 Cable mit alternativen DNS Server
-tags: mac os x, fritzbox, dns
+tags: mac os x, fritzbox, dns, kabel deutschland, vodafone
 ---
+
+Die Kabel Deutschland/Vodafone DNS Server haben teilweise massive Probleme Namen in IP-Adressen aufzulösen.
+
+Manche Seiten brauchen dadurch sehr lange bis geladen sind. Und das trotz schneller Leitung!
+
+Also was tun? DNS Server wechseln.
+
+Eigentlich lässt sich das sehr leicht in der  Fritz!Box Oberfläche ändern.
+
+Nicht so bei der Oberfläche der Fritz!Box von Kabel Deutschland/Vodafone.
 
 Cloudflare DNS
 
