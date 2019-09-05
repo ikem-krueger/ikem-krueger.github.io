@@ -12,7 +12,7 @@ Also was tun? DNS Server wechseln!
 
 Eigentlich lässt sich der DNS Server sehr leicht in der Fritz!Box Oberfläche ändern:
 
-* In der Fritz!Box Oberfläche anmelden
+* In der [Fritz!Box Oberfläche](http://192.168.178.1/) anmelden
 * In der Seitenleiste auf "Internet", "Zugangsdaten"
 * Dann auf den Reiter "DNS Server"
 
@@ -24,7 +24,7 @@ Aber es gibt trotzdem einen Weg das zu ändern. Über das sichern/editieren/wied
 
 # Sichern
 
-* In der Fritz!Box Oberfläche anmelden
+* In der [Fritz!Box Oberfläche](http://192.168.178.1/) anmelden
 * In der Seitenleiste auf "System", "Sicherung"
 * Dann auf den Reiter "Sichern"
 * Kennwort eingeben
@@ -91,7 +91,7 @@ fritzchecksum -c "FRITZ.Box 6490 Cable (kdg) 141.07.01_04.09.19_2255.export"
 
 # Wiederherstellen
 
-* In der Fritz!Box Oberfläche anmelden
+* In der [Fritz!Box Oberfläche](http://192.168.178.1/) anmelden
 * In der Seitenleiste auf "System", "Sicherung"
 * Dann auf den Reiter "Wiederherstellen"
 * Datei auswählen
