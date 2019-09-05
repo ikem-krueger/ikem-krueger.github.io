@@ -12,7 +12,7 @@ Also was tun? DNS Server wechseln!
 
 Eigentlich lässt sich der DNS Server sehr leicht in der Fritz!Box Oberfläche ändern:
 
--Bild-
+![](https://github.com/ikem-krueger/ikem-krueger.github.io/blob/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/1.JPG)
 
 Nicht so bei der Fritz!Box von Kabel Deutschland/Vodafone. Da gibt es dieses Menü nicht. 
 
