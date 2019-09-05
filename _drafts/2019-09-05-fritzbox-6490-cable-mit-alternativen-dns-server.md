@@ -82,3 +82,7 @@ fritzchecksum -c "FRITZ.Box 6490 Cable (kdg) 141.07.01_04.09.19_2255.export"
 Die Fritz!Box lädt jetzt die Konfigurationsdatei, und startet danach neu.
 
 Nachdem Neustart werden die neuen DNS Server Einstellungen benutzt.
+
+Einen Nachteil hat die Geschichte aber:
+
+Man erreicht die Fritz!Box nicht mehr unter "fritz.box". Ist aber halb so wild, weil man sie immer noch über die IP-Adresse "[192.168.178.1](http://192.168.178.1)" erreicht.
