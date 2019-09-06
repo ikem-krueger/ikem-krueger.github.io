@@ -47,25 +47,16 @@ Die Cloudflare Adressen für die DNS Server sind:
 
 Um Cloudflare als DNS Server zu benutzen, musst du die gesicherte Konfigurationsdatei mit einem Texteditor bearbeiten.
 
-Dann änderst du
+Dann änderst du im Abschnitt `servercfg` die Werte von:
 
-```
-servercfg {
-        hostname = "(none)";
-        dhcpc_hostname = "fritz.box";
-        dns1 = 192.168.180.1;
-        dns2 = 192.168.180.2;
-        use_user_dns_for_ipv4 = no;
-        user_dns1_for_ipv4 = 0.0.0.0;
-        user_dns2_for_ipv4 = 0.0.0.0;
-        use_user_dns_for_ipv6 = no;
-        user_dns1_for_ipv6 = ::;
-        user_dns2_for_ipv6 = ::;
-        wpad_protection = yes;
-}
-```
+* `use_user_dns_for_ipv4` von "no" auf "yes"
+* `user_dns1_for_ipv4` von "0.0.0.0" auf "1.1.1.1"
+* `user_dns2_for_ipv4` von "0.0.0.0" auf "1.0.0.1"
+* `use_user_dns_for_ipv6` von "no" auf "yes"
+* `user_dns1_for_ipv6` von "::" auf "2606:4700:4700::1111"
+* `user_dns2_for_ipv6` von "::" auf "2606:4700:4700::1001"
 
-Zu:
+Das Ergebnis sieht dann so aus:
 
 ```
 servercfg {
