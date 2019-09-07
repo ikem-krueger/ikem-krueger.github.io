@@ -76,7 +76,7 @@ servercfg {
 
 ## Prüfsumme reparieren
 
-In der Konfigurationsdatei gibt es eine Prüfsumme. Die muss repariert werden, bevor du die Konfigurationsdatei benutzen kannst.
+In der Konfigurationsdatei gibt es eine Prüfsumme. Die muss repariert werden, bevor die Konfigurationsdatei benutzt werden kann.
 
 Dafür braucht man das Tool "[fritzchecksum](https://github.com/mementum/fritzchecksum)". Das muss man installieren.
 
