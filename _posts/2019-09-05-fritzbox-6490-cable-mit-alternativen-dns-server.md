@@ -129,7 +129,3 @@ Nachdem Neustart werden die neuen DNS Server Einstellungen benutzt.
 # Fazit
 
 Es ist ein bischen umständlich. Aber es lohnt sich. Die Seiten laden jetzt sehr sehr schnell.
-
-Einen Nachteil habe ich aber bemerkt: Man erreicht die Fritz!Box nicht mehr unter "fritz.box". 
-
-Das ist aber halb so wild, weil sie immer noch über die IP-Adresse "[192.168.178.1](http://192.168.178.1)" erreichbar ist.
