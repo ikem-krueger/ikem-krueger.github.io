@@ -14,8 +14,8 @@ I owe an [HP Pavilion a6769de](https://support.hp.com/us-en/product/hp-pavilion-
  | ~~CPU~~ | ~~Intel Core 2 Quad Q9300 @ 2.5 GHz (Penryn)~~ |
  | CPU | Intel Xeon E5450 @ 3.0 GHz (Penryn) |
  | RAM | 8 GB DDR2 @ 800MHz (4x2GB) |
- | ~~Video~~ | ~~Intel G33/G31 Express Chipset~~ |
- | ~~Audio~~ | ~~Realtek ALC888S~~ |
+ | Video | Intel G33/G31 Express Chipset |
+ | Audio | Realtek ALC888S |
  | Ethernet | Realtek 8111C |
 
 I checked if I can install Mac OS X High Sierra on it.
@@ -37,7 +37,7 @@ Troublesome is the Intel GMA 3100 and the Realtek ALC888S.
 
 I bought:
 
- | Hardware | Specs |
+ | Hardware | Name |
  | :-- | :-- |
  | Video | NVidia GeForce GT 710 [10DE:128B] |
  | Audio | Sound Blaster Tactic(3D) Alpha [30DC:041E] |
