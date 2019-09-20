@@ -78,9 +78,17 @@ servercfg {
 
 In der Konfigurationsdatei gibt es eine Prüfsumme. Die muss repariert werden, bevor die Konfigurationsdatei benutzt werden kann.
 
-Dafür braucht man das Tool "[fritzchecksum](https://github.com/mementum/fritzchecksum)". Das muss man installieren.
+Dafür braucht man das Tool "[fritzchecksum](https://github.com/mementum/fritzchecksum)".
 
-### Fritzchecksum installieren
+#### Windows
+
+Für 32-Bit Systeme [fritzchecksum-0.0.3.zip](https://github.com/mementum/fritzchecksum/releases/download/0.0.3/fritzchecksum-0.0.3.zip), für 64-Bit Systeme [fritzchecksum-amd64-0.0.3.zip](https://github.com/mementum/fritzchecksum/releases/download/0.0.3/fritzchecksum-amd64-0.0.3.zip) herunterladen.
+
+Datei entpacken und `fritzchecksum.exe` starten.
+
+* Auf "Browse" klicken
+* "FRITZ.Box 6490 Cable (kdg) 141.07.01_04.09.19_2255.export" auswählen
+* Auf "Re-Calculate" und "Save" klicken
 
 #### Mac OS X
 
@@ -96,6 +104,12 @@ Fritzchecksum installieren:
 sudo pip install fritzchecksum
 ```
 
+Reparatur:
+
+```
+fritzchecksum -c "FRITZ.Box 6490 Cable (kdg) 141.07.01_04.09.19_2255.export"
+```
+
 #### Linux
 
 Fritzchecksum installieren:
@@ -104,9 +118,7 @@ Fritzchecksum installieren:
 sudo pip install fritzchecksum
 ```
 
-### Reparatur
-
-Die eigentliche Reparatur macht man dann so:
+Reparatur:
 
 ```
 fritzchecksum -c "FRITZ.Box 6490 Cable (kdg) 141.07.01_04.09.19_2255.export"
