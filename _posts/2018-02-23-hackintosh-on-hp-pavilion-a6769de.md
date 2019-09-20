@@ -11,6 +11,7 @@ I owe an [HP Pavilion a6769de](https://support.hp.com/us-en/product/hp-pavilion-
  | Motherboard | ASUS IPIBL-LB (Benicia) |
  | BIOS | AMI v5.43 |
  | Chipset | Intel G33 (Bearlake) |
+ | ~~CPU~~ | ~~Intel Core 2 Quad Q9300 @ 2.5 GHz (Penryn)~~ |
  | CPU | Intel Xeon E5450 @ 3.0 GHz (Penryn) |
  | RAM | 8 GB DDR2-RAM |
  | Video | Intel G33/G31 Express Chipset |
