@@ -82,10 +82,13 @@ Dafür braucht man das Tool "[fritzchecksum](https://github.com/mementum/fritzch
 
 #### Windows
 
+fritzchecksum herunterladen und entpacken:
+
 Für 32-Bit Systeme [fritzchecksum-0.0.3.zip](https://github.com/mementum/fritzchecksum/releases/download/0.0.3/fritzchecksum-0.0.3.zip), für 64-Bit Systeme [fritzchecksum-amd64-0.0.3.zip](https://github.com/mementum/fritzchecksum/releases/download/0.0.3/fritzchecksum-amd64-0.0.3.zip) herunterladen.
 
-Datei entpacken und `fritzchecksum.exe` starten.
+Reparatur:
 
+* `fritzchecksum.exe` starten
 * Auf "Browse" klicken
 * "FRITZ.Box 6490 Cable (kdg) 141.07.01_04.09.19_2255.export" auswählen
 * Auf "Re-Calculate" und "Save" klicken
