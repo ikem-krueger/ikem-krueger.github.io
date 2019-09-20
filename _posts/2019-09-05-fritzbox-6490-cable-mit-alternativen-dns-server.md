@@ -82,7 +82,7 @@ Dafür braucht man das Tool "[fritzchecksum](https://github.com/mementum/fritzch
 
 #### Windows
 
-fritzchecksum herunterladen und entpacken:
+Fritzchecksum herunterladen und entpacken:
 
 Für 32-Bit Systeme [fritzchecksum-0.0.3.zip](https://github.com/mementum/fritzchecksum/releases/download/0.0.3/fritzchecksum-0.0.3.zip), für 64-Bit Systeme [fritzchecksum-amd64-0.0.3.zip](https://github.com/mementum/fritzchecksum/releases/download/0.0.3/fritzchecksum-amd64-0.0.3.zip) herunterladen.
 
