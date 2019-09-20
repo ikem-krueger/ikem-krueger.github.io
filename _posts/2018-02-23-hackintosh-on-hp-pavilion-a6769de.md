@@ -6,7 +6,7 @@ tags: mac os x, cc by-nc-sa
 
 I owe an [HP Pavilion a6769de](https://support.hp.com/us-en/product/hp-pavilion-a6700-desktop-pc-series/3823602/model/3886081/product-info) desktop computer.
 
- | Hardware | Name |
+ | Hardware | Specs |
  | :-- | :-- |
  | Motherboard | ASUS IPIBL-LB (Benicia) |
  | BIOS | AMI v5.43 |
@@ -36,7 +36,7 @@ Troublesome is the Intel GMA 3100 and the Realtek ALC888S.
 
 I bought:
 
- | Hardware | Name |
+ | Hardware | Specs |
  | :-- | :-- |
  | Video | NVidia GeForce GT 710 [10DE:128B] |
  | Audio | Sound Blaster Tactic(3D) Alpha [30DC:041E] |
