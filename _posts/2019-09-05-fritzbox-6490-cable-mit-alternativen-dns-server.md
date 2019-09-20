@@ -93,6 +93,8 @@ Reparatur:
 * "FRITZ.Box 6490 Cable (kdg) 141.07.01_04.09.19_2255.export" auswählen
 * Auf "Re-Calculate" und "Save" klicken
 
+![](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/fritzchecksum.png)
+
 #### Mac OS X
 
 Pip installieren:
