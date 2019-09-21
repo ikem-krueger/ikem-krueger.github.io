@@ -145,4 +145,4 @@ Nachdem Neustart werden die neuen DNS Server Einstellungen benutzt.
 
 # Fazit
 
-Es ist ein bischen umständlich. Aber es lohnt sich. Die Seiten laden jetzt sehr sehr schnell.
+Es ist ein bischen umständlich, aber es lohnt sich. Die Seiten laden jetzt sehr sehr schnell.
