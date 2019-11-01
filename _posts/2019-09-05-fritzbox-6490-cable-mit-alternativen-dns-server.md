@@ -143,6 +143,9 @@ Die Fritz!Box lädt jetzt die Konfigurationsdatei, und startet danach neu.
 
 Nachdem Neustart werden die neuen DNS Server Einstellungen benutzt.
 
+Ob alles so geklappt hat wie man möchte, sieht man bei:
+
+"Internet > Online-Monitor" "Genutzte DNS-Server"
 # Fazit
 
 Es ist ein bischen umständlich, aber es lohnt sich. Die Seiten laden jetzt sehr sehr schnell.
