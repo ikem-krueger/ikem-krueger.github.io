@@ -146,6 +146,9 @@ Nachdem Neustart werden die neuen DNS Server Einstellungen benutzt.
 Ob alles so geklappt hat wie man möchte, sieht man bei:
 
 "Internet > Online-Monitor" "Genutzte DNS-Server"
+
+![Fritz!Box > Internet > Online-Monitor](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/Bildschirmfoto%20zu%202019-11-26%2019-59-00.png)
+
 # Fazit
 
 Es ist ein bischen umständlich, aber es lohnt sich. Die Seiten laden jetzt sehr sehr schnell.
