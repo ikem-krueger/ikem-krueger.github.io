@@ -20,7 +20,7 @@ If you wanna use them, you have to:
 2. install browser-sync
 3. run browser-sync
 
-## 1. Download and install [nodejs](https://nodejs.org/en/download/).
+## 1. Download and install [nodejs](https://nodejs.org/en/download/)
 
 ## 2. Install browser-sync:
 
