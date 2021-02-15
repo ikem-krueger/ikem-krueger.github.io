@@ -6,7 +6,7 @@ tags: nodejs, npm, browser-sync
 
 When you are a web developer, you often edit a web page, load them in your browser and refresh the page. Several times...
 
-I know there are IDEs out there, which provide a live updating web server, but for my taste, they are to heavy.
+I know there are IDEs out there, which provide a live updating web server, but for my taste, they are too heavy.
 
 I prefer a simple text editor like [Notepad++](https://notepad-plus-plus.org/downloads/), but I also wanted the comfort of a live updating web server.
 
