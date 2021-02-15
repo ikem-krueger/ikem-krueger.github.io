@@ -17,7 +17,7 @@ One part in hardware, one part in software:
 - Hardware: upgrading the processor to a more efficient processor
 - Software: fixing the maximum clock speed to 2.0 GHz
 
-### Hardware: upgrading the processor to a more efficient processor
+## Hardware: upgrading the processor to a more efficient processor
 
 The Intel Pentium T3200 is one of the worse cpus. It has no SpeedStep, and an L3 cache of 1MB. Both leads to a mediocre performance.
 
@@ -33,27 +33,26 @@ After plugging in the [old cpu](http://www.cpu-world.com/sspec/SL/SLAVG.html), m
 
 ## Software: fixing the maximum clock speed to 2.0 GHz
 
-Fixing the clock speed is done by ThrottleStop.
+Fixing the clock speed is done by [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/).
 
 ### Install and configure ThrottleStop
 
-Download [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) and extract it to "C:\Program Files (x86)\ThrottleStop".
+Download ThrottleStop and extract it to "C:\Program Files (x86)\ThrottleStop".
 
-This will configure ThrottleStop to:
+Either manually configure ThrottleStop to:
 
-"Set Multiplier" to "7.5". Check "SLFM". Uncheck "Disable Turbo". Check "C States".
+* "Multiplier" "7.5"
+* "SLFM" checked
+* "Disable Turbo" unchecked
+* "C States" checked
 
-Download [ThrottleStop.ini](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_files/ThrottleStop/ThrottleStop.ini) and put it into "C:\Program Files (x86)\ThrottleStop".
+Or download [ThrottleStop.ini](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_files/ThrottleStop/ThrottleStop.ini) and put it into "C:\Program Files (x86)\ThrottleStop".
 
-After that the maximum clock changed from 2.5GHz to 2.0 GHz.
+After that the maximum clock changed from 2.5 GHz to 2.0 GHz.
 
 ### Configure Task Scheduler
 
-This let ThrottleStop start on boot:
-
-Download [ThrottleStop.xml](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_files/ThrottleStop/ThrottleStop.xml).
-
-Open Task Scheduler and import "ThrottleStop.xml".
+To let ThrottleStop start on boot, download [ThrottleStop.xml](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_files/ThrottleStop/ThrottleStop.xml) and open the Task Scheduler and import "ThrottleStop.xml".
 
 ## Conclusion
 
