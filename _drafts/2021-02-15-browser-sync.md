@@ -16,7 +16,7 @@ It provides a live updating web server, without the overhead of a full blown IDE
 
 If you wanna use them, you have to:
 
-1. install nodejs
+1. download and install nodejs
 2. install browser-sync
 3. run browser-sync
 
