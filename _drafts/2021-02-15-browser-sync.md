@@ -12,7 +12,7 @@ I prefer a simple text editor like [Notepad++](https://notepad-plus-plus.org/dow
 
 And so I searched the web. And finally I found [browser-sync](https://browsersync.io/).
 
-It provides a live web server, without the overhead of a full blown IDE.
+It provides a live updating web server, without the overhead of a full blown IDE.
 
 If you wanna use them, you have to:
 
