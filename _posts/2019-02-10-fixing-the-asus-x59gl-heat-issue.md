@@ -31,6 +31,8 @@ After plugging the cpu in the socket, adding heat paste, hitting power, the lapt
 
 After plugging in the [old cpu](http://www.cpu-world.com/sspec/SL/SLAVG.html), making a BIOS update from version 208 to [version 222](https://dlcdnets.asus.com/pub/ASUS/nb/F5GL/F5GLAS222.zip) the new cpu was recognized.
 
+So update the BIOS before you upgrade the CPU!
+
 ## Software: fixing the maximum clock speed to 2.0 GHz
 
 Fixing the clock speed is done by [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/).
