@@ -4,11 +4,11 @@ title: Here comes the title
 tags: tag
 ---
 
-When you are a web developer, you often edit a web page, load them in your browser and refresh the page. Several times.
+When you are a web developer, you often edit a web page, load them in your browser and refresh the page. Several times...
 
 I know there are IDEs out there, which provide a live updating web server, but for my taste, they are to heavy.
 
-I prefer a simple text editor like [Notepad++](https://notepad-plus-plus.org/downloads/). But I also wanted the comfort of a live updating web server.
+I prefer a simple text editor like [Notepad++](https://notepad-plus-plus.org/downloads/), but I also wanted the comfort of a live updating web server.
 
 And so I searched the web. And finally I found [browser-sync](https://browsersync.io/).
 
