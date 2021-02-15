@@ -20,9 +20,13 @@ If you wanna use them, you have to:
 2. install browser-sync
 3. run browser-sync
 
-## 1. Download and install [nodejs](https://nodejs.org/en/download/)
+## 1. Download and install nodejs
+
+Download [nodejs](https://nodejs.org/en/download/) and install it.
 
 ## 2. Install browser-sync:
+
+Open your terminal and run:
 
 ```
 npm install --global browser-sync
@@ -30,8 +34,16 @@ npm install --global browser-sync
 
 ## 3. Use browser-sync:
 
+Change in the directory where your `index.html` file lies.
+
+And then run:
+
 ```
 browser-sync start --server --files '*.html, *.css, *.js'
 ```
 
-I'm very fine with that setup.
+This opens your default web browser and opens your `index.html`.
+
+Now edit the source code of your page, and see them instantly updated in your web browser.
+
+Happy coding! :)
