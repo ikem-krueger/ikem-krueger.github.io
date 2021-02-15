@@ -6,7 +6,7 @@ tags: windows, undervolt, underclock
 
 This ASUS X59GL comes pre-configured with an Intel Pentium T3200 Dual Core @ 2GHz, 3GB RAM, 250GB HDD and a DVD-Burner. Shipped with Windows Vista Home Premium 32bit.
 
-The ASUS X59GL has a heat issue. The cpu and gpu are on the same heatpipe. When both are under pressure, the cpu overheats and the laptop shuts down.
+The ASUS X59GL has a heat issue. The cpu and gpu are on the same heatpipe. When the cpu and gpu are under heavy stress, the cpu overheats and the laptop randomly shuts down.
 
 It took me a while to find that out.
 
@@ -26,11 +26,9 @@ I looked for several things: a similar cpu, with the same TDP, and a reasonable 
 
 I decided to upgrade the processor from an [Intel Pentium T3200](http://www.cpu-world.com/sspec/SL/SLAVG.html) to an [Intel Core 2 Duo T9400](http://www.cpu-world.com/sspec/SL/SLGEK.html).
 
-After plugging the cpu in the socket, adding heat paste, hitting power, the laptop did... not boot.
+After plugging the cpu in the socket, adding heat paste, hitting power, the laptop did nothing.
 
 After plugging in the old cpu, making a BIOS update from version 208 to [version 222](https://dlcdnets.asus.com/pub/ASUS/nb/F5GL/F5GLAS222.zip) the new cpu was recognized.
-
-* 5€ [Intel Core 2 Duo T9400](https://www.ebay.de/itm/113327133419)
 
 ## Software
 
