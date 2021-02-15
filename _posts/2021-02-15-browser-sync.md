@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Edit a web page with a live updating web server browser-sync
+title: Edit a web page with a live updating web server
 tags: nodejs, npm, browser-sync
 ---
 
@@ -31,7 +31,7 @@ npm install --global browser-sync
 ## 3. Use browser-sync:
 
 ```
-browser-sync start --server --server --files '*.html, *.css, *.js'
+browser-sync start --server --files '*.html, *.css, *.js'
 ```
 
 I'm very fine with that setup.
