@@ -50,7 +50,7 @@ Either manually configure ThrottleStop to:
 
 Or download [ThrottleStop.ini](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_files/ThrottleStop/ThrottleStop.ini) and put it into "C:\Program Files (x86)\ThrottleStop".
 
-After that the maximum clock changed from 2.5 GHz to 2.0 GHz.
+After that, the maximum clock changed from 2.5 GHz to 2.0 GHz.
 
 ### Configure Task Scheduler
 
