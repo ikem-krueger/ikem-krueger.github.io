@@ -20,7 +20,13 @@ Eigentlich lässt sich der DNS Server sehr leicht in der Fritz!Box Oberfläche �
 
 Nicht so bei der Fritz!Box von Kabel Deutschland/Vodafone. Da gibt es dieses Menü nicht. 
 
-Aber es gibt trotzdem einen Weg das zu ändern. Über das sichern/editieren/wiederherstellen der Einstellungen.
+Aber es gibt trotzdem einen Weg das zu ändern.
+
+Dazu muss man die Einstellungen:
+
+* sichern
+* editieren
+* wiederherstellen
 
 # Sichern
 
