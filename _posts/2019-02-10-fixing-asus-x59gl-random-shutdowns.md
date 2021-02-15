@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fixing the ASUS X59GL heat issue
+title: Fixing ASUS X59GL random shutdowns
 tags: windows, undervolt, underclock
 ---
 
