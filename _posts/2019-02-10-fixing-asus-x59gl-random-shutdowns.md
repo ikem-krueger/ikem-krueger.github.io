@@ -56,6 +56,8 @@ After that, the maximum clock speed changed from 2.5 GHz to 2.0 GHz.
 
 To let ThrottleStop start on boot, download [ThrottleStop.xml](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_files/ThrottleStop/ThrottleStop.xml) and open the Task Scheduler and import "ThrottleStop.xml".
 
-## Conclusion
+## Final words
 
-The combination of the more efficient processor, with a different multiplier results in a lower TDP, which fixes the heat issue.
+The combination of the more efficient processor with a different multiplier resulted in a lower TDP.
+
+The heat issue is gone, and the laptop runs stable now. And so should yours now.
