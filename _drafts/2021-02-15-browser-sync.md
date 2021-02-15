@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Here comes the title
-tags: tag
+title: Edit a web page with a live updating web server browser-sync
+tags: nodejs, npm, browser-sync
 ---
 
 When you are a web developer, you often edit a web page, load them in your browser and refresh the page. Several times...
