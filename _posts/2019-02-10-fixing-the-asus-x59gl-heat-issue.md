@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Taming ASUS X59GL
+title: Fixing the ASUS X59GL heat issue
 tags: windows, undervolt, underclock
 ---
 
-This ASUS X59GL comes pre-configured with an Intel Pentium T3200 Dual Core @ 2GHz, 3GB RAM, 250GB HDD and a DVD-Burner. Shipped with Windows Vista Home Premium 32bit.
+The ASUS X59GL comes pre-configured with an Intel Pentium T3200 Dual Core @ 2.0 GHz, 3GB RAM, 250GB HDD and a DVD-Burner. Shipped with Windows Vista Home Premium 32bit.
 
 The ASUS X59GL has a heat issue. The cpu and gpu are on the same heatpipe. When the cpu and gpu are under heavy stress, the cpu overheats and the laptop randomly shuts down.
 
@@ -12,7 +12,10 @@ It took me a while to find that out.
 
 How do I fixed that?
 
-Part in hardware. Part in software.
+Part in hardware. Part in software:
+
+- upgrading the processor to a more efficient processor
+- fixing the maximum clock speed to 2.0 GHz
 
 ### Hardware
 
@@ -24,13 +27,19 @@ I checked what CPU upgrade were possible. The PGA478 socket allowed any Intel Co
 
 I looked for several things: a similar cpu, with the same TDP, and a reasonable price.
 
-I decided to upgrade the processor from an [Intel Pentium T3200](http://www.cpu-world.com/sspec/SL/SLAVG.html) to an [Intel Core 2 Duo T9400](http://www.cpu-world.com/sspec/SL/SLGEK.html).
+I decided to upgrade the processor to an [Intel Core 2 Duo T9400](http://www.cpu-world.com/sspec/SL/SLGEK.html).
 
 After plugging the cpu in the socket, adding heat paste, hitting power, the laptop did nothing.
 
-After plugging in the old cpu, making a BIOS update from version 208 to [version 222](https://dlcdnets.asus.com/pub/ASUS/nb/F5GL/F5GLAS222.zip) the new cpu was recognized.
+After plugging in the [old cpu](http://www.cpu-world.com/sspec/SL/SLAVG.html), making a BIOS update from version 208 to [version 222](https://dlcdnets.asus.com/pub/ASUS/nb/F5GL/F5GLAS222.zip) the new cpu was recognized.
 
 ## Software
+
+ThrottleStop is an application designed to monitor and correct the CPU throttling that are being used on many laptop computers.
+
+Some laptops are using clock modulation and multiplier reductions to lower the performance and power consumption of your computer. 
+
+This is done deliberately to allow your computer to run cooler. 
 
 ### Install and configure ThrottleStop
 
@@ -56,4 +65,4 @@ This let ThrottleStop start on boot.
 
 ## Conclusion
 
-The combination of the more efficient processor, with a different multiplier fixes the heat issue.
+The combination of the more efficient processor, with a different multiplier results in a lower TDP, which fixes the heat issue.
