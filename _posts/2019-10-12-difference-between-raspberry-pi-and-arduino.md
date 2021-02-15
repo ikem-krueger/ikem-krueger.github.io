@@ -14,4 +14,4 @@ The Arduino runs one program (single tasking), and that's it. The Arduino has an
 
 # When do you use what?
 
-That depends on the task(s). But basically, if it is a "single task job", you use an Arduino.
+That depends on the task(s). But basically, if it is a "single task job", use an Arduino. For everything else, use a Raspberry Pi.
