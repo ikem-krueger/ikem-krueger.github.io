@@ -39,7 +39,7 @@ Change in the directory where your `index.html` file lies.
 And then run:
 
 ```
-browser-sync start --server --files '*.html, *.css, *.js'
+browser-sync start --server --port 5500 --files '*.html, *.css, *.js'
 ```
 
 This opens your default web browser and opens your `index.html`.
