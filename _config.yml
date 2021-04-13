@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/ma
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  separator: -
+  separator:
   dribbble:
   email: Marco Neumann <marco_neu_@arcor.de>
   facebook:
