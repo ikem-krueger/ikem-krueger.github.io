@@ -1,4 +1,8 @@
-# Hackintosh on the ASUS VivoBook 14 F412FA
+---
+layout: post
+title: Hackintosh on the ASUS VivoBook 14 F412FA
+tags: mac os x, cc by-nc-sa
+---
 
 ASUS VivoBook 14 F412FA -> https://www.amazon.de/dp/B07MJBZ5Q2
 
@@ -18,7 +22,7 @@ Modifications:
 - 2,5 Zoll HDD-Cable -> https://www.amazon.de/dp/B07J547VMD/
 - 240 GB SPCC Solid State Disk
 
-## Downloads
+### Downloads
 
 - Mojave Olarila: https://www.olarila.com/topic/6278-olarila-vanilla-images/
 - Clover Boot Disk Creator: https://www.aioboot.com/en/clover-boot-disk
@@ -29,7 +33,7 @@ Modifications:
 - Apple HFS+ Windows Driver: https://forums.macrumors.com/threads/apple-hfs-windows-driver-download.1368010/
 - APFS for Windows Driver: https://www.paragon-software.com/home/apfs-windows/
 
-## Create the Installer USB-Stick
+### Create the Installer USB-Stick
 
 1. Extract "Olarila Mojave.raw.zip" with 7-Zip.
 2. Extract "Olarila Mojave.raw" with 7-Zip.
@@ -38,7 +42,7 @@ Modifications:
     - Clover: "EFI System Partition.img"
     - OSX: "disk image.hfs"
 
-## BIOS Configuration
+### BIOS Configuration
 
 - DVMT Pre-Allocated: 64MB
 - Fast Boot: Disabled
@@ -47,13 +51,13 @@ Modifications:
 - SATA Mode Selection: AHCI
 - VT-d: Disabled
 
-## Post-Installation
+### Post-Installation
 
 - Wi-Fi and Bluetooth: https://blog.kulman.sk/using-intel-wifi-bt-on-macos/
 - Graphics: https://elitemacx86.com/threads/intel-uhd-graphics-620-whiskey-lake-on-laptop-clover-opencore.455/
 - Sound: https://www.youtube.com/watch?v=AVkX4NrdspY
 - Trackpad: https://www.youtube.com/watch?v=XKwtwkqXkLE
 
-## Similar Attempts
+### Similar Attempts
 
 https://github.com/LeeBinder/Asus-Vivobook-S510UA-Hackintosh/
