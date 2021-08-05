@@ -40,6 +40,13 @@ Modifications:
 
 ## BIOS Configuration
 
+- DVMT Pre-Allocated: 64MB
+- Fast Boot: Disabled
+- Secure Boot: Disabled
+- CSM Support: Disabled
+- SATA Mode Selection: AHCI
+- VT-x: Disable
+
 ## Post-Installation
 
 - Wi-Fi and Bluetooth: https://blog.kulman.sk/using-intel-wifi-bt-on-macos/
