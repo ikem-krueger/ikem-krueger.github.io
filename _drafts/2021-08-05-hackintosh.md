@@ -6,7 +6,7 @@ Specifications:
 
 - CPU: Intel Core i3
 - RAM: 4GB on board, 4GB socketed
-- SSD: 250GB Kingston ?
+- SSD: 256GB Kingston ?
 - Wi-Fi: Realtek ?
 - Sound: Realtek ALC256
 - Trackpad: Elan 1200 I2C
@@ -15,7 +15,7 @@ Modifications:
 
 - Intel AX200NGW -> https://www.alternate.de/Intel/Wi-Fi-6-AX200-M-2-vPro-WLAN-Adapter/html/product/1586374
 - 2,5 Zoll HDD-Cable -> https://www.amazon.de/dp/B07J547VMD/
-- SPCC Solid State Disk
+- 250GB SPCC Solid State Disk
 
 ## Downloads
 
