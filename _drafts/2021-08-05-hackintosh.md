@@ -4,6 +4,13 @@ ASUS VivoBook 14 F412FA -> https://www.amazon.de/dp/B07MJBZ5Q2
 
 Specifications:
 
+- CPU: Intel Core i3
+- RAM: 4GB on board, 4GB socketed
+- SSD: 250GB Kingston ?
+- Wi-Fi: Realtek ?
+- Sound: Realtek ALC256
+- Trackpad: Elan 1200 I2C
+
 Modifications:
 
 - Intel AX200NGW -> https://www.alternate.de/Intel/Wi-Fi-6-AX200-M-2-vPro-WLAN-Adapter/html/product/1586374
