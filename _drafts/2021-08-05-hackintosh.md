@@ -27,9 +27,8 @@ Modifications:
 2. Extract "Olarila Mojave.raw" with 7-Zip.
 3. Rename "disk image.hfsx" to "disk image.hfs".
 4. Open Clover Boot Disk Creator:
-
-- Clover: "EFI System Partition.img"
-- OSX: "disk image.hfs"
+    - Clover: "EFI System Partition.img"
+    - OSX: "disk image.hfs"
 
 ## BIOS Configuration
 
