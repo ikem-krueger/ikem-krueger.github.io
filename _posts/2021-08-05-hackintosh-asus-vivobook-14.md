@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hackintosh on the ASUS VivoBook 14 F412FA
+title: Hackintosh on the ASUS VivoBook 14
 tags: mac os x, cc by-nc-sa
 ---
 
