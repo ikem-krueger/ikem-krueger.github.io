@@ -46,3 +46,7 @@ Modifications:
 - Graphics: https://elitemacx86.com/threads/intel-uhd-graphics-620-whiskey-lake-on-laptop-clover-opencore.455/
 - Sound: https://www.youtube.com/watch?v=AVkX4NrdspY
 - Trackpad: https://www.youtube.com/watch?v=XKwtwkqXkLE
+
+## Similar Attempts
+
+https://github.com/LeeBinder/Asus-Vivobook-S510UA-Hackintosh/
