@@ -1,12 +1,12 @@
 # Hackintosh on the ASUS VivoBook 14 F412FA
 
-ASUS VivoBook 14 F412FA: https://www.amazon.de/dp/B07MJBZ5Q2
+ASUS VivoBook 14 F412FA -> https://www.amazon.de/dp/B07MJBZ5Q2
 
 Specifications:
 
 Modifications:
 
-- Intel AX200NGW -> ?
+- Intel AX200NGW -> https://www.alternate.de/Intel/Wi-Fi-6-AX200-M-2-vPro-WLAN-Adapter/html/product/1586374
 - 2,5 Zoll HDD-Cable -> https://www.amazon.de/dp/B07J547VMD/
 - SPCC Solid State Disk
 
@@ -31,6 +31,8 @@ Open Clover Boot Disk Creator:
 
 - Clover: "EFI System Partition.img"
 - OSX: "disk image.hfs"
+
+## BIOS Configuration
 
 ## Post-Installation
 
