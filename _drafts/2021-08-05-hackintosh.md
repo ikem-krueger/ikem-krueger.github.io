@@ -18,6 +18,8 @@ Modifications:
 - itlwm: https://github.com/OpenIntelWireless/itlwm
 - HeliPort: https://github.com/OpenIntelWireless/HeliPort
 - VoodooI2C: https://github.com/VoodooI2C/VoodooI2C
+- Apple HFS+ Windows Driver: https://forums.macrumors.com/threads/apple-hfs-windows-driver-download.1368010/
+- APFS for Windows Driver: https://www.paragon-software.com/home/apfs-windows/
 
 ## Create the Installer USB-Stick
 
