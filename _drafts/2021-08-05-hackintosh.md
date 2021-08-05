@@ -17,6 +17,7 @@ Modifications:
 - itlwm: https://github.com/OpenIntelWireless/itlwm
 - HeliPort: https://github.com/OpenIntelWireless/HeliPort
 - IntelBluetoothFirmware: https://github.com/OpenIntelWireless/IntelBluetoothFirmware
+- VoodooI2C: https://github.com/VoodooI2C/VoodooI2C
 
 ## Create the Installer USB-Stick
 
