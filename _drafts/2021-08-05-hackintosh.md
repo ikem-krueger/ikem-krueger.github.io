@@ -35,6 +35,6 @@ Modifications:
 ## Post-Installation
 
 - Wi-Fi and Bluetooth: https://blog.kulman.sk/using-intel-wifi-bt-on-macos/
-- Intel UHD Graphics 620: https://elitemacx86.com/threads/intel-uhd-graphics-620-whiskey-lake-on-laptop-clover-opencore.455/
+- Graphics: https://elitemacx86.com/threads/intel-uhd-graphics-620-whiskey-lake-on-laptop-clover-opencore.455/
 - Sound: https://www.youtube.com/watch?v=AVkX4NrdspY
 - Trackpad: https://www.youtube.com/watch?v=XKwtwkqXkLE
