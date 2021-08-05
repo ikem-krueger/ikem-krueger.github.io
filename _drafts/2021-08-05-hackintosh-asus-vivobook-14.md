@@ -7,7 +7,7 @@ Specifications:
 - CPU: Intel Core i3-8145U
 - GPU: Intel UHD 620
 - RAM: 4 GB on board, 4 GB socketed
-- SSD: 256 GB Kingston ?
+- SSD: 256 GB KINGSTON RBUSNS8180DS3256GJ
 - Wi-Fi: Realtek ?
 - Sound: Realtek ALC256
 - Trackpad: Elan 1200 I2C
