@@ -4,7 +4,7 @@ ASUS VivoBook 14 F412FA -> https://www.amazon.de/dp/B07MJBZ5Q2
 
 Specifications:
 
-- CPU: Intel Core i3
+- CPU: Intel Core i3-8145U
 - RAM: 4GB on board, 4GB socketed
 - SSD: 256GB Kingston ?
 - Wi-Fi: Realtek ?
