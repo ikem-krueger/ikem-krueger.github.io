@@ -6,13 +6,17 @@ Specifications:
 
 Modifications:
 
-- Intel AX200NGW
-- HDD-Kabel -> Link
+- Intel AX200NGW -> ?
+- 2,5 Zoll HDD-Cable -> https://www.amazon.de/dp/B07J547VMD/
 - SPCC Solid State Disk
 
 ## Downloads
 
-Olarila Vanilla Image: https://www.olarila.com/topic/6278-olarila-vanilla-images/
+- Mojave Olarila: https://www.olarila.com/topic/6278-olarila-vanilla-images/
+- Clover Boot Disk Creator: https://www.aioboot.com/en/clover-boot-disk
+- itlwm: https://github.com/OpenIntelWireless/itlwm
+- HeliPort: https://github.com/OpenIntelWireless/HeliPort
+- IntelBluetoothFirmware: https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 
 ## Create the Installer USB-Stick
 
