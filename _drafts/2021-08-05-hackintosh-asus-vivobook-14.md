@@ -8,7 +8,7 @@ Specifications:
 - GPU: Intel UHD 620
 - RAM: 4 GB on board, 4 GB socketed
 - SSD: 256 GB KINGSTON RBUSNS8180DS3256GJ
-- Wi-Fi: Realtek ?
+- Wi-Fi: Realtek RTL8822BE
 - Sound: Realtek ALC256
 - Trackpad: Elan 1200 I2C
 
