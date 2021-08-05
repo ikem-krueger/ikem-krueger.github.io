@@ -14,20 +14,17 @@ Modifications:
 
 - Mojave Olarila: https://www.olarila.com/topic/6278-olarila-vanilla-images/
 - Clover Boot Disk Creator: https://www.aioboot.com/en/clover-boot-disk
+- IntelBluetoothFirmware: https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 - itlwm: https://github.com/OpenIntelWireless/itlwm
 - HeliPort: https://github.com/OpenIntelWireless/HeliPort
-- IntelBluetoothFirmware: https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 - VoodooI2C: https://github.com/VoodooI2C/VoodooI2C
 
 ## Create the Installer USB-Stick
 
-Extract "Olarila Mojave.raw.zip" with 7-Zip.
-
-Extract "Olarila Mojave.raw" with 7-Zip.
-
-Rename "disk image.hfsx" to "disk image.hfs".
-
-Open Clover Boot Disk Creator:
+1. Extract "Olarila Mojave.raw.zip" with 7-Zip.
+2. Extract "Olarila Mojave.raw" with 7-Zip.
+3. Rename "disk image.hfsx" to "disk image.hfs".
+4. Open Clover Boot Disk Creator:
 
 - Clover: "EFI System Partition.img"
 - OSX: "disk image.hfs"
