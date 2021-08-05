@@ -45,7 +45,7 @@ Modifications:
 - Secure Boot: Disabled
 - CSM Support: Disabled
 - SATA Mode Selection: AHCI
-- VT-x: Disable
+- VT-d: Disabled
 
 ## Post-Installation
 
