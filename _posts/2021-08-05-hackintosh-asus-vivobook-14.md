@@ -29,12 +29,12 @@ Additions:
 
 - Mojave Olarila: https://www.olarila.com/topic/6278-olarila-vanilla-images/
 - Clover Boot Disk Creator: https://www.aioboot.com/en/clover-boot-disk
+- Apple HFS+ Windows Driver: https://forums.macrumors.com/threads/apple-hfs-windows-driver-download.1368010/
+- APFS for Windows Driver: https://www.paragon-software.com/home/apfs-windows/
+- VoodooI2C: https://github.com/VoodooI2C/VoodooI2C
 - IntelBluetoothFirmware: https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 - itlwm: https://github.com/OpenIntelWireless/itlwm
 - HeliPort: https://github.com/OpenIntelWireless/HeliPort
-- VoodooI2C: https://github.com/VoodooI2C/VoodooI2C
-- Apple HFS+ Windows Driver: https://forums.macrumors.com/threads/apple-hfs-windows-driver-download.1368010/
-- APFS for Windows Driver: https://www.paragon-software.com/home/apfs-windows/
 - MaciASL: https://github.com/acidanthera/MaciASL
 
 ### Create the Installer USB-Stick
