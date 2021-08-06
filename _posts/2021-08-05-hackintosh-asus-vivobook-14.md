@@ -59,3 +59,26 @@ Modifications:
 - Sound: https://www.youtube.com/watch?v=AVkX4NrdspY
 - Function Keys: https://alfauzikri.my.id/Asus-Vivobook-Max-X441UVK-Hackintosh/
 - Trackpad: https://www.youtube.com/watch?v=XKwtwkqXkLE
+
+#### Wi-Fi
+
+I used the itwlm+HeliPort combination.
+
+The itwlm 1.2.0 is rock solid, but limited to 2.4GHz networks.
+
+The itwlm 1.3.0 drops the connection every 10 minutes.
+
+The itwlm 2.0.0 alpha also drops the connection, but not as frequently as the itwlm 1.3.0.
+
+#### Backlight
+
+Download "[SSDT-PNLFCFL.dsl](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/AcpiSamples/Source/SSDT-PNLFCFL.dsl)" and rename them to "SSDT-PNLF.dsl".
+
+Use MaciASL to edit "SSDT-PNLF.dsl" and replace all occurrences of "GFX0" with "IGPU".
+
+- Save As: "SSDT-PNLF.aml"
+- File Format: "ACPI Machine Language Binary"
+
+Move the "SSDT-PNLF.aml" to "/EFI/Clover/ACPI/patched".
+
+Reboot.
