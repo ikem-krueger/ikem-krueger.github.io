@@ -62,13 +62,13 @@ Modifications:
 
 #### Wi-Fi
 
-I used the itwlm+HeliPort combination.
+I use the itwlm/HeliPort combination.
 
 The [v1.2.0](https://github.com/OpenIntelWireless/itlwm/releases/tag/v1.2.0) is rock solid, but limited to 2.4GHz networks.
 
-The v1.3.0 drops the connection every 10 minutes.
+The v1.3.0 supports 2.4GHz/5.GHz networks, but drops the connection every 10 minutes.
 
-The [v2.0.0-alpha](https://github.com/OpenIntelWireless/itlwm/releases/tag/v2.0.0-alpha) also drops the connection, but not as frequently as the itwlm 1.3.0.
+The [v2.0.0-alpha](https://github.com/OpenIntelWireless/itlwm/releases/tag/v2.0.0-alpha) same as v1.3.0, but drops the connection less frequently.
 
 #### Backlight
 
