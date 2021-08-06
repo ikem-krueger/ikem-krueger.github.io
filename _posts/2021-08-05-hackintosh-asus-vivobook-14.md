@@ -18,7 +18,7 @@ Specifications:
 
 Modifications:
 
-- Intel AX200NGW -> https://www.alternate.de/Intel/Wi-Fi-6-AX200-M-2-vPro-WLAN-Adapter/html/product/1586374
+- Wi-Fi: Intel AX200NGW -> https://www.alternate.de/Intel/Wi-Fi-6-AX200-M-2-vPro-WLAN-Adapter/html/product/1586374
 
 Additions:
 
