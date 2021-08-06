@@ -33,10 +33,10 @@ Mac OS X "Mojave" is installed on the "external" 240 GB SPCC SSD.
 
 #### Windows
 
-- Mojave Olarila: https://www.olarila.com/topic/6278-olarila-vanilla-images/
-- Clover Boot Disk Creator: https://www.aioboot.com/en/clover-boot-disk
-- Apple HFS+ Windows Driver: https://forums.macrumors.com/threads/apple-hfs-windows-driver-download.1368010/
-- APFS for Windows Driver: https://www.paragon-software.com/home/apfs-windows/
+- [Mojave Olarila](https://www.olarila.com/topic/6278-olarila-vanilla-images/)
+- [Clover Boot Disk Creator](https://www.aioboot.com/en/clover-boot-disk)
+- [Apple HFS+ Windows Driver](https://forums.macrumors.com/threads/apple-hfs-windows-driver-download.1368010/)
+- [APFS for Windows Driver](https://www.paragon-software.com/home/apfs-windows/)
 
 #### Mac OS X
 
