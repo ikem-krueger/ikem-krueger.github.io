@@ -71,6 +71,14 @@ I used Windows 10 to create the installer USB-Stick:
 - SATA Mode Selection: AHCI
 - VT-d: Disabled
 
+### Installation
+
+Hit "Esc" to open the boot menu.
+
+Choose the prepared usb stick and "Mojave Installer".
+
+You need an usb mouse during the installation. Setting up the trackpad happens post-install.
+
 ### Post-Installation
 
 - Wi-Fi and Bluetooth: https://blog.kulman.sk/using-intel-wifi-bt-on-macos/
