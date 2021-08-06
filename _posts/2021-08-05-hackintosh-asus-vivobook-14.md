@@ -99,4 +99,4 @@ Reboot.
 
 #### Trackpad
 
-I used "Kext Wizard" to install the VoodooI2C kexts to "/System/Library/Extensions"!
+Use "Kext Wizard" to install the VoodooI2C kexts to "/System/Library/Extensions"!
