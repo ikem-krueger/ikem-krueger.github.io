@@ -59,9 +59,3 @@ Modifications:
 - Sound: https://www.youtube.com/watch?v=AVkX4NrdspY
 - Function Keys: https://alfauzikri.my.id/Asus-Vivobook-Max-X441UVK-Hackintosh/
 - Trackpad: https://www.youtube.com/watch?v=XKwtwkqXkLE
-
-### Similar Attempts
-
-- https://github.com/LeeBinder/Asus-Vivobook-S510UA-Hackintosh/
-- https://github.com/Konders/Asus-Vivobook-X512UA-hackintosh
-- https://github.com/fgvilches/ASUS-VIVOBOOK-X420-HACKINTOSH
