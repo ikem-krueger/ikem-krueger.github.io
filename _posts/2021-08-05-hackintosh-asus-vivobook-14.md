@@ -45,7 +45,7 @@ Mac OS X "Mojave" will be installed on the "external" 240 GB SPCC SSD.
 - [Kext Wizard](https://noobsplanet.com/index.php?resources/kext-wizard.70/)
 - [HeliPort](https://github.com/OpenIntelWireless/HeliPort)
 
-##### Kexts
+#### Kexts
 
 - [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C)
 - [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
