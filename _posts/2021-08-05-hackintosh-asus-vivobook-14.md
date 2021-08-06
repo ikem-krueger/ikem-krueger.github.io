@@ -55,6 +55,7 @@ Modifications:
 
 - Wi-Fi and Bluetooth: https://blog.kulman.sk/using-intel-wifi-bt-on-macos/
 - Graphics: https://elitemacx86.com/threads/intel-uhd-graphics-620-whiskey-lake-on-laptop-clover-opencore.455/
+- Backlight: https://dortania.github.io/Getting-Started-With-ACPI/Laptops/backlight-methods/manual.html
 - Sound: https://www.youtube.com/watch?v=AVkX4NrdspY
 - Function Keys: https://alfauzikri.my.id/Asus-Vivobook-Max-X441UVK-Hackintosh/
 - Trackpad: https://www.youtube.com/watch?v=XKwtwkqXkLE
