@@ -35,8 +35,11 @@ Additions:
 - VoodooI2C: https://github.com/VoodooI2C/VoodooI2C
 - Apple HFS+ Windows Driver: https://forums.macrumors.com/threads/apple-hfs-windows-driver-download.1368010/
 - APFS for Windows Driver: https://www.paragon-software.com/home/apfs-windows/
+- MaciASL: https://github.com/acidanthera/MaciASL
 
 ### Create the Installer USB-Stick
+
+I used Windows 10 to create the installer USB-Stick.
 
 1. Extract "Olarila Mojave.raw.zip" with 7-Zip.
 2. Extract "Olarila Mojave.raw" with 7-Zip.
