@@ -64,6 +64,12 @@ I used Windows 10 to create the installer USB-Stick:
 
 ### BIOS Configuration
 
+Hit "Esc" to open the boot menu.
+
+Choose "Setup".
+
+Change this settings:
+
 - DVMT Pre-Allocated: 64MB
 - Fast Boot: Disabled
 - Secure Boot: Disabled
