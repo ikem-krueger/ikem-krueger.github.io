@@ -40,10 +40,10 @@ Mac OS X "Mojave" is installed on the "external" 240 GB SPCC SSD.
 
 #### Mac OS X
 
-- Clover Configurator: https://mackie100projects.altervista.org/download-clover-configurator/
-- MaciASL: https://github.com/acidanthera/MaciASL
-- Kext Wizard: https://noobsplanet.com/index.php?resources/kext-wizard.70/
-- HeliPort: https://github.com/OpenIntelWireless/HeliPort
+- [Clover Configurator](https://mackie100projects.altervista.org/download-clover-configurator/)
+- [MaciASL](https://github.com/acidanthera/MaciASL)
+- [Kext Wizard](https://noobsplanet.com/index.php?resources/kext-wizard.70/)
+- [HeliPort](https://github.com/OpenIntelWireless/HeliPort)
 
 ##### Kexts
 
