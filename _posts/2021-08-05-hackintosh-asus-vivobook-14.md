@@ -19,6 +19,9 @@ Specifications:
 Modifications:
 
 - Intel AX200NGW -> https://www.alternate.de/Intel/Wi-Fi-6-AX200-M-2-vPro-WLAN-Adapter/html/product/1586374
+
+Additions:
+
 - 2,5 Zoll HDD-Cable -> https://www.amazon.de/dp/B07J547VMD/
 - 240 GB SPCC Solid State Disk
 
@@ -80,3 +83,5 @@ Use MaciASL to edit "SSDT-PNLF.dsl" and replace all occurrences of "GFX0" with "
 Move the "SSDT-PNLF.aml" to "/EFI/Clover/ACPI/patched".
 
 Reboot.
+
+#### Trackpad
