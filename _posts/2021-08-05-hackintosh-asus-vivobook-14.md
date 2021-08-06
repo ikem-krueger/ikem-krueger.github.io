@@ -4,7 +4,7 @@ title: Hackintosh on the ASUS VivoBook 14
 tags: mac os x, cc by-nc-sa
 ---
 
-ASUS VivoBook 14 F412FA -> https://www.amazon.de/dp/B07MJBZ5Q2
+ASUS VivoBook 14 F412FA -> [Amazon](https://www.amazon.de/dp/B07MJBZ5Q2)
 
 Specifications:
 
@@ -18,12 +18,12 @@ Specifications:
 
 Modifications:
 
-- Wi-Fi: Intel AX200NGW -> https://www.alternate.de/Intel/Wi-Fi-6-AX200-M-2-vPro-WLAN-Adapter/html/product/1586374
+- Wi-Fi: Intel AX200NGW -> [Alternate](https://www.alternate.de/Intel/Wi-Fi-6-AX200-M-2-vPro-WLAN-Adapter/html/product/1586374)
 
 Additions:
 
 - SSD: 240 GB SPCC Solid State Disk
-- 2,5 Zoll HDD-Cable -> https://www.amazon.de/dp/B07J547VMD/
+- 2,5 Zoll HDD-Cable -> [Amazon](https://www.amazon.de/dp/B07J547VMD/)
 
 Windows 10 is installed on the 256 GB Kingston SSD.
 
