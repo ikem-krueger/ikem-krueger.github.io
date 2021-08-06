@@ -47,9 +47,9 @@ Mac OS X "Mojave" is installed on the "external" 240 GB SPCC SSD.
 
 ##### Kexts
 
-- VoodooI2C: https://github.com/VoodooI2C/VoodooI2C
-- IntelBluetoothFirmware: https://github.com/OpenIntelWireless/IntelBluetoothFirmware
-- itlwm: https://github.com/OpenIntelWireless/itlwm
+- [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C)
+- [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+- [itlwm](https://github.com/OpenIntelWireless/itlwm)
 
 ### Create the Installer USB-Stick
 
