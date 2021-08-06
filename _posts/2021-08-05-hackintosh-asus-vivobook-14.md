@@ -60,4 +60,7 @@ Modifications:
 
 ### Similar Attempts
 
-https://github.com/LeeBinder/Asus-Vivobook-S510UA-Hackintosh/
+- https://github.com/LeeBinder/Asus-Vivobook-S510UA-Hackintosh/
+- https://github.com/Konders/Asus-Vivobook-X512UA-hackintosh
+- https://github.com/fgvilches/ASUS-VIVOBOOK-X420-HACKINTOSH
+- https://alfauzikri.my.id/Asus-Vivobook-Max-X441UVK-Hackintosh/
