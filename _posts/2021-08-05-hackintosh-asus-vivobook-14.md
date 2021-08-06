@@ -56,6 +56,7 @@ Modifications:
 - Wi-Fi and Bluetooth: https://blog.kulman.sk/using-intel-wifi-bt-on-macos/
 - Graphics: https://elitemacx86.com/threads/intel-uhd-graphics-620-whiskey-lake-on-laptop-clover-opencore.455/
 - Sound: https://www.youtube.com/watch?v=AVkX4NrdspY
+- Function Keys: https://alfauzikri.my.id/Asus-Vivobook-Max-X441UVK-Hackintosh/
 - Trackpad: https://www.youtube.com/watch?v=XKwtwkqXkLE
 
 ### Similar Attempts
@@ -63,4 +64,3 @@ Modifications:
 - https://github.com/LeeBinder/Asus-Vivobook-S510UA-Hackintosh/
 - https://github.com/Konders/Asus-Vivobook-X512UA-hackintosh
 - https://github.com/fgvilches/ASUS-VIVOBOOK-X420-HACKINTOSH
-- https://alfauzikri.my.id/Asus-Vivobook-Max-X441UVK-Hackintosh/
