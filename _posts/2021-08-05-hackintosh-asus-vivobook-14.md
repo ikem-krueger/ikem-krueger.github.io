@@ -27,19 +27,29 @@ Additions:
 
 ### Downloads
 
+#### Windows
+
 - Mojave Olarila: https://www.olarila.com/topic/6278-olarila-vanilla-images/
 - Clover Boot Disk Creator: https://www.aioboot.com/en/clover-boot-disk
 - Apple HFS+ Windows Driver: https://forums.macrumors.com/threads/apple-hfs-windows-driver-download.1368010/
 - APFS for Windows Driver: https://www.paragon-software.com/home/apfs-windows/
+
+#### Mac OS X
+
+- Clover Configurator: https://mackie100projects.altervista.org/download-clover-configurator/
+- MaciASL: https://github.com/acidanthera/MaciASL
+- Kext Wizard: https://noobsplanet.com/index.php?resources/kext-wizard.70/
+- HeliPort: https://github.com/OpenIntelWireless/HeliPort
+
+##### Kexts
+
 - VoodooI2C: https://github.com/VoodooI2C/VoodooI2C
 - IntelBluetoothFirmware: https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 - itlwm: https://github.com/OpenIntelWireless/itlwm
-- HeliPort: https://github.com/OpenIntelWireless/HeliPort
-- MaciASL: https://github.com/acidanthera/MaciASL
 
 ### Create the Installer USB-Stick
 
-I used Windows 10 to create the installer USB-Stick.
+I used Windows 10 to create the installer USB-Stick:
 
 1. Extract "Olarila Mojave.raw.zip" with 7-Zip.
 2. Extract "Olarila Mojave.raw" with 7-Zip.
@@ -88,3 +98,7 @@ Move the "SSDT-PNLF.aml" to "/EFI/Clover/ACPI/patched".
 Reboot.
 
 #### Trackpad
+
+I used "Kext Wizard" to install the VoodooI2C kexts.
+
+The VoodooI2C kexts need to go to "/System/Library/Extensions"!
