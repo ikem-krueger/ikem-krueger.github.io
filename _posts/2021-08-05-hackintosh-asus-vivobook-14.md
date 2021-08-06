@@ -25,8 +25,7 @@ Additions:
 - SSD: 240 GB SPCC Solid State Disk
 - 2,5 Zoll HDD-Cable -> https://www.amazon.de/dp/B07J547VMD/
 
-Windows 10 is installed on the 256 GB Kingston SSD.
-Mac OS X "Mojave" is installed on the "external" 240 GB SPCC SSD.
+Windows 10 is installed on the 256 GB Kingston SSD. Mac OS X "Mojave" is installed on the "external" 240 GB SPCC SSD.
 
 ### Downloads
 
