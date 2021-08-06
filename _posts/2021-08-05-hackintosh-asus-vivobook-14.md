@@ -95,6 +95,10 @@ You need an usb mouse during the installation. Setting up the trackpad happens p
 - [Function Keys](https://alfauzikri.my.id/Asus-Vivobook-Max-X441UVK-Hackintosh/)
 - [Trackpad](https://www.youtube.com/watch?v=XKwtwkqXkLE)
 
+#### Clover
+
+Clover need to be version <=5122!
+
 #### Wi-Fi
 
 I use the itwlm/HeliPort combination.
