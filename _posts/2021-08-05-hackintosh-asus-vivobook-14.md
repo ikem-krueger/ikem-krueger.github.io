@@ -88,6 +88,7 @@ You need an usb mouse during the installation. Setting up the trackpad happens p
 
 ### Post-Installation
 
+- [Clover](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/clover-setup)
 - [Wi-Fi and Bluetooth](https://blog.kulman.sk/using-intel-wifi-bt-on-macos/)
 - [Graphics](https://elitemacx86.com/threads/intel-uhd-graphics-620-whiskey-lake-on-laptop-clover-opencore.455/)
 - [Backlight](https://dortania.github.io/Getting-Started-With-ACPI/Laptops/backlight-methods/manual.html)
