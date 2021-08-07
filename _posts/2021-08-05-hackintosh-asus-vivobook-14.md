@@ -124,3 +124,5 @@ Reboot.
 #### Trackpad
 
 Use "Kext Wizard" to install the VoodooI2C kexts to "/System/Library/Extensions"!
+
+Open "System Preferences" > "Trackpad" and disable "Force click and haptic feedback".
