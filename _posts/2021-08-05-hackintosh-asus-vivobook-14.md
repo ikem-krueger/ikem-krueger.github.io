@@ -108,6 +108,7 @@ I use the itwlm/HeliPort combination.
 - v1.3.0 supports 2.4GHz/5.GHz networks, but drops the connection every 10 minutes
 - [v2.0.0-alpha](https://github.com/OpenIntelWireless/itlwm/releases/tag/v2.0.0-alpha) same as v1.3.0, but drops the connection less frequently
 
+
 #### Backlight
 
 Download "[SSDT-PNLFCFL.dsl](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/AcpiSamples/Source/SSDT-PNLFCFL.dsl)" and rename them to "SSDT-PNLF.dsl".
@@ -126,3 +127,8 @@ Reboot.
 Use "Kext Wizard" to install the VoodooI2C kexts to "/System/Library/Extensions"!
 
 Open "System Preferences" > "Trackpad" and disable "Force click and haptic feedback".
+
+### Links
+
+ - https://githubmemory.com/repo/tctien342/Asus-Vivobook-S510UA-Hackintosh/issues?cursor=Y3Vyc29yOnYyOpK5MjAyMC0wMS0wNlQwODowOToxOSswODowMM4gg3aN&pagination=next&page=3
+ - https://github.com/LeeBinder/Asus-Vivobook-S510UA-Hackintosh
