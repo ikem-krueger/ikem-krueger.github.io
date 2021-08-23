@@ -122,6 +122,11 @@ Move the "SSDT-PNLF.aml" to "/EFI/Clover/ACPI/patched".
 
 Reboot.
 
+### Sound
+
+- https://www.tonymacx86.com/threads/sound-loss-after-reboot-back-from-windows.264988/#post-1852911
+- https://dortania.github.io/OpenCore-Post-Install/universal/audio.html#applealc-not-working-from-windows-reboot
+
 #### Trackpad
 
 Use "Kext Wizard" to install the VoodooI2C kexts to "/System/Library/Extensions"!
