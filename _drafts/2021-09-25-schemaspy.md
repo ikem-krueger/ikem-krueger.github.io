@@ -26,6 +26,6 @@ That generates a website into `output`. Open `output\index.html` and explore the
 
 Some screenshots of the result:
 
-![SchemaSpy - All Relationships](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/images/schemaspy-places-sqlite-relationships.png)
+![SchemaSpy - Relationships](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/images/schemaspy-places-sqlite-relationships.png)
 
-![SchemaSpy - Utility Tables](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/images/schemaspy-places-sqlite-orphan-tables.png)
+![SchemaSpy - Orphan Tables](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/images/schemaspy-places-sqlite-orphan-tables.png)
