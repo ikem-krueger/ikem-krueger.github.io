@@ -22,7 +22,7 @@ java -jar schemaspy-6.1.0.jar -t sqlite-xerial -dp sqlite-jdbc-3.36.0.3.jar -db 
 
 That generates a website into `output`.
 
-Some screenshots what I was after:
+And now some screenshots of what I was after:
 
 ![SchemaSpy - All Relationships](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/images/schemaspy-places-sqlite-all-relationships.png)
 
