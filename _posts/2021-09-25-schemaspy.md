@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Use SchemaSpy to analyze an SQLite database
+title: Use SchemaSpy to analyze the Firefox places.sqlite database
 tags: schemaspy, sqlite, windows, firefox
 ---
 
