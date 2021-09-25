@@ -16,4 +16,4 @@ Open a terminal and run:
 java -jar schemaspy-6.1.0.jar -t sqlite-xerial -dp sqlite-jdbc-3.36.0.3.jar -db places.sqlite -u root -o output -cat % -s database
 ```
 
-Open "output/index.html".
+Open `output/index.html`.
