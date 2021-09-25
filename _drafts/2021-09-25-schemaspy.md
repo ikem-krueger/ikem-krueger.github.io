@@ -29,3 +29,5 @@ Some screenshots of the result:
 ![SchemaSpy - Relationships](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/images/schemaspy-places-sqlite-relationships.png)
 
 ![SchemaSpy - Orphan Tables](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/images/schemaspy-places-sqlite-orphan-tables.png)
+
+A quite interesting article with a broader use of SchemeSpy can be read [here](https://www.jentsch.io/datenbank-analyse-mit-schemaspy/).
