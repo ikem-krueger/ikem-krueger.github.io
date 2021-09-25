@@ -14,10 +14,12 @@ SchemaSpy is a Java-based command line program for database analysis and visuali
 
 If you want to use it, you need to download [SchemaSpy](https://github.com/schemaspy/schemaspy/releases/download/v6.1.0/schemaspy-6.1.0.jar), the [SQLite JDBC Driver](https://github.com/xerial/sqlite-jdbc/releases/tag/3.36.0.3) and install [GraphViz](https://graphviz.gitlab.io/download/#windows).
 
-After that, open a terminal and run:
+And open a terminal and run:
 
 ```
 java -jar schemaspy-6.1.0.jar -t sqlite-xerial -dp sqlite-jdbc-3.36.0.3.jar -db places.sqlite -u root -o output -cat % -s database
 ```
 
 That generates a website into `output`.
+
+Some screenshots what I was after:
