@@ -4,7 +4,7 @@ title: Use SchemaSpy to analyze the Firefox places.sqlite database
 tags: schemaspy, sqlite, windows, firefox
 ---
 
-I know that Firefox safe the bookmarks and history in the "places.sqlite".
+I know that Firefox saves the bookmarks and history in the "places.sqlite".
 
 I know it is an SQLite database and I wanted to know how the tables are related to each other.
 
