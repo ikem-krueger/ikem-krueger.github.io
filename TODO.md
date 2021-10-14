@@ -1,4 +1,4 @@
-- [ ] move blog to hashnode
+- [ ] move blog to hashnode.com?
 - [ ] add cc-by-sa licence banner
 - [ ] add about page?
 - [ ] load disqus comments on click
