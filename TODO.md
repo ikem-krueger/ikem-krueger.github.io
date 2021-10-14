@@ -1,3 +1,4 @@
+- [ ] move blog to hashnode
 - [ ] add cc-by-sa licence banner
 - [ ] add about page?
 - [ ] load disqus comments on click
