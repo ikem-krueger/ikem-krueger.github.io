@@ -23,7 +23,7 @@ tags: mac os x, hackintosh, clover, olarila
 - Mit Explorer "1.disk image.hfsx" umbenennen zu "1.disk image.hfs"
 - Clover Boot Disk Creator benutzen um "0.EFI System Partition.img" und "1.disk image.hfs" auf USB-Stick zu schreiben
 
-## Installation von Mac OS X
+## Installation von Mac OS X Mojave
 
 - Rechner neustarten
 - Im Clover Bootmenü verharren
