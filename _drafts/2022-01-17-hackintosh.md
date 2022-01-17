@@ -4,7 +4,7 @@ title: Here comes the title
 tags: mac os x, hackintosh, clover, olarila
 ---
 
-## Clover installieren und einrichten
+## Clover 5122 installieren und einrichten
 
 - "Clover-5122-X64.iso.7z" herunterladen -> https://github.com/CloverHackyColor/CloverBootloader/releases/tag/5122
 - Mit 7-Zip "Clover-5122-X64.iso.7z" entpacken
