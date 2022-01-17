@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Here comes the title
-tags: mac os x, hackintosh, clover, olarila
+title: Asus Vivobook Hackintosh
+tags: mac os x, hackintosh, clover, olarila, vivobook
 ---
 
 ## Clover 5122 installieren und einrichten
