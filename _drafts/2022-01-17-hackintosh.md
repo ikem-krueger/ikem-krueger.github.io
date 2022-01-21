@@ -28,7 +28,7 @@ tags: vivobook, mac os x, hackintosh, clover, olarila
 - Rechner neustarten
 - Im Clover Bootmenü verharren
 - USB-Stick am USB 2.0 Anschluss anschliessen
-- Menüpunkt "Mac OS Install" auswählen
+- Menüpunkt "Install MacOs" auswählen
 - USB-Maus anschliessen
 - Nach erstem Neustart, USB-Stick abziehen
 - Im Bootmenü Menüpunkt "Mac OS Mojave" auswählen
