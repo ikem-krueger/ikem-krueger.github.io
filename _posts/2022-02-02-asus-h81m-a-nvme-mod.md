@@ -4,19 +4,21 @@ title: Asus H81M-A NVME Mod
 tags: asus, uefi, nvme, windows
 ---
 
+I wanted to use a NVMe-SSD on my Asus H81M-A motherboard. The motherboard is not equipped with a native NVMe-Slot, hence I bought an PCIe-to-NVMe-Adapter.
+
+With this adapter, Windows is seeing the drive.
+
 Parts used:
 
 - JEYI SK4 M.2 NVMe SSD Adapter
 - Samsung 970 EVO Plus
 
+Unfortunately the UEFI doesn't recognize the NVMe-SSD. It lacks the needed module. But that can be changed...
+
 Software used:
 
 - AFUWINx64 and MMTool (can be found in [NVMe_UEFI_MOD.zip](http://dl.duckteam.org/mods/NVMe_UEFI_MOD/NVMe_UEFI_MOD.zip))
 - [Macrium Reflect Free](https://www.macrium.com/reflectfree)
-
-## Install the SSD on the PCIe-Adapter
-
-- [JEYI SK4 M 2 NVMe SSD NGFF to PCIE X4 Adapter - YouTube](https://www.youtube.com/watch?v=GUL8wqOx754)
 
 ## Patch the UEFI with MMTool
 
@@ -32,7 +34,7 @@ afuwinx64 H81M-A-ASUS-2203.CAP
 afuwinx64 H81M-A-ASUS-2203-NVMe.rom /GAN
 ```
 
-## Activate the Windows built-in NVMe driver during the early boot phase
+## Activate the built-in NVMe driver during the early boot phase
 
 Open the command prompt as administrator and run:
 
