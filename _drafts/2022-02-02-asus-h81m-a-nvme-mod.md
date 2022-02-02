@@ -1,26 +1,24 @@
 # Asus H81M-A NVME Mod
 
-- Parts
-- Install SSD on PCIe-adapter
-- Patch the UEFI with MMTool
-- Activate the Windows built-in NVMe driver during the early boot phase
-- Clone Windows with Macrium Reflect
-
-## Parts
+Parts used:
 
 - JEYI SK4 M.2 NVMe SSD Adapter
 - Samsung 970 EVO Plus
 
-## Install SSD on PCIe-adapter
+Software used:
+
+- MMTool
+- afuwinx64
+- Macrium Reflect
+
+## Install SSD on PCIe-Adapter
 
 Lorem Ipsum
 
 ## Patch the UEFI with MMTool
 
 - Download Original BIOS from [here](https://www.asus.com/en/SupportOnly/H81M-A/HelpDesk_BIOS/)
-- Compile the new firmware with MMTool
-
-Abweichung: "Insert As Compressed"
+- Compile the new firmware with MMTool (Insert As Compressed)
 
 ## Flash new UEFI
 
@@ -28,7 +26,7 @@ Open the command prompt as administrator and run:
 
 ```
 afuwinx64 H81M-A-ASUS-2203.CAP
-afuwinx64 H81M-A-2203-NVMe.rom /GAN
+afuwinx64 H81M-A-ASUS-2203-NVMe.rom /GAN
 ```
 
 ## Activate the Windows built-in NVMe driver during the early boot phase
