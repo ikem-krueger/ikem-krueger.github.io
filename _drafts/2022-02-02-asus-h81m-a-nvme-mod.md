@@ -1,4 +1,8 @@
-# Asus H81M-A NVME Mod
+---
+layout: post
+title: Asus H81M-A NVME Mod
+tags: asus, uefi, nvme, windows
+---
 
 Parts used:
 
