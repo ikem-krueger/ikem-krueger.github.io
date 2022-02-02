@@ -1,0 +1,4 @@
+- SSD auf Adapter installieren
+- UEFI patchen mit MMTool
+- Windows Service einrichten
+- Windows klonen mit Macrium Reflect
