@@ -12,7 +12,7 @@ Software used:
 
 ## Install the SSD on the PCIe-Adapter
 
-\-
+- [Адаптер JEYI SK4 M 2 NVMe SSD NGFF на PCIE X4](https://www.youtube.com/watch?v=GUL8wqOx754)
 
 ## Patch the UEFI with MMTool
 
