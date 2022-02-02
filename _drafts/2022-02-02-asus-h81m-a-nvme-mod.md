@@ -17,10 +17,16 @@ Lorem Ipsum
 
 ## Patch the UEFI with MMTool
 
-- [Original BIOS herunterladen](https://www.asus.com/de/SupportOnly/H81M-A/HelpDesk_BIOS/)
-- [Kompilieren einer neuen Firmware mit dem MMTool](https://rothlive.de/de/article/asus-rampage-iv-samsung-970-pro-einbauen-uefi-mod-bei-ami-uefi-bios)
+- Download Original BIOS from [here](https://www.asus.com/en/SupportOnly/H81M-A/HelpDesk_BIOS/)
+- Compile the new firmware with MMTool
 
 Abweichung: "Insert As Compressed"
+
+## Flash new UEFI
+
+```
+afuwinx64
+```
 
 ## Activate the Windows built-in NVMe driver during the early boot phase
 
@@ -36,4 +42,5 @@ Lorem Ipsum
 
 ## Links
 
+- https://rothlive.de/de/article/asus-rampage-iv-samsung-970-pro-einbauen-uefi-mod-bei-ami-uefi-bios
 - https://superuser.com/questions/1640562/inaccessible-boot-device-after-m-2-ssd-upgrade/1640566#1640566
