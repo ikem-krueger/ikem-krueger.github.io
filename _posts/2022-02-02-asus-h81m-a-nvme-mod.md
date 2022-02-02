@@ -4,9 +4,9 @@ title: Asus H81M-A NVME Mod
 tags: asus, uefi, nvme, windows
 ---
 
-I wanted to use a NVMe-SSD on my Asus H81M-A motherboard. The motherboard is not equipped with a native NVMe-Slot, hence I bought an PCIe-to-NVMe-Adapter.
+I wanted to use an NVMe-SSD on my Asus H81M-A motherboard. The motherboard is not equipped with a native NVMe-Slot, hence I bought a PCIe-to-NVMe-Adapter.
 
-With this adapter, Windows is seeing the drive. Unfortunately the UEFI doesn't recognize the NVMe-SSD. It lacks the needed module. But that can be changed...
+With this adapter, Windows is seeing the drive. Unfortunately the UEFI doesn't recognize the NVMe-SSD to boot from it. But that can be changed...
 
 Parts used:
 
