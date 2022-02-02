@@ -12,7 +12,7 @@ Software used:
 
 ## Install SSD on PCIe-Adapter
 
-Lorem Ipsum
+\-
 
 ## Patch the UEFI with MMTool
 
