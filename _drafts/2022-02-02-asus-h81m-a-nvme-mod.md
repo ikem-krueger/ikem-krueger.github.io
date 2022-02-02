@@ -30,6 +30,10 @@ Open the command prompt as administrator and run:
 sc.exe config stornvme start= boot
 ```
 
-[superuser.com](https://superuser.com/questions/1640562/inaccessible-boot-device-after-m-2-ssd-upgrade/1640566#1640566)
-
 ## Clone Windows with Macrium Reflect
+
+Lorem Ipsum
+
+## Links
+
+- https://superuser.com/questions/1640562/inaccessible-boot-device-after-m-2-ssd-upgrade/1640566#1640566
