@@ -18,7 +18,7 @@ Lorem Ipsum
 ## Patch the UEFI with MMTool
 
 - Download the original BIOS file [H81M-A-ASUS-2203.zip](https://dlcdnets.asus.com/pub/ASUS/mb/LGA1150/H81M-A/H81M-A-ASUS-2203.zip) and the UEFI Module [NvmExpressDxe_4.rar](https://www.win-unattended.de/Benutzer/Fernando/BIOS-Files/non-Intel/NVMe%20Modules/NvmExpressDxe_4.rar)
-- Compile the new firmware with MMTool (Insert As Compressed)
+- [Compile the new firmware with MMTool](https://rothlive.de/de/article/asus-rampage-iv-samsung-970-pro-einbauen-uefi-mod-bei-ami-uefi-bios)
 
 ## Flash new UEFI
 
@@ -37,11 +37,6 @@ Open the command prompt as administrator and run:
 sc.exe config stornvme start= boot
 ```
 
-## Clone Windows with Macrium Reflect
+## Cloning Windows to the NVMe SSD
 
-Lorem Ipsum
-
-## Links
-
-- https://rothlive.de/de/article/asus-rampage-iv-samsung-970-pro-einbauen-uefi-mod-bei-ami-uefi-bios
-- https://superuser.com/questions/1640562/inaccessible-boot-device-after-m-2-ssd-upgrade/1640566#1640566
+- [Cloning a disk using Macrium Reflect](https://www.youtube.com/watch?v=LClr3FPg4_4)
