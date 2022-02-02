@@ -2,7 +2,7 @@
 
 - Parts
 - Install SSD on PCIe-adapter
-- UEFI patchen mit MMTool
+- Patch the UEFI with MMTool
 - Activate the Windows built-in NVMe driver during the early boot phase
 - Clone Windows with Macrium Reflect
 
@@ -15,7 +15,7 @@
 
 Lorem Ipsum
 
-## Path the UEFI with MMTool
+## Patch the UEFI with MMTool
 
 - [Original BIOS herunterladen](https://www.asus.com/de/SupportOnly/H81M-A/HelpDesk_BIOS/)
 - [Kompilieren einer neuen Firmware mit dem MMTool](https://rothlive.de/de/article/asus-rampage-iv-samsung-970-pro-einbauen-uefi-mod-bei-ami-uefi-bios)
