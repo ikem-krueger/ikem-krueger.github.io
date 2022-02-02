@@ -7,9 +7,8 @@ Parts used:
 
 Software used:
 
-- MMTool
-- afuwinx64
-- Macrium Reflect
+- AFUWINx64 and MMTool (can be found in [NVMe_UEFI_MOD.zip](http://dl.duckteam.org/mods/NVMe_UEFI_MOD/NVMe_UEFI_MOD.zip))
+- [Macrium Reflect Free](https://www.macrium.com/reflectfree)
 
 ## Install SSD on PCIe-Adapter
 
