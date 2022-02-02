@@ -28,7 +28,7 @@ Open the command prompt as administrator and run:
 
 ```
 afuwinx64 H81M-A-ASUS-2203.CAP
-afuwinx64 H81M-A-2203-NVMe.rom
+afuwinx64 H81M-A-2203-NVMe.rom /GAN
 ```
 
 ## Activate the Windows built-in NVMe driver during the early boot phase
