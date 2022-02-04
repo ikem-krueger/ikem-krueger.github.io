@@ -43,9 +43,7 @@ AFUWINx64.EXE H81M-A-ASUS-2203-NVMe.rom /GAN
 
 ## Activate the built-in NVMe driver during the boot
 
-If you had Windows installed on an SATA device, then only the SATA driver (e.g. StorAhci) is enabled for "boot start".
-
-The NVMe driver is deferred to a later phase.
+If you had Windows installed on an SATA device, then only the SATA driver (e.g. StorAhci) is enabled for "boot start". The NVMe driver is deferred to a later phase.
 
 To enable the NVMe driver for the "boot start" phase, run the command:
 
