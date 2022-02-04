@@ -8,7 +8,7 @@ I wanted to use an NVMe-SSD on my Asus H81M-A motherboard. The motherboard is no
 
 With this adapter, Windows is seeing the drive. Unfortunately the UEFI doesn't recognize the NVMe-SSD to boot from it. But that can be changed...
 
-Parts used:
+Hardware used:
 
 - JEYI SK4 M.2 NVMe SSD Adapter
 - Samsung 970 EVO Plus
@@ -23,7 +23,7 @@ Software used:
 - Download the BIOS file [H81M-A-ASUS-2203.zip](https://dlcdnets.asus.com/pub/ASUS/mb/LGA1150/H81M-A/H81M-A-ASUS-2203.zip) and the UEFI Module [NvmExpressDxe_4.rar](https://www.win-unattended.de/Benutzer/Fernando/BIOS-Files/non-Intel/NVMe%20Modules/NvmExpressDxe_4.rar)
 - [Compile the new firmware with MMTool](https://rothlive.de/de/article/asus-rampage-iv-samsung-970-pro-einbauen-uefi-mod-bei-ami-uefi-bios)
 
-## Or use the patched UEFI file I created
+## Alternative use the patched UEFI file I created
 
 - Download [H81M-A-ASUS-2203-NVMe.zip](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_files/UEFI/H81M-A-ASUS-2203-NVMe.zip)
 
