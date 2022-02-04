@@ -23,9 +23,9 @@ Software used:
 - Download the BIOS file [H81M-A-ASUS-2203.zip](https://dlcdnets.asus.com/pub/ASUS/mb/LGA1150/H81M-A/H81M-A-ASUS-2203.zip) and the UEFI Module [NvmExpressDxe_4.rar](https://www.win-unattended.de/Benutzer/Fernando/BIOS-Files/non-Intel/NVMe%20Modules/NvmExpressDxe_4.rar)
 - [Compile the new firmware with MMTool](https://rothlive.de/de/article/asus-rampage-iv-samsung-970-pro-einbauen-uefi-mod-bei-ami-uefi-bios)
 
-## Or use the UEFI file I created
+## Or use the patched UEFI file I created
 
-- Download [H81M-A-ASUS-2203-NVMe.zip](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_files/ThrottleStop/H81M-A-ASUS-2203-NVMe.zip)
+- Download [H81M-A-ASUS-2203-NVMe.zip](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_files/UEFI/H81M-A-ASUS-2203-NVMe.zip)
 
 ## Flash the new UEFI
 
