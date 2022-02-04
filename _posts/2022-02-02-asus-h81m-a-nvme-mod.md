@@ -29,6 +29,8 @@ Software used:
 
 ## Flash the new UEFI
 
+To circumvent the ASUS BIOS protection, you need to flash the BIOS twice.
+
 Use an elevated command prompt and run the `AFUWINx64.EXE` file using the ORIGINAL UNMODIFIED .CAP file:
 
 ```
