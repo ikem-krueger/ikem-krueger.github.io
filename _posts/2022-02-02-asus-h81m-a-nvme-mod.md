@@ -15,26 +15,39 @@ Parts used:
 
 Software used:
 
-- AFUWINx64 and MMTool (can be found in [NVMe_UEFI_MOD.zip](http://dl.duckteam.org/mods/NVMe_UEFI_MOD/NVMe_UEFI_MOD.zip))
 - [Macrium Reflect Free](https://www.macrium.com/reflectfree)
 
-## Patch the UEFI with MMTool
+## Manual patch the UEFI with MMTool
 
+- Download AFUWINx64 and MMTool (can be found in [NVMe_UEFI_MOD.zip](http://dl.duckteam.org/mods/NVMe_UEFI_MOD/NVMe_UEFI_MOD.zip))
 - Download the BIOS file [H81M-A-ASUS-2203.zip](https://dlcdnets.asus.com/pub/ASUS/mb/LGA1150/H81M-A/H81M-A-ASUS-2203.zip) and the UEFI Module [NvmExpressDxe_4.rar](https://www.win-unattended.de/Benutzer/Fernando/BIOS-Files/non-Intel/NVMe%20Modules/NvmExpressDxe_4.rar)
 - [Compile the new firmware with MMTool](https://rothlive.de/de/article/asus-rampage-iv-samsung-970-pro-einbauen-uefi-mod-bei-ami-uefi-bios)
 
+## Or use the UEFI file I created
+
+- Download [H81M-A-ASUS-2203-NVMe.zip](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_files/ThrottleStop/H81M-A-ASUS-2203-NVMe.zip)
+
 ## Flash the new UEFI
 
-Open the command prompt as administrator and run:
+Use an elevated command prompt and run the `AFUWINx64.EXE` file using the ORIGINAL UNMODIFIED .CAP file:
 
 ```
-afuwinx64 H81M-A-ASUS-2203.CAP
-afuwinx64 H81M-A-ASUS-2203-NVMe.rom /GAN
+AFUWINx64.EXE H81M-A-ASUS-2203.CAP
+```
+
+Now run the program again with the modified ROM file with the `/GAN` tag after it:
+
+```
+AFUWINx64.EXE H81M-A-ASUS-2203-NVMe.rom /GAN
 ```
 
 ## Activate the built-in NVMe driver during the boot
 
-Open the command prompt as administrator and run:
+If you had Windows installed on an SATA device, then only the SATA driver (e.g. StorAhci) is enabled for "boot start".
+
+The NVMe driver is deferred to a later phase.
+
+To enable the NVMe driver for the "boot start" phase, run the command:
 
 ```
 sc.exe config stornvme start= boot
