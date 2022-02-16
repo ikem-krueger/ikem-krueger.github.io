@@ -53,3 +53,11 @@ UUID="c5772dbe-013c-4a3c-85e4-5a9b3b94d783" /home               btrfs    default
 ## Reinstall GRUB
 
 I used "Boot Repair", but I like to do that with the command line.
+
+## Delete Ext4 subvolume
+
+Suppose you're satisfied now and do not intend to rollback. Delete the saved subvolume:
+
+```
+btrfs subvol delete ext2_saved
+```
