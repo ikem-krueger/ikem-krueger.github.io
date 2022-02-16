@@ -52,4 +52,4 @@ UUID="c5772dbe-013c-4a3c-85e4-5a9b3b94d783" /home               btrfs    default
 
 ## Reinstall GRUB
 
-**TODO**
+I used "Boot Repair", but I like to do that with the command line.
