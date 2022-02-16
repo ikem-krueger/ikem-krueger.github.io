@@ -10,9 +10,9 @@ If Picons/Channel Logo’s are not updating when changed, do the following to cl
 
 ```
 trash $HOME/.kodi/userdata/Thumbnails/*/*.png
-trash $HOME/.kodi/userdata/Database/Textures13.dB
+trash $HOME/.kodi/userdata/Database/Textures*.dB
 ```
 
 The above assumes a Linux based OS. Alter the command for other platforms.
 
-Then restart kodi. Note that your Textures*.db file may have a different number.
+Then restart kodi.
