@@ -4,6 +4,8 @@ title: Migrate installed Linux Mint to btrfs
 tags: linux mint, btrfs
 ---
 
+Boot Linux Mint from an USB-Stick to make these changes.
+
 ## Convert partition from Ext4 to Btrfs
 
 ```
