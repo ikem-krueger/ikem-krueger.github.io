@@ -48,6 +48,6 @@ UUID="c5772dbe-013c-4a3c-85e4-5a9b3b94d783" /               btrfs    defaults,su
 UUID="c5772dbe-013c-4a3c-85e4-5a9b3b94d783" /home               btrfs    defaults,subvol=@home 0       0
 ```
 
-## Update GRUB
+## Reinstall GRUB
 
 **TODO**
