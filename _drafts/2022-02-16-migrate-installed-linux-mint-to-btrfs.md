@@ -54,5 +54,5 @@ UUID="c5772dbe-013c-4a3c-85e4-5a9b3b94d783" /home               btrfs    default
 sudo apt install grub-efi
 sudo mkdir /media/root && sudo mount /dev/sda2 /media/root
 sudo mkdir /media/efi && sudo mount /dev/sda1 /media/efi
-sudo grub-install --target=x86_64-efi /dev/sda --efi-directory=/media/efi --boot-directory=/media/root/@/boot
+sudo grub-install --target=x86_64-efi /dev/sda --efi-directory=/media/efi --boot-directory=/media/root/@/boot --modules="btrfs part_gpt"
 ```
