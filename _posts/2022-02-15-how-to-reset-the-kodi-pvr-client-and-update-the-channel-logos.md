@@ -4,9 +4,9 @@ title: How to reset the Kodi pvr client and update the channel logos
 tags: tvheadend, kodi, linux, raspberry pi, xbian
 ---
 
-Go to Kodi Settings -> PVR & Live TV -> General. Under "General", there is a command to "Clear data".
+Go to Kodi Settings -> "PVR & Live TV" -> "General" and execute "Clear data".
 
-If Picons/Channel Logo’s are not updating when changed, do the following to clear the logo cache in kodi:
+Do the following to clear the logo cache:
 
 ```
 trash $HOME/.kodi/userdata/Thumbnails
