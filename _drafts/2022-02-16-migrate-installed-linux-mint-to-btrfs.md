@@ -35,7 +35,14 @@ sudo rm -r $(ls -1|grep -Ev "^@|ext2_saved"|tr '\n' ' ')
 
 ## Update "/etc/fstab"
 
+Get the UUID for the Btrfs partition:
+
 ```
 sudo blkid /dev/sda2
-sudo nano @/etc/fstab 
+```
+
+Change "/etc/fstab":
+
+```
+UUID="c5772dbe-013c-4a3c-85e4-5a9b3b94d783" /               btrfs    defaults,subvol=@ 0       0
 ```
