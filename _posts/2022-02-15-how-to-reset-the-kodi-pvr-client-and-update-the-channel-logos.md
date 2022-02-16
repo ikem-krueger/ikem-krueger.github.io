@@ -13,6 +13,4 @@ trash $HOME/.kodi/userdata/Thumbnails
 trash $HOME/.kodi/userdata/Database/Textures*.dB
 ```
 
-The above assumes a Linux based OS. Alter the command for other platforms.
-
 Then restart kodi.
