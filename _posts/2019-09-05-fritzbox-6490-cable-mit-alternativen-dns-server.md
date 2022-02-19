@@ -38,7 +38,7 @@ Dazu muss man die Einstellungen:
 
 ![Fritz!Box > System > Sicherung > Sichern](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/Bildschirmfoto%202019-09-05%20um%2015.40.02.png)
 
-Als Kennwort benutze ich das Anmelde-Kennwort der Fritz!Box Oberfläche. So muss ich mir kein Extra Kennwort merken.
+Als Kennwort benutze ich das Anmelde-Kennwort der Fritz!Box Oberfläche. So muss ich mir kein extra Kennwort merken.
 
 Ich empfehle eine Kopie von der Konfigurationsdatei zu machen. Dann kann man die Einstellungen bei Bedarf wieder zurücksetzen.
 
@@ -90,7 +90,8 @@ Dafür braucht man das Tool "[fritzchecksum](https://github.com/mementum/fritzch
 
 Fritzchecksum herunterladen und entpacken:
 
-Für 32-Bit Systeme [fritzchecksum-0.0.3.zip](https://github.com/mementum/fritzchecksum/releases/download/0.0.3/fritzchecksum-0.0.3.zip), für 64-Bit Systeme [fritzchecksum-amd64-0.0.3.zip](https://github.com/mementum/fritzchecksum/releases/download/0.0.3/fritzchecksum-amd64-0.0.3.zip) herunterladen.
+* für 32-Bit Systeme [fritzchecksum-0.0.3.zip](https://github.com/mementum/fritzchecksum/releases/download/0.0.3/fritzchecksum-0.0.3.zip)
+* für 64-Bit Systeme [fritzchecksum-amd64-0.0.3.zip](https://github.com/mementum/fritzchecksum/releases/download/0.0.3/fritzchecksum-amd64-0.0.3.zip)
 
 Reparatur:
 
