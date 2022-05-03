@@ -16,7 +16,7 @@ Eigentlich lässt sich der DNS Server sehr leicht in der Fritz!Box Oberfläche �
 * In der Seitenleiste auf "Internet", "Zugangsdaten"
 * Dann auf den Reiter "DNS Server"
 
-![Fritz!Box > Internet > Zugangsdaten > DNS Server](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/FritzBox-DNS-1024x465.png)
+![Fritz!Box > Internet > Zugangsdaten > DNS Server](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/images/FritzBox-DNS-1024x465.png)
 
 Nicht so bei der Fritz!Box von Kabel Deutschland/Vodafone. Da gibt es dieses Menü nicht. 
 
@@ -36,7 +36,7 @@ Dazu muss man die Einstellungen:
 * Kennwort eingeben
 * Auf "Sichern" klicken
 
-![Fritz!Box > System > Sicherung > Sichern](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/Bildschirmfoto%202019-09-05%20um%2015.40.02.png)
+![Fritz!Box > System > Sicherung > Sichern](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/images/Bildschirmfoto%202019-09-05%20um%2015.40.02.png)
 
 Als Kennwort benutze ich das Anmelde-Kennwort der Fritz!Box Oberfläche. So muss ich mir kein extra Kennwort merken.
 
@@ -100,7 +100,7 @@ Reparatur:
 * "FRITZ.Box 6490 Cable (kdg) 141.07.01_04.09.19_2255.export" auswählen
 * Auf "Re-Calculate" und "Save" klicken
 
-![](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/fritzchecksum.png)
+![](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/images/fritzchecksum.png)
 
 #### Mac OS X
 
@@ -144,7 +144,7 @@ fritzchecksum -c "FRITZ.Box 6490 Cable (kdg) 141.07.01_04.09.19_2255.export"
 * Datei auswählen
 * Auf "Wiederherstellen" klicken
 
-![Fritz!Box > System > Sicherung > Wiederherstellen](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/Bildschirmfoto%202019-09-05%20um%2015.40.23.png)
+![Fritz!Box > System > Sicherung > Wiederherstellen](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/images/Bildschirmfoto%202019-09-05%20um%2015.40.23.png)
 
 Die Fritz!Box lädt jetzt die Konfigurationsdatei, und startet danach neu.
 
@@ -154,7 +154,7 @@ Ob alles so geklappt hat wie man möchte, sieht man bei:
 
 "Internet > Online-Monitor" "Genutzte DNS-Server"
 
-![Fritz!Box > Internet > Online-Monitor](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/_posts/2019-09-05-fritzbox-6490-cable-mit-alternativen-dns-server/Bildschirmfoto%20zu%202019-11-26%2019-59-00.png)
+![Fritz!Box > Internet > Online-Monitor](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/images/Bildschirmfoto%20zu%202019-11-26%2019-59-00.png)
 
 # Fazit
 
