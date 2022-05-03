@@ -11,5 +11,6 @@ layout: default
       {{ post.date | date: "%Y-%m-%d: " }}<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br>
     {% endfor %}
   </div>
+  {% include disqus.html %}
   {% include utterances.html %}
 </article>
