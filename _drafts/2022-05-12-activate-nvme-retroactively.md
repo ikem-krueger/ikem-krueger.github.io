@@ -6,6 +6,8 @@ tags: windows, nvme, registry
 
 ## Boot into Windows Recovery Environment
 
+[TODO]
+
 ## Load registry hive
 
 ```reg load "HKLM\temp" "X:\Windows\System32\config\SYSTEM"```
