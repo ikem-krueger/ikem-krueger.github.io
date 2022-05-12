@@ -6,7 +6,7 @@ tags: windows, nvme, registry
 
 ## Boot into Windows Recovery Environment
 
-[TODO]
+Open command prompt.
 
 ## Load registry hive
 
