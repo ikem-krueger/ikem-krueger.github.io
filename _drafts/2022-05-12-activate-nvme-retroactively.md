@@ -42,8 +42,8 @@ The default service start type for `stornvme` is "".
 
 ## Sources
 
-- Registry offline bearbeiten mit regedit.exe oder PowerShell | WindowsPro
-- Startmode eines Dienstes über die Registry verändern - Tipps & Tricks
-- [Windows 10] - NVMe nachträglich aktivieren - WinFuture-Forum.de
-- Mit WinRE Registry offline editieren
-- Reg.exe Offline registry edit
+- [Registry offline bearbeiten mit regedit.exe oder PowerShell | WindowsPro](https://www.windowspro.de/wolfgang-sommergut/registry-offline-bearbeiten-regeditexe-powershell)
+- [Startmode eines Dienstes über die Registry verändern - Tipps & Tricks](https://www.wintotal.de/tipp/startmode-eines-dienstes-ueber-die-registry-veraendern/)
+- [[Windows 10] - NVMe nachträglich aktivieren - WinFuture-Forum.de](https://www.winfuture-forum.de/index.php?showtopic=220017)
+- [Mit WinRE Registry offline editieren | WindowsPro](https://www.windowspro.de/andreas-kroschel/mit-winre-registry-offline-editieren)
+- [windows 7 - Reg.exe Offline registry edit - Super User](https://superuser.com/questions/834864/reg-exe-offline-registry-edit/1625932#1625932)
