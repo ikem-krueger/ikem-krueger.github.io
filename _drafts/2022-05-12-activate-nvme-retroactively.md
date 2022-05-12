@@ -12,7 +12,7 @@ Open command prompt.
 
 ```reg load "HKLM\temp" "X:\Windows\System32\config\SYSTEM"```
 
-Adjust the drive letter "X:" accourdingly.
+Adjust the drive letter "X:" accordingly.
 
 ## Change service start type
 
