@@ -4,7 +4,7 @@ title: Reasonable Colors palette for Gimp and Inkscape
 tags: gimp, inkscape, firefox, javascript
 ---
 
-I recently stumbled upon [Reasonable Colors](https://reasonable.work/colors). And also recently I use [Inkscape](https://inkscape.org/) for vector graphics.
+I use [Inkscape](https://inkscape.org/) for vector graphics. And recently stumbled upon [Reasonable Colors](https://reasonable.work/colors).
 
 I know Inkscape supports custom color palettes, and I wanted the Reasonable Colors as an option.
 
@@ -20,7 +20,7 @@ document.querySelectorAll(".color").forEach((n) => {
   
   try {
     [, r, g, b] = rgbColor.match(/rgb\((\d+), (\d+), (\d+)\)/);
-  } catch(e) {
+  } catch(e if e instanceof TypeError) {
     r = 246; g = 246; b = 246; // gray 1
   } 
   
@@ -33,12 +33,6 @@ document.querySelectorAll(".color").forEach((n) => {
 });
 ```
 
-After some tweaking, I got the result I wanted.
+After some tweaking, I got the result I wanted. You can download the "Reasonable Colors.gpl".
 
-You can download the "Reasonable Colors.gpl" from here.
-
-To import them into Inkscape, open "Edit > Settings > System" on the right side you find "User color palettes".
-
-Click on "Open" and place the "Reasonable Colors.gpl" file there.
-
-Restart Inkscape. When you now open Inkscape, click on hamburger menu in the right corner and choose "Reasonable Colors".
+To import them into Inkscape, follow this [tutorial](https://daviesmediadesign.com/how-to-import-palettes-into-inkscape/).
