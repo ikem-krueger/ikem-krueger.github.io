@@ -11,6 +11,10 @@ I know Inkscape supports custom color palettes, and I wanted the Reasonable Colo
 So I wrote a little script for the Firefox console to scrape the colors from the website:
 
 ```javascript
+function capitalize(string) {
+  return string.charAt(0).toUpperCase() + string.slice(1);
+}
+
 let i = 0;
 
 document.querySelectorAll(".color").forEach((n) => {
@@ -20,14 +24,14 @@ document.querySelectorAll(".color").forEach((n) => {
   
   try {
     [, r, g, b] = rgbColor.match(/rgb\((\d+), (\d+), (\d+)\)/);
-  } catch(e if e instanceof TypeError) {
+  } catch(e) {
     r = 246; g = 246; b = 246; // gray 1
   } 
   
   const colorName = n.parentNode.previousElementSibling.innerText;
   let j = (i % 6) + 1;
   
-  console.log(`${r} ${g} ${b} ${colorName} ${j}`);
+  console.log(`${r} ${g} ${b} ${capitalize(colorName)} Shade ${j}`);
   
   i++;
 });
