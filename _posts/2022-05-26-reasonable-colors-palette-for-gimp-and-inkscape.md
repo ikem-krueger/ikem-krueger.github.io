@@ -41,4 +41,4 @@ After some tweaking, I got the result I wanted. Click on "[Reasonable Colors.gpl
 
 To import them into Inkscape, follow this [tutorial](https://daviesmediadesign.com/how-to-import-palettes-into-inkscape/).
 
-Update: Fix file location, update color names
+Edit: Fix file location, update color names
