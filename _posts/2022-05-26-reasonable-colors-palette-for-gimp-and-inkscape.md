@@ -25,11 +25,11 @@ document.querySelectorAll(".color").forEach((n) => {
   try {
     [, r, g, b] = rgbColor.match(/rgb\((\d+), (\d+), (\d+)\)/);
   } catch(e) {
-    r = 246; g = 246; b = 246; // gray 1
+    r = 246; g = 246; b = 246; // Gray Shade 1
   } 
   
   const colorName = n.parentNode.previousElementSibling.innerText;
-  let j = (i % 6) + 1;
+  const j = (i % 6) + 1;
   
   console.log(`${r} ${g} ${b} ${capitalize(colorName)} Shade ${j}`);
   
@@ -41,4 +41,4 @@ After some tweaking, I got the result I wanted. Click on "[Reasonable Colors.gpl
 
 To import them into Inkscape, follow this [tutorial](https://daviesmediadesign.com/how-to-import-palettes-into-inkscape/).
 
-Edit: Fix file location, update color names
+Edit: Update script, fix file location, update color names
