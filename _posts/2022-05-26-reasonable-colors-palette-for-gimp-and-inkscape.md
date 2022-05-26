@@ -40,3 +40,5 @@ document.querySelectorAll(".color").forEach((n) => {
 After some tweaking, I got the result I wanted. Click on "[Reasonable Colors.gpl](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/_files/Reasonable%20Colors/Reasonable%20Colors.gpl)" to download the color palette.
 
 To import them into Inkscape, follow this [tutorial](https://daviesmediadesign.com/how-to-import-palettes-into-inkscape/).
+
+Update: Fix file location, update color names
