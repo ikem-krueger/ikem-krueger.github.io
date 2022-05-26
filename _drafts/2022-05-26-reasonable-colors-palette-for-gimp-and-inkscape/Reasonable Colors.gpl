@@ -2,153 +2,153 @@ GIMP Palette
 Name: Reasonable Colors
 Columns: 0
 #
-246 246 246 gray 1
-226 226 226 gray 2
-139 139 139 gray 3
-111 111 111 gray 4
-62 62 62 gray 5
-34 34 34 gray 6
-255 247 249 rose 1
-255 220 229 rose 2
-255 59 141 rose 3
-219 0 114 rose 4
-128 0 64 rose 5
-76 0 35 rose 6
-255 248 248 raspberry 1
-255 221 223 raspberry 2
-255 66 108 raspberry 3
-222 0 81 raspberry 4
-130 0 44 raspberry 5
-81 0 24 raspberry 6
-255 248 246 red 1
-255 221 216 red 2
-255 70 71 red 3
-224 0 43 red 4
-131 0 20 red 5
-83 0 3 red 6
-255 248 245 orange 1
-255 222 209 orange 2
-253 77 0 orange 3
-205 60 0 orange 4
-117 33 0 orange 5
-64 22 0 orange 6
-255 248 243 cinnamon 1
-255 223 198 cinnamon 2
-213 115 0 cinnamon 3
-172 92 0 cinnamon 4
-99 51 0 cinnamon 5
-55 29 0 cinnamon 6
-255 248 239 amber 1
-255 224 178 amber 2
-185 131 0 amber 3
-146 103 0 amber 4
-82 56 0 amber 5
-48 33 0 amber 6
-255 249 229 yellow 1
-255 229 62 yellow 2
-156 139 0 yellow 3
-125 111 0 yellow 4
-70 61 0 yellow 5
-41 35 0 yellow 6
-247 255 172 lime 1
-213 242 0 lime 2
-129 147 0 lime 3
-103 118 0 lime 4
-57 65 0 lime 5
-34 38 0 lime 6
-229 255 195 chartreuse 1
-152 251 0 chartreuse 2
-92 155 0 chartreuse 3
-73 124 0 chartreuse 4
-38 69 0 chartreuse 5
-24 38 0 chartreuse 6
-224 255 217 green 1
-114 255 108 green 2
-0 162 31 green 3
-0 130 23 green 4
-0 73 8 green 5
-6 40 0 green 6
-220 255 230 emerald 1
-93 255 162 emerald 2
-0 160 90 emerald 3
-0 129 71 emerald 4
-0 72 37 emerald 5
-0 40 18 emerald 6
-218 255 239 aquamarine 1
-66 255 198 aquamarine 2
-0 159 120 aquamarine 3
-0 127 95 aquamarine 4
-0 71 52 aquamarine 5
-0 40 27 aquamarine 6
-215 255 247 teal 1
-0 255 228 teal 2
-0 158 140 teal 3
-0 124 110 teal 4
-0 68 60 teal 5
-0 39 34 teal 6
-196 255 254 cyan 1
-0 250 251 cyan 2
-0 153 154 cyan 3
-0 122 123 cyan 4
-0 67 68 cyan 5
-0 37 37 cyan 6
-218 250 255 powder 1
-141 240 255 powder 2
-0 152 169 powder 3
-0 121 135 powder 4
-0 64 72 powder 5
-0 34 39 powder 6
-227 247 255 sky 1
-174 233 255 sky 2
-0 148 180 sky 3
-0 117 144 sky 4
-0 64 79 sky 5
-0 31 40 sky 6
-232 246 255 cerulean 1
-185 227 255 cerulean 2
-0 146 197 cerulean 3
-0 116 157 cerulean 4
-0 60 84 cerulean 5
-0 29 42 cerulean 6
-232 242 255 azure 1
-198 224 255 azure 2
-0 143 219 azure 3
-0 113 175 azure 4
-0 59 94 azure 5
-0 28 48 azure 6
-240 244 255 blue 1
-212 224 255 blue 2
-0 137 252 blue 3
-0 109 202 blue 4
-0 56 109 blue 5
-0 26 57 blue 6
-243 243 255 indigo 1
-222 221 255 indigo 2
-101 126 255 indigo 3
-0 97 252 indigo 4
-0 50 138 indigo 5
-0 22 73 indigo 6
-247 241 255 violet 1
-232 218 255 violet 2
-155 112 255 violet 3
-121 74 255 violet 4
-45 15 191 violet 5
-11 0 116 violet 6
-253 244 255 purple 1
-247 217 255 purple 2
-209 80 255 purple 3
-176 31 227 purple 4
-102 0 135 purple 5
-58 0 79 purple 6
-255 243 252 magenta 1
-255 215 246 magenta 2
-249 17 224 magenta 3
-202 0 182 magenta 4
-116 0 104 magenta 5
-68 0 60 magenta 6
-255 247 251 pink 1
-255 220 236 pink 2
-255 47 178 pink 3
-210 0 143 pink 4
-121 0 81 pink 5
-75 0 48 pink 6
+246 246 246 Gray Shade 1
+226 226 226 Gray Shade 2
+139 139 139 Gray Shade 3
+111 111 111 Gray Shade 4
+62 62 62 Gray Shade 5
+34 34 34 Gray Shade 6
+255 247 249 Rose Shade 1
+255 220 229 Rose Shade 2
+255 59 141 Rose Shade 3
+219 0 114 Rose Shade 4
+128 0 64 Rose Shade 5
+76 0 35 Rose Shade 6
+255 248 248 Raspberry Shade 1
+255 221 223 Raspberry Shade 2
+255 66 108 Raspberry Shade 3
+222 0 81 Raspberry Shade 4
+130 0 44 Raspberry Shade 5
+81 0 24 Raspberry Shade 6
+255 248 246 Red Shade 1
+255 221 216 Red Shade 2
+255 70 71 Red Shade 3
+224 0 43 Red Shade 4
+131 0 20 Red Shade 5
+83 0 3 Red Shade 6
+255 248 245 Orange Shade 1
+255 222 209 Orange Shade 2
+253 77 0 Orange Shade 3
+205 60 0 Orange Shade 4
+117 33 0 Orange Shade 5
+64 22 0 Orange Shade 6
+255 248 243 Cinnamon Shade 1
+255 223 198 Cinnamon Shade 2
+213 115 0 Cinnamon Shade 3
+172 92 0 Cinnamon Shade 4
+99 51 0 Cinnamon Shade 5
+55 29 0 Cinnamon Shade 6
+255 248 239 Amber Shade 1
+255 224 178 Amber Shade 2
+185 131 0 Amber Shade 3
+146 103 0 Amber Shade 4
+82 56 0 Amber Shade 5
+48 33 0 Amber Shade 6
+255 249 229 Yellow Shade 1
+255 229 62 Yellow Shade 2
+156 139 0 Yellow Shade 3
+125 111 0 Yellow Shade 4
+70 61 0 Yellow Shade 5
+41 35 0 Yellow Shade 6
+247 255 172 Lime Shade 1
+213 242 0 Lime Shade 2
+129 147 0 Lime Shade 3
+103 118 0 Lime Shade 4
+57 65 0 Lime Shade 5
+34 38 0 Lime Shade 6
+229 255 195 Chartreuse Shade 1
+152 251 0 Chartreuse Shade 2
+92 155 0 Chartreuse Shade 3
+73 124 0 Chartreuse Shade 4
+38 69 0 Chartreuse Shade 5
+24 38 0 Chartreuse Shade 6
+224 255 217 Green Shade 1
+114 255 108 Green Shade 2
+0 162 31 Green Shade 3
+0 130 23 Green Shade 4
+0 73 8 Green Shade 5
+6 40 0 Green Shade 6
+220 255 230 Emerald Shade 1
+93 255 162 Emerald Shade 2
+0 160 90 Emerald Shade 3
+0 129 71 Emerald Shade 4
+0 72 37 Emerald Shade 5
+0 40 18 Emerald Shade 6
+218 255 239 Aquamarine Shade 1
+66 255 198 Aquamarine Shade 2
+0 159 120 Aquamarine Shade 3
+0 127 95 Aquamarine Shade 4
+0 71 52 Aquamarine Shade 5
+0 40 27 Aquamarine Shade 6
+215 255 247 Teal Shade 1
+0 255 228 Teal Shade 2
+0 158 140 Teal Shade 3
+0 124 110 Teal Shade 4
+0 68 60 Teal Shade 5
+0 39 34 Teal Shade 6
+196 255 254 Cyan Shade 1
+0 250 251 Cyan Shade 2
+0 153 154 Cyan Shade 3
+0 122 123 Cyan Shade 4
+0 67 68 Cyan Shade 5
+0 37 37 Cyan Shade 6
+218 250 255 Powder Shade 1
+141 240 255 Powder Shade 2
+0 152 169 Powder Shade 3
+0 121 135 Powder Shade 4
+0 64 72 Powder Shade 5
+0 34 39 Powder Shade 6
+227 247 255 Sky Shade 1
+174 233 255 Sky Shade 2
+0 148 180 Sky Shade 3
+0 117 144 Sky Shade 4
+0 64 79 Sky Shade 5
+0 31 40 Sky Shade 6
+232 246 255 Cerulean Shade 1
+185 227 255 Cerulean Shade 2
+0 146 197 Cerulean Shade 3
+0 116 157 Cerulean Shade 4
+0 60 84 Cerulean Shade 5
+0 29 42 Cerulean Shade 6
+232 242 255 Azure Shade 1
+198 224 255 Azure Shade 2
+0 143 219 Azure Shade 3
+0 113 175 Azure Shade 4
+0 59 94 Azure Shade 5
+0 28 48 Azure Shade 6
+240 244 255 Blue Shade 1
+212 224 255 Blue Shade 2
+0 137 252 Blue Shade 3
+0 109 202 Blue Shade 4
+0 56 109 Blue Shade 5
+0 26 57 Blue Shade 6
+243 243 255 Indigo Shade 1
+222 221 255 Indigo Shade 2
+101 126 255 Indigo Shade 3
+0 97 252 Indigo Shade 4
+0 50 138 Indigo Shade 5
+0 22 73 Indigo Shade 6
+247 241 255 Violet Shade 1
+232 218 255 Violet Shade 2
+155 112 255 Violet Shade 3
+121 74 255 Violet Shade 4
+45 15 191 Violet Shade 5
+11 0 116 Violet Shade 6
+253 244 255 Purple Shade 1
+247 217 255 Purple Shade 2
+209 80 255 Purple Shade 3
+176 31 227 Purple Shade 4
+102 0 135 Purple Shade 5
+58 0 79 Purple Shade 6
+255 243 252 Magenta Shade 1
+255 215 246 Magenta Shade 2
+249 17 224 Magenta Shade 3
+202 0 182 Magenta Shade 4
+116 0 104 Magenta Shade 5
+68 0 60 Magenta Shade 6
+255 247 251 Pink Shade 1
+255 220 236 Pink Shade 2
+255 47 178 Pink Shade 3
+210 0 143 Pink Shade 4
+121 0 81 Pink Shade 5
+75 0 48 Pink Shade 6
