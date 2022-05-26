@@ -4,7 +4,7 @@ title: Reasonable Colors palette for Gimp and Inkscape
 tags: gimp, inkscape, firefox, javascript
 ---
 
-I use [Inkscape](https://inkscape.org/) for vector graphics. And recently stumbled upon [Reasonable Colors](https://reasonable.work/colors).
+I use [Inkscape](https://inkscape.org/) for vector graphics and recently I found [Reasonable Colors](https://reasonable.work/colors).
 
 I know Inkscape supports custom color palettes, and I wanted the Reasonable Colors as an option.
 
