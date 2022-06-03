@@ -28,3 +28,26 @@ p {
   border-bottom: initial !important;
   background-color: initial !important;
 }
+
+body {
+  background-image: url("https://images.pling.com/cache/1950x450/img/00/00/24/05/26/3b039212c2317395a006977963704d8aa841.jpg") !important;
+  background-repeat: no-repeat !important;
+  background-position: center top !important;
+  background-attachment: fixed !important;
+  background-size: cover !important;
+  min-height: 800px !important;
+}
+
+.container {
+  background-color: #ffffffDD !important;
+  padding: 20px auto !important;
+  margin-bottom: -24px !important;
+}
+
+.footer {
+  padding-bottom: 50px !important;
+}
+
+.date {
+  margin-bottom: 50px !important;
+}
