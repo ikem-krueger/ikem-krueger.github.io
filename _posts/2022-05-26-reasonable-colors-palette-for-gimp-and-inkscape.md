@@ -16,4 +16,4 @@ Click on "[Reasonable Colors.gpl](https://raw.githubusercontent.com/ikem-krueger
 
 To import them into Inkscape, follow this [tutorial](https://daviesmediadesign.com/how-to-import-palettes-into-inkscape/).
 
-Edit: Move code into separate script, update script, fix file location, update color names
+Last edit: Move code into separate script
