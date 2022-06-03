@@ -14,10 +14,6 @@ p {
   margin-top: 0px;
 }
 
-.date a {
-  color: $gray;
-}
-
 .entry {
   margin-bottom: 18px;
 }
@@ -50,6 +46,10 @@ body {
 
 .date {
   margin-bottom: 50px !important;
+}
+
+.date, .date a {
+  color: #d7d7d7;
 }
 
 .gsc-comments {
