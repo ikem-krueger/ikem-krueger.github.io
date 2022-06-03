@@ -1,9 +1,24 @@
+body {
+  background-image: url("https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/images/3b039212c2317395a006977963704d8aa841.jpg") !important;
+  background-repeat: no-repeat !important;
+  background-position: center top !important;
+  background-attachment: fixed !important;
+  background-size: cover !important;
+  min-height: 800px !important;
+}
+
 h1 {
   margin-bottom: 0px !important;
 }
 
 p {
   font: 16px/1.4 $helvetica !important;
+}
+
+.container {
+  background-color: #ffffffDD !important;
+  padding: 20px auto !important;
+  margin-bottom: -24px !important;
 }
 
 .site-avatar {
@@ -14,31 +29,11 @@ p {
   margin-top: 0px;
 }
 
-.entry {
-  margin-top: 50px;
-  margin-bottom: 18px;
-}
-
 .wrapper-footer {
   margin-top: -50px !important;
   border-top: initial !important;
   border-bottom: initial !important;
   background-color: initial !important;
-}
-
-body {
-  background-image: url("https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/images/3b039212c2317395a006977963704d8aa841.jpg") !important;
-  background-repeat: no-repeat !important;
-  background-position: center top !important;
-  background-attachment: fixed !important;
-  background-size: cover !important;
-  min-height: 800px !important;
-}
-
-.container {
-  background-color: #ffffffDD !important;
-  padding: 20px auto !important;
-  margin-bottom: -24px !important;
 }
 
 .footer {
@@ -47,4 +42,9 @@ body {
 
 .date, .date a {
   color: #d7d7d7 !important;
+}
+
+.entry {
+  margin-top: 50px;
+  margin-bottom: 18px;
 }
