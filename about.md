@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About this site and the author
+date: 2022-06-04
 permalink: /about/
 ---
 Hi there 👋
