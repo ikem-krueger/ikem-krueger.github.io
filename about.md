@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About this site and the author
 permalink: /about
 tags: 
