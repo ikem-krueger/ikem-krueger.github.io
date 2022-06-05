@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About this site and the author
+title: About this site
 date: 2022-06-04 12:54:47
 permalink: /about/
 ---
