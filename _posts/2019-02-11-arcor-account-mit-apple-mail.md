@@ -11,7 +11,7 @@ Das Prozedere ist recht simpel:
 1. In der Arcor Weboberfläche IMAP/POP3 Passwort vergeben
 2. In Mail Account hinzufügen
 
-# IMAP/POP3 Passwort vergeben
+## IMAP/POP3 Passwort vergeben
 
 Bei [Arcor](https://www.arcor.de) anmelden.
 
@@ -19,7 +19,7 @@ Bei "Menü" auf "Einstellungen" klicken. Links sieht man "Grundeinstellungen". R
 
 Jetzt auf "IMAP/POP3 Passwort ändern..." klicken. Passwort vergeben.
 
-# Mail einrichten
+## Mail einrichten
 
 Mail öffnen. Bei "Anbieter für Mail-Account auswählen ..." auf "Anderer Mail-Account ..." und "Fortfahren" klicken.
 
