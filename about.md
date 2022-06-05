@@ -1,8 +1,7 @@
 ---
 layout: page
 title: About this site and the author
-permalink: /about
-tags: 
+permalink: /about/
 ---
 Hi there 👋
 
