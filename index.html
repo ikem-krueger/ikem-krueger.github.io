@@ -7,14 +7,14 @@ layout: default
   <h1>Pages</h1>
 
   <div class="entry">
-    <span class="date">2022-06-04: </span><a href="https://ikem-krueger.github.io/about/">About this site and the author</a><br>
+    <span class="date">2022-06-04: </span><a href="https://ikem-krueger.github.io/about/" style="color: #222222;">About this site and the author</a><br>
   </div>
 
   <h1>Posts</h1>
 
   <div class="entry">
     {% for post in site.posts %}
-      <span class="date">{{ post.date | date: "%Y-%m-%d: " }}</span><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br>
+      <span class="date">{{ post.date | date: "%Y-%m-%d: " }}</span><a href="{{ site.baseurl }}{{ post.url }}" style="color: #222222;">{{ post.title }}</a><br>
     {% endfor %}
   </div>
   {% include giscus.html %}
