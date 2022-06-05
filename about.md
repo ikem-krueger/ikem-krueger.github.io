@@ -3,13 +3,22 @@ layout: page
 title: About
 permalink: /about/
 ---
+---
+layout: page
+title: About this site and the author
+permalink: /about
+tags: 
+---
+Hi there 👋
 
-Some information about you!
+This blog is all about the things I do with my computer and overcoming troubles I have with them.
 
-### More Information
+A long time I was into hardware, then operating systems, using software and now I'm on my way to write software.
 
-A place to include any other types of information that you'd like to include about yourself.
+That's the stuff you will read about here.
 
-### Contact me
+If you like to, check out my work on the different networks in the header bar.
 
-[ikem.krueger@gmail.com](mailto:ikem.krueger@gmail.com)
+Have fun!
+
+Marco alias "Ikem"
