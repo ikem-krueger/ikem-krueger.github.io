@@ -1,10 +1,5 @@
 ---
 layout: page
-title: About
-permalink: /about/
----
----
-layout: page
 title: About this site and the author
 permalink: /about
 tags: 
