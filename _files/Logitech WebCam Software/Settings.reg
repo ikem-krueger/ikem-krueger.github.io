@@ -1,0 +1,33 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{6bdd1fc6-810f-11d0-bec7-08002be2092f}\0001\Settings]
+"PTZEnable"=dword:00000001
+"UseSVF"=dword:00000001
+"UseFEL"=dword:00000001
+"MechPT"=dword:00000000
+"TrackType"=dword:00000000
+"Locale"=hex:30,00,30,00,30,00,30,00,30,00,34,00,30,00,37,00,00,00,00,00,00,00,\
+  00,00,00,01,00,00,00,00,00,00,b4,82,b4,8f,05,a6,ff,ff,04,00,00,00,00,00,00,\
+  00,b4,82,b4,8f,05,a6,ff,ff,df,67,e6,1f,04,f8,ff,ff,70,f2,ae,16,08,95,ff,ff,\
+  70,f2,ae,16,08,95,00,00,00,fe,bc,16,08,95,ff,ff,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,38,5f,24,\
+  20,04,f8,ff,ff,68,09,16,16,08,95,ff,ff
+"FetchCounter"=dword:00000006
+"LVUVC_AutoExposurePriority"=dword:00000001
+"LVUVC_Brighness"=dword:00000080
+"LVUVC_Contrast"=dword:00000020
+"LVUVC_Saturation"=dword:00000020
+"LVUVC_WBTemperatureAuto"=dword:00000001
+"LVUVC_AutoExposureMode"=dword:00000008
+"LVUVC_PowerLine"=dword:00000000
+"LVUVC_MirrorY"=dword:00000000
+"LVUVC_MirrorX"=dword:00000001
+"LVUVC_Gain"=dword:00000080
+"LVUVC_WBTemperature"=dword:00000fa0
+"LVUVC_ExposureTime"=dword:00000078
+"LVUVC_Zoom"=dword:00000032
+"LVUVC_Tilt"=dword:00000000
+"LVUVC_Pan"=dword:ffffffec
+"LVUVC_Adv_Zoom"=dword:00000064
+"LVUVC_AutoTrack"=dword:00000000
