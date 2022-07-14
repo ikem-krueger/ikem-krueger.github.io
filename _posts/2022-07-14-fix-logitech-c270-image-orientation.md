@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Logitech C270HD image orientation mirrored
+title: Fix Logitech C270HD image orientation
 tags: windows, webcam
 ---
 
