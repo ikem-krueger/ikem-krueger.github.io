@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reset Thunderbird To Default Settings
+title: Reset Thunderbird to the default settings
 tags: thunderbird
 ---
 
