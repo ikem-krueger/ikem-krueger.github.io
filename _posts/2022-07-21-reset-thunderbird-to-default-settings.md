@@ -7,6 +7,6 @@ tags: thunderbird
 If you like to reset Thunderbird to the default settings, open a command prompt and type:
 
 ```
-del %appdata%\Thunderbird\Profiles\*
-del %appdata%\Thunderbird\profiles.ini
+del %AppData%\Thunderbird\Profiles\*
+del %AppData%\Thunderbird\profiles.ini
 ```
