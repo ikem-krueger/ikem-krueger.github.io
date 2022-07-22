@@ -13,6 +13,6 @@ Do the following:
 - open the registry editor
 - navigate to the key `HKCR\Installer\Components\F1291BD604B860441AB89E60BDEE0F9C`
 - right click on the key, open permissions
-- add the group "Users", allow "read"
+- add the group "Users", allow "read", click "Ok"
 
-And the error vanishes.
+And when you now open Outlook, the error is gone.
