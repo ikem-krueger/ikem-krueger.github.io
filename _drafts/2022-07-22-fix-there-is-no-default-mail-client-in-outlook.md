@@ -6,7 +6,7 @@ tags: windows, outlook, office 365
 
 When you get this error message:
 
-[TODO]
+![Microsoft Office Outlook Error](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/images/Microsoft%20Office%20Outlook.png)
 
 Do the following:
 
