@@ -14,3 +14,5 @@ Do the following:
 - navigate to the key `HKCR\Installer\Components\F1291BD604B860441AB89E60BDEE0F9C`
 - right click on the key, open permissions
 - add the group "Users", allow "read"
+
+And the error vanishes.
