@@ -1,3 +1,9 @@
+---
+layout: post
+title: Fix there is no default mail client in Outlook
+tags: windows, outlook, office 365
+---
+
 When you get this error message:
 
 [TODO]
