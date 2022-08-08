@@ -8,7 +8,7 @@ layout: default
 
   <div class="entry">
     {% for post in site.posts %}
-      <span class="date">{{ post.date | date: "%Y-%m-%d: " }}</span><a href="{{ site.baseurl }}{{ post.url }}" style="color: #222222;">{{ post.title }}</a><br>
+      <span class="date">{{ post.date | date: "%Y-%m-%d: " }}</span><a href="{{ site.baseurl }}{{ post.url }}" class="index">{{ post.title }}</a><br>
     {% endfor %}
   </div>
   {% include giscus.html %}
