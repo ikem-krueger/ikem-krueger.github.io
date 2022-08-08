@@ -6,7 +6,7 @@ tags: mac os x, mail, arcor
 
 Hier erkläre ich wie man mit Apples Mail Programm auf einen Arcor Account zugreifen kann.
 
-Das Prozedere ist recht simpel:
+Das Prozedere:
 
 1. In der Arcor Weboberfläche IMAP/POP3 Passwort vergeben
 2. In Mail Account hinzufügen
