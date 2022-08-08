@@ -50,10 +50,6 @@ p {
 }
 
 .entry a {
-  color: #222222 !important;
-}
-
-.entry a:hover,
-.entry a:active {
-  text-decoration-style: dashed;
+  text-decoration: underline !important;
+  text-decoration-style: dashed !important;
 }
