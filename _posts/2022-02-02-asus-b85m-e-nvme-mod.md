@@ -10,8 +10,8 @@ With this adapter, Windows is seeing the drive. Unfortunately the UEFI doesn't r
 
 Hardware used:
 
-- JEYI SK4 M.2 NVMe SSD Adapter
-- Samsung 970 EVO Plus
+- [JEYI SK4 M.2 NVMe SSD Adapter](https://www.newegg.com/p/17Z-00AP-00004)
+- [Samsung 970 EVO Plus](https://www.samsung.com/de/memory-storage/nvme-ssd/970-evo-plus-nvme-m-2-ssd-500gb-mz-v7s500bw/)
 
 Software used:
 
