@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Asus B85M-E NVME Mod
+title: Asus B85M-E NVMe Mod
 tags: asus, uefi, nvme, windows
 ---
 
