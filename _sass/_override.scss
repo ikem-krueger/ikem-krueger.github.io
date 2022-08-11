@@ -57,3 +57,12 @@ p {
 .entry a.index {
   text-decoration: none !important;
 }
+
+.highlighter-rouge {
+  display: inline-block;
+  transform: translateY(25%);
+  padding: 0px 4px;
+  border-radius: 4px;
+  background-color: #EEEEEE;
+  font-family: Helvetica, Arial, sans-serif;
+}
