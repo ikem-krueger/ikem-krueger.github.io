@@ -9,8 +9,8 @@ Go to Kodi Settings -> "PVR & Live TV" -> "General" and execute "Clear data".
 Do the following to clear the logo cache:
 
 ```
-trash $HOME/.kodi/userdata/Thumbnails
-trash $HOME/.kodi/userdata/Database/Textures*.dB
+rm -rf $HOME/.kodi/userdata/Thumbnails
+rm $HOME/.kodi/userdata/Database/Textures*.db
 ```
 
 Then restart kodi.
