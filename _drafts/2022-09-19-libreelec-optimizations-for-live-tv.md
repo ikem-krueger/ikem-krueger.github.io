@@ -1,3 +1,14 @@
+config.txt:
+
+> dtoverlay=disable-bt
+> 
+> disable_splash=1
+> 
+> arm_freq=1200
+> 
+> decode_MPG2=0x00000000
+> decode_WVC1=0x00000000
+
 ## Sources:
 
 * [WiFi lost, auto-reconnects only after minutes - General Support - LibreELEC Forum](https://forum.libreelec.tv/thread/24173-wifi-lost-auto-reconnects-only-after-minutes/?postID=157235#post157235)
