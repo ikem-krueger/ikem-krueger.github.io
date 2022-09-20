@@ -17,7 +17,7 @@ Disable Bluetooth, because it interferes with WiFi.
 
 Disable the colored boot splash screen.
 
-The Raspberry Pi 3B+ is overclocked to 1.4GHz by the manufacturer. The Raspberry Pi 3B is clocked at 1.2GHz. I changed it to that.
+The manufacturer of the Raspberry Pi 3B+ overclocked to CPU to 1.4GHz. The Raspberry Pi 3B is clocked at 1.2GHz. I changed it to that.
 
 The last two lines enables the hardware encoding units of the GPU for MPEG2 and VC1. You need to adjust the hex values.
 
