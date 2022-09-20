@@ -57,7 +57,7 @@ Tweaks the network stack for more throughput and reliability.
     # disable wifi power saving
     iw wlan0 set power_save off
     
-    # reverse status leds: green "power on", red "writing to sd-card"
+    # reverse status leds: green "power on", red "writing data"
     echo "default-on" > /sys/class/leds/led0/trigger
     echo "mmc0" > /sys/class/leds/led1/trigger
 
@@ -71,9 +71,9 @@ Tweaks the network stack for more throughput and reliability.
 
 The way the leds are configured, let you know at which state the system is.
 
-Boot stage 1 (Kernel): red "power on", green "writing to sd-card"
-Boot stage 2 (GUI): green "power on", red "writing to sd-card"
-Shutdown: green/red off
+1. Boot phase (Kernel): green "writing data", red "power on"
+2. Boot phase (GUI): green "power on", red "writing data"
+3. Shutdown: green/red off
 
 ### ~/.kodi/userdata/advancedsettings.xml
 
