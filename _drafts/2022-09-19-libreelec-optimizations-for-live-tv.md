@@ -69,7 +69,7 @@ Tweaks the network stack for more throughput and reliability.
     echo "none" > /sys/class/leds/led0/trigger
     echo "none" > /sys/class/leds/led1/trigger
 
-The way the leds are configured, let you know at which state the system is.
+The way the leds are configured, let you know at which state the system is:
 
 1. Boot phase (Kernel): green "writing data", red "power on"
 2. Boot phase (GUI): green "power on", red "writing data"
