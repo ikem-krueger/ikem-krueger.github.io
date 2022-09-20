@@ -95,7 +95,7 @@ Tweak the network stack for more throughput and reliability.
 
     #!/bin/sh
     
-    # disable all leds
+    # disable all status leds
     echo "none" > /sys/class/leds/led0/trigger
     echo "none" > /sys/class/leds/led1/trigger
 
