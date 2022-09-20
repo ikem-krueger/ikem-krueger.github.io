@@ -13,13 +13,13 @@ Raspberry Pi 3B+ with Kodi and TVHeadEnd
     decode_MPG2=0x00000000
     decode_WVC1=0x00000000
 
-I disabled Bluetooth, because it interferes with WiFi.
+Disable Bluetooth, because it interferes with WiFi.
 
-I disabled the colored bootsplash, because I don't like it.
+Disable the colored bootsplash, because I don't like it.
 
 The Raspberry Pi 3B+ is overclocked to 1.4GHz by the manufacturer. The Raspberry Pi 3B is clocked at 1.2GHz. I changed it to that.
 
-The last two lines enables the hardware encoding units of the GPU for MP2 and VC1. You need to adjust the hex values.
+The last two lines enables the hardware encoding units of the GPU for MPEG2 and VC1. You need to adjust the hex values.
 
 ### /etc/modprobe.d/brcmfmac.conf
 
@@ -46,7 +46,7 @@ Disable roaming, so the WiFi module sticks with whatever access point it connect
     net.ipv4.tcp_wmem = 8192 65536 16777216
     net.ipv4.udp_wmem_min = 16384
 
-Tweaking the network stack for more throughput and reliability.
+Tweaks the network stack for more throughput and reliability.
 
 ### ~/.config/autostart.sh
 
