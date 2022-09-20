@@ -1,4 +1,4 @@
-Raspberry Pi 3B+ with Kodi and TVHeadEnd
+Raspberry Pi 3B+ with LibreElec
 
 ## Files
 
