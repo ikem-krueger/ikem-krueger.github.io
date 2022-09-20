@@ -1,13 +1,75 @@
-config.txt:
+Raspberry Pi 3B+ with Kodi and TVHeadEnd
 
-> dtoverlay=disable-bt
-> 
-> disable_splash=1
-> 
-> arm_freq=1200
-> 
-> decode_MPG2=0x00000000
-> decode_WVC1=0x00000000
+## Files
+
+### /flash/config.txt
+
+    dtoverlay=disable-bt
+    
+    disable_splash=1
+    
+    arm_freq=1200
+    
+    decode_MPG2=0x00000000
+    decode_WVC1=0x00000000
+
+### /etc/modprobe.d/brcmfmac.conf
+
+    options brcmfmac roamoff=1
+
+### /etc/sysctl.d/20-network.conf
+
+    net.ipv4.tcp_timestamps = 0
+    net.ipv4.tcp_sack = 1
+    net.ipv4.tcp_window_scaling = 1
+    net.core.rmem_default = 31457280
+    net.core.rmem_max = 12582912
+    net.core.wmem_default = 31457280
+    net.core.wmem_max = 12582912
+    net.core.somaxconn = 65536
+    net.core.netdev_max_backlog = 65536
+    net.core.optmem_max = 25165824
+    net.ipv4.tcp_mem = 65536 131072 262144
+    net.ipv4.udp_mem = 65536 131072 262144
+    net.ipv4.tcp_rmem = 8192 87380 16777216
+    net.ipv4.udp_rmem_min = 16384
+    net.ipv4.tcp_wmem = 8192 65536 16777216
+    net.ipv4.udp_wmem_min = 16384
+
+### /storage/.config/autostart.sh
+
+    #!/bin/sh
+     
+    vcgencmd arbiter set arm_uc 12 0
+    
+    # disable wifi power saving
+    iw wlan0 set power_save off
+    
+    # change status leds
+    echo "default-on" > /sys/class/leds/led0/trigger
+    echo "mmc0" > /sys/class/leds/led1/trigger
+
+### /storage/.config/shutdown.sh
+
+    #!/bin/sh
+    
+    echo "none" > /sys/class/leds/led0/trigger
+    echo "none" > /sys/class/leds/led1/trigger
+
+### .kodi/userdata/advancedsettings.xml
+
+    <advancedsettings>
+      <splash>false</splash>
+    </advancedsettings>
+
+## Kodi
+
+### Skins
+
+* Arctic Horizon 2
+* Unity
+
+## TVHeadEnd
 
 ## Sources:
 
