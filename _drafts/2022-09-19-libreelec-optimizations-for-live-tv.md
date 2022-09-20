@@ -36,7 +36,7 @@ Raspberry Pi 3B+ with Kodi and TVHeadEnd
     net.ipv4.tcp_wmem = 8192 65536 16777216
     net.ipv4.udp_wmem_min = 16384
 
-### /storage/.config/autostart.sh
+### ~/.config/autostart.sh
 
     #!/bin/sh
      
@@ -49,14 +49,14 @@ Raspberry Pi 3B+ with Kodi and TVHeadEnd
     echo "default-on" > /sys/class/leds/led0/trigger
     echo "mmc0" > /sys/class/leds/led1/trigger
 
-### /storage/.config/shutdown.sh
+### ~/.config/shutdown.sh
 
     #!/bin/sh
     
     echo "none" > /sys/class/leds/led0/trigger
     echo "none" > /sys/class/leds/led1/trigger
 
-### /storage.kodi/userdata/advancedsettings.xml
+### ~/.kodi/userdata/advancedsettings.xml
 
     <advancedsettings>
       <splash>false</splash>
@@ -66,8 +66,8 @@ Raspberry Pi 3B+ with Kodi and TVHeadEnd
 
 ### Skins
 
-* Arctic Horizon 2
-* Unity
+* [Arctic Horizon 2](https://forum.kodi.tv/showthread.php?tid=367352)
+* [Unity](https://kodi.tv/addons/matrix/skin.unity)
 
 ## TVHeadEnd
 
