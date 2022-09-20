@@ -81,6 +81,8 @@ The way the leds are configured, let you know at which state the system is.
       <splash>false</splash>
     </advancedsettings>
 
+Disable Kodi splash screen.
+
 ## LibreElec
 
 ### Configuration
