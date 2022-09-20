@@ -74,6 +74,8 @@ Tweaks the network stack for more throughput and reliability.
       <splash>false</splash>
     </advancedsettings>
 
+## LibreElec
+
 ## Kodi
 
 ### Skins
