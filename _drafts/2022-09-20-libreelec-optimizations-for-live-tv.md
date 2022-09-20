@@ -132,7 +132,7 @@ Disable Kodi splash screen.
 
 ## Sources:
 
+* [config.txt](https://gist.github.com/microhobby/f55ddb6a8c42b111c2573651c4becdf5)
 * [WiFi lost, auto-reconnects only after minutes - General Support - LibreELEC Forum](https://forum.libreelec.tv/thread/24173-wifi-lost-auto-reconnects-only-after-minutes/?postID=157235#post157235)
 * [Codesys RPI HOWTO.md](https://gist.github.com/kmpm/bc7e0bb4a99f38fb4206#tune-system)
 * [Continuity counter error - PVR & DVB Support - LibreELEC Forum](https://forum.libreelec.tv/thread/4878-continuity-counter-error/?postID=34178#post34178)
-* [config.txt](https://gist.github.com/microhobby/f55ddb6a8c42b111c2573651c4becdf5)
