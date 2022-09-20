@@ -15,7 +15,7 @@ Raspberry Pi 3B+ with LibreElec
 
 Disable Bluetooth, because it interferes with WiFi.
 
-Disable the colored bootsplash, because I don't like it.
+Disable the colored boot splash screen.
 
 The Raspberry Pi 3B+ is overclocked to 1.4GHz by the manufacturer. The Raspberry Pi 3B is clocked at 1.2GHz. I changed it to that.
 
