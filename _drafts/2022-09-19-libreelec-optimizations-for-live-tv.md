@@ -31,6 +31,7 @@ Raspberry Pi 3B+ with LibreElec
     
     # uncomment to enable infrared remote recevier connected to GPIO 18
     #dtoverlay=gpio-ir,gpio_pin=18
+    
     dtoverlay=disable-bt
     
     disable_splash=1
