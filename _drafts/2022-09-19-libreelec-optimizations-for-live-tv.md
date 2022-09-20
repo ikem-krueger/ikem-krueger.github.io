@@ -25,7 +25,7 @@ The last two lines enables the hardware encoding units of the GPU for MPEG2 and 
 
     options brcmfmac roamoff=1
 
-Disable roaming, so the WiFi module sticks with whatever access point it connected. Makes the WiFi connection more reliable.
+Disable roaming, so the WiFi module sticks with whatever access point it connected to. Makes the WiFi connection more reliable.
 
 ### /etc/sysctl.d/20-network.conf
 
@@ -57,7 +57,7 @@ Tweaks the network stack for more throughput and reliability.
     # disable wifi power saving
     iw wlan0 set power_save off
     
-    # change status leds
+    # reverse status leds: green "power on", red "writing to sd-card"
     echo "default-on" > /sys/class/leds/led0/trigger
     echo "mmc0" > /sys/class/leds/led1/trigger
 
@@ -65,8 +65,15 @@ Tweaks the network stack for more throughput and reliability.
 
     #!/bin/sh
     
+    # disable all leds
     echo "none" > /sys/class/leds/led0/trigger
     echo "none" > /sys/class/leds/led1/trigger
+
+The way the leds are configured, let you know at which state the system is.
+
+Boot stage 1 (Kernel): red "power on", green "writing to sd-card"
+Boot stage 2 (GUI): green "power on", red "writing to sd-card"
+Shutdown: green/red off
 
 ### ~/.kodi/userdata/advancedsettings.xml
 
