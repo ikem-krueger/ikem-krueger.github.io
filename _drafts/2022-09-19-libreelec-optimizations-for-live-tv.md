@@ -76,7 +76,7 @@ Disable roaming, so the WiFi module sticks with whatever access point it connect
     net.ipv4.tcp_wmem = 8192 65536 16777216
     net.ipv4.udp_wmem_min = 16384
 
-Tweaks the network stack for more throughput and reliability.
+Tweak the network stack for more throughput and reliability.
 
 ### ~/.config/autostart.sh
 
