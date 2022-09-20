@@ -56,7 +56,7 @@ Raspberry Pi 3B+ with Kodi and TVHeadEnd
     echo "none" > /sys/class/leds/led0/trigger
     echo "none" > /sys/class/leds/led1/trigger
 
-### .kodi/userdata/advancedsettings.xml
+### /storage.kodi/userdata/advancedsettings.xml
 
     <advancedsettings>
       <splash>false</splash>
