@@ -76,7 +76,11 @@ Tweaks the network stack for more throughput and reliability.
 
 ## LibreElec
 
+### Configuration
+
 ## Kodi
+
+### Configuration
 
 ### Skins
 
@@ -84,6 +88,8 @@ Tweaks the network stack for more throughput and reliability.
 * [Unity](https://kodi.tv/addons/matrix/skin.unity)
 
 ## TVHeadEnd
+
+### Configuration
 
 ## Sources:
 
