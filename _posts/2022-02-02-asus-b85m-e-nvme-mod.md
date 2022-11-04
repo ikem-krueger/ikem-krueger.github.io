@@ -19,7 +19,7 @@ Software used:
 
 ## Manual patch the UEFI with MMTool
 
-- Download AFUWINx64 and MMTool (can be found in [NVMe_UEFI_MOD.zip](http://dl.duckteam.org/mods/NVMe_UEFI_MOD/NVMe_UEFI_MOD.zip))
+- Download AFUWINx64 and MMTool (can be found in [NVMe_UEFI_MOD.zip](https://web.archive.org/web/20220328043700/http://dl.duckteam.org/mods/NVMe_UEFI_MOD/NVMe_UEFI_MOD.zip))
 - Download the BIOS file [B85M-E-ASUS-3602.zip](https://dlcdnets.asus.com/pub/ASUS/mb/LGA1150/B85M-E/B85M-E-ASUS-3602.zip) and the UEFI Module [NvmExpressDxe_4.rar](https://www.win-unattended.de/Benutzer/Fernando/BIOS-Files/non-Intel/NVMe%20Modules/NvmExpressDxe_4.rar)
 - [Compile the new firmware with MMTool](https://rothlive.de/de/article/asus-rampage-iv-samsung-970-pro-einbauen-uefi-mod-bei-ami-uefi-bios)
 
