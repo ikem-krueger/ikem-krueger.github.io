@@ -1,8 +1,10 @@
 # Use recovery mode to check Ext4 filesystem
 
-Bring smartphone into recovery mode
+Bring smartphone into recovery mode.
 
-On the smartphone in recovery mode, tap on "Advanced" and "Enable ADB"
+On the Samsung Galaxy S5 it is by pressing `Power+Home+Volume` Up and when the smartphone vibrates, letting go of `Power`.
+
+On the smartphone in the LineageOS recovery mode, tap on "Advanced" and "Enable ADB"
 
 Connect the smartphone with the pc.
 
