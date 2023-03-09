@@ -6,7 +6,7 @@ tags: android, lineageos, recovery, ext4, samsung
 
 Bring smartphone into recovery mode.
 
-On the Samsung Galaxy S5 it is by pressing `Power+Home+Volume` Up and when the smartphone vibrates, letting go of `Power`.
+On the Samsung Galaxy S5 it is by pressing `Power+Home+Volume Up` and when the smartphone vibrates, letting go of `Power`.
 
 On the smartphone in the LineageOS recovery mode, tap on "Advanced" and "Enable ADB"
 
