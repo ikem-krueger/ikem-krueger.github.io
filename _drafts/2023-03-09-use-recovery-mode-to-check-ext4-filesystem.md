@@ -1,4 +1,8 @@
-# Use recovery mode to check Ext4 filesystem
+---
+layout: post
+title: Use recovery mode to check Ext4 filesystem
+tags: firefox, nodejs, express, git
+---
 
 Bring smartphone into recovery mode.
 
