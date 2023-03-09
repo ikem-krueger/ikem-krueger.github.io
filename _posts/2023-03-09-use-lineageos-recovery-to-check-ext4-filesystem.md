@@ -4,9 +4,9 @@ title: Use LineageOS recovery to check Ext4 filesystem
 tags: adb, android, lineageos, recovery, ext4, samsung
 ---
 
-Bring smartphone into recovery mode.
+Download [e2fsprogs-arm.tar](https://github.com/ikem-krueger/e2fsprogs-arm/releases/download/v1.45.6/e2fsprogs-arm.tar).
 
-On the Samsung Galaxy S5 it is by pressing `Power+Home+Volume Up` and when the smartphone vibrates, letting go of `Power`.
+Bring smartphone into recovery mode.
 
 On the smartphone in the LineageOS recovery, tap on `Advanced` and `Enable ADB`
 
