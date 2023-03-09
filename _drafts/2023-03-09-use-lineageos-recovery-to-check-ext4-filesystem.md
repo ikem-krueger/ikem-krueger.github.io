@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Use recovery mode to check Ext4 filesystem
+title: Use LineageOS recovery to check Ext4 filesystem
 tags: adb, android, lineageos, recovery, ext4, samsung
 ---
 
