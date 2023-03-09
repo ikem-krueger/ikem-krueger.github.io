@@ -8,7 +8,7 @@ Bring smartphone into recovery mode.
 
 On the Samsung Galaxy S5 it is by pressing `Power+Home+Volume Up` and when the smartphone vibrates, letting go of `Power`.
 
-On the smartphone in the LineageOS recovery mode, tap on "Advanced" and "Enable ADB"
+On the smartphone in the LineageOS recovery, tap on `Advanced` and `Enable ADB`
 
 Connect the smartphone with the pc.
 
@@ -21,20 +21,17 @@ adb shell
 
 On the shell type:
 
-## extract e2fsprogs
-
-```
+```bash
+# extract e2fsprogs
 tar xfv e2fsprogs.tar
 ```
 
-## show available partitions
-
-```
+```bash
+# show available partitions
 cat /proc/partitions
 ```
 
-## check ext filesystem
-
-```
+```bash
+# check ext filesystem
 e2fsck -p -C0 /dev/block/mmcblk1p1
 ```
