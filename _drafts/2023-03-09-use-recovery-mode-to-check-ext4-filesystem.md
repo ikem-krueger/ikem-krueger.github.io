@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Use recovery mode to check Ext4 filesystem
-tags: firefox, nodejs, express, git
+tags: android, lineageos, recovery, ext4, samsung
 ---
 
 Bring smartphone into recovery mode.
