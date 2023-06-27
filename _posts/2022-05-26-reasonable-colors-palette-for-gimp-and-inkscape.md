@@ -12,8 +12,6 @@ So I wrote a little [script](https://raw.githubusercontent.com/ikem-krueger/ikem
 
 After some tweaking, I got the result I wanted.
 
-Click on "[Reasonable Colors.gpl](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/_files/Reasonable%20Colors/Reasonable%20Colors.gpl)" to download the color palette.
-
-To import them into Inkscape, follow this [tutorial](https://daviesmediadesign.com/how-to-import-palettes-into-inkscape/).
+Click on "[Reasonable Colors.gpl](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/_files/Reasonable%20Colors/Reasonable%20Colors.gpl)" to download the color palette and then [import them into Inkscape](https://daviesmediadesign.com/how-to-import-palettes-into-inkscape/).
 
 Last edit: Move code into separate script
