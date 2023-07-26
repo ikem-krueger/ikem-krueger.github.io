@@ -30,6 +30,8 @@ echo 1 > /sys/devices/system/cpu/sched_mc_power_savings
 
 ## Put the file on the right path
 
+You need to install one of the apps, and put `custom.sh` in the appropriate path:
+
 |App|Path|
 |:---|:---|
 |[Run Userinit](https://f-droid.org/de/packages/de.lisas.alex.runuserinit/)|/data/local/userinit.d/|
