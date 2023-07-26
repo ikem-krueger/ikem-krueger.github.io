@@ -6,7 +6,7 @@ tags: android, lineageos, samsung
 
 Instead of distributing a work load across all cores with the effect that all cores are utilized only at a minimum level, the kernel can try to schedule processes on as few cores as possible.
 
-This has two advantages: 1. the other cores can go idle more often, which safes battery, 2. you have less interrupts, which improves responsiveness.
+This has two advantages: 1. the idle cores can go to sleep more often, which safes battery, 2. you have less interrupts, which improves responsiveness.
 
 To enable that feature, you open a root shell and type:
 
