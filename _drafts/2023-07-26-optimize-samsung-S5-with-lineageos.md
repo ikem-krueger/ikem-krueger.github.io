@@ -16,7 +16,7 @@ File content:
 
 ## Put the file on the right path
 
-|Tool|Path|
+|App|Path|
 |:---|:---|
 |[Run Userinit](https://f-droid.org/de/packages/de.lisas.alex.runuserinit/)|/data/local/userinit.d/|
 |[Init.d Light](https://f-droid.org/packages/x1125io.initdlight/)|/data/user/0/x1125io.initdlight/files/|
