@@ -20,7 +20,7 @@ To automate that, continue reading.
 
 ## Create custom.sh file
 
-File content:
+You create the file `custom.sh` with this content:
 
 ```bash
 #!/bin/sh
@@ -28,9 +28,7 @@ File content:
 echo 1 > /sys/devices/system/cpu/sched_mc_power_savings
 ```
 
-## Put the file on the right path
-
-You need to install one of the apps, and put `custom.sh` in the appropriate path:
+Install one of the apps, and put it in the appropriate path:
 
 |App|Path|
 |:---|:---|
