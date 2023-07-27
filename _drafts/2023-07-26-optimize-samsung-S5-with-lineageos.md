@@ -12,7 +12,7 @@ I was curious how it achieved that, so I looked into the source code of it.
 
 Finally I found out what it did. It writes a "1" to "/sys/devices/system/cpu/sched_mc_power_savings".
 
-I wanted this setting applied on every boot, and after some research, I found out you could use Magisk to run [boot scripts](https://topjohnwu.github.io/Magisk/guides.html#boot-scripts).
+I wanted this setting applied on every boot, and after some research, I found out I could use Magisk to run [boot scripts](https://topjohnwu.github.io/Magisk/guides.html#boot-scripts).
 
 ## Install Magisk
 
@@ -56,7 +56,7 @@ echo 1 > /sys/devices/system/cpu/sched_mc_power_savings
 
 Make it executable.
 
-## Check if the script run successfully
+## Check if the script has run successfully
 
 Download and install [Kernel Adiutor](https://f-droid.org/de/packages/com.nhellfire.kerneladiutor/).
 
