@@ -14,7 +14,7 @@ This has the advantages, that idle cores can go to sleep more often, which safes
 
 Connect your phone to the pc.
 
-On your phone boot into recovery mode by hold `Volume Up` + `Home` + `Power`.
+On your phone boot into recovery mode by holding `Volume Up` + `Home` + `Power`, let lose, when the boot logo appears.
 
 In recovery-mode tap on `Advanced` > `Enable ADB`. Go back to the main menu.
 
@@ -32,9 +32,13 @@ adb sideload Magisk-*.zip
 
 On your phone in recovery-mode check if Magisk installed successfully. Reboot your phone.
 
-On your phone in Android open Magisk. You get an error message.
+On your phone open Magisk. You get an error message.
 
-Next to Magisk tap on `Install`. In the new dialog tap on `Method` > `Direct Installation`. When the installation finished, tap on `Reboot`.
+Next to the word "Magisk" tap on `Install`.
+
+In the new dialog tap on `Method` > `Direct Installation`.
+
+When the installation finished, tap on `Reboot`.
 
 ## Create custom.sh file
 
