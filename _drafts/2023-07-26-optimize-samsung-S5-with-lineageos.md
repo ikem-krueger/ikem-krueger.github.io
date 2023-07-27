@@ -6,21 +6,11 @@ tags: android, lineageos, samsung
 
 Instead of distributing a work load across all cores with the effect that all cores are utilized only at a minimum level, the kernel can try to schedule processes on as few cores as possible.
 
-This has two advantages: 1. the idle cores can go to sleep more often, which safes battery, 2. you have less interrupts, which improves responsiveness.
-
-To enable that feature, you open a root shell and type:
-
-```bash
-~# echo 1 > /sys/devices/system/cpu/sched_mc_power_savings
-```
-
-Or you could use [Kernel Adiutor](https://f-droid.org/de/packages/com.nhellfire.kerneladiutor/) and tap on `Menu > CPU`, scroll down to `Multicore Power Saving`, tap on `Disabled` and choose `Enabled`.
-
-To automate that, continue reading.
+This has two advantages: 1. the idle cores can go to sleep more often, which safes battery, 2. it causes less interrupts, which improves responsiveness.
 
 ## Create custom.sh file
 
-You create the file `custom.sh` with this content:
+Create the file `/data/adb/post-fs-data.d/custom.sh`:
 
 ```bash
 #!/bin/sh
@@ -28,13 +18,11 @@ You create the file `custom.sh` with this content:
 echo 1 > /sys/devices/system/cpu/sched_mc_power_savings
 ```
 
-Install one of the apps, and put it in the appropriate path:
+Make it executable with:
 
-|App|Path|
-|:---|:---|
-|[Run Userinit](https://f-droid.org/de/packages/de.lisas.alex.runuserinit/)|/data/local/userinit.d/|
-|[Init.d Light](https://f-droid.org/packages/x1125io.initdlight/)|/data/user/0/x1125io.initdlight/files/|
-|[Magisk](https://github.com/topjohnwu/Magisk)|/data/adb/post-fs-data.d/|
+```bash
+~# chmod +x /data/adb/post-fs-data.d/custom.sh
+```
 
 ## Links
 
