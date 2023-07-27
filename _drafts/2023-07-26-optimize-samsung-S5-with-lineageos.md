@@ -4,6 +4,8 @@ title: Optimize Samsung S5 with LineageOS
 tags: android, lineageos, samsung
 ---
 
+I owe a Samsung Galaxy S5 where I installed Lineage OS 18.1 as described [here](https://wiki.lineageos.org/devices/klte/install).
+
 Instead of distributing a work load across all cores with the effect that all cores are utilized only at a minimum level, the kernel can try to schedule processes on as few cores as possible.
 
 This has the advantages, that idle cores can go to sleep more often, which safes battery and it causes less interrupts, which improves responsiveness.
@@ -12,7 +14,7 @@ This has the advantages, that idle cores can go to sleep more often, which safes
 
 Connect your phone to the pc.
 
-On your phone boot into recovery mode.
+On your phone boot into recovery mode by hold `Volume Up` + `Home` + `Power`.
 
 In recovery-mode tap on `Advanced` > `Enable ADB`. Go back to the main menu.
 
@@ -48,7 +50,7 @@ Make it executable.
 
 ## Check if the script run successfully
 
-Download and install [Kernel Adiutor ](https://f-droid.org/de/packages/com.nhellfire.kerneladiutor/).
+Download and install [Kernel Adiutor](https://f-droid.org/de/packages/com.nhellfire.kerneladiutor/).
 
 Open  the menu and tap on `CPU`. Scroll down to `Multicore Power Saving` and check if it is set to enabled.
 
