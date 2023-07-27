@@ -32,11 +32,7 @@ Create the file `/data/adb/post-fs-data.d/custom.sh`:
 echo 1 > /sys/devices/system/cpu/sched_mc_power_savings
 ```
 
-Make it executable with:
-
-```bash
-~# chmod +x /data/adb/post-fs-data.d/custom.sh
-```
+Make it executable.
 
 ## Check if the script run successfully
 
