@@ -42,7 +42,7 @@ Make it executable with:
 
 Download and install [Kernel Adiutor ](https://f-droid.org/de/packages/com.nhellfire.kerneladiutor/).
 
-Open  the menu and tap on `CPU`. Scroll down to `Multicore Power Saving` and check if it is set to `Enabled`.
+Open  the menu and tap on `CPU`. Scroll down to `Multicore Power Saving` and check if it is set to enabled.
 
 ## Links
 
