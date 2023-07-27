@@ -32,7 +32,7 @@ Rename `Magisk-v26.1.apk` to `Magisk-v26.1.zip`.
 
 Open a terminal and type:
 
-```
+```cmd
 adb sideload Magisk-*.zip
 ```
 
@@ -48,7 +48,20 @@ When the installation finished, tap on `Reboot`.
 
 ## Create custom.sh file
 
-Create the file `/data/adb/post-fs-data.d/custom.sh`:
+On the pc open a terminal, and write:
+
+```cmd
+adb shell
+```
+
+Create the file:
+
+```bash
+su
+nano /data/adb/post-fs-data.d/custom.sh
+```
+
+File content:
 
 ```bash
 #!/bin/sh
@@ -56,7 +69,13 @@ Create the file `/data/adb/post-fs-data.d/custom.sh`:
 echo 1 > /sys/devices/system/cpu/sched_mc_power_savings
 ```
 
-Make it executable.
+Hit `Ctrl` + `X` to safe.
+
+Make it executable:
+
+```
+chmod +x /data/adb/post-fs-data.d/custom.sh
+```
 
 ## Check if the script has run successfully
 
