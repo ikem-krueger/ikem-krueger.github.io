@@ -6,7 +6,20 @@ tags: android, lineageos, samsung
 
 Instead of distributing a work load across all cores with the effect that all cores are utilized only at a minimum level, the kernel can try to schedule processes on as few cores as possible.
 
-This has two advantages: 1. the idle cores can go to sleep more often, which safes battery, 2. it causes less interrupts, which improves responsiveness.
+This has the advantages, that idle cores can go to sleep more often, which safes battery and it causes less interrupts, which improves responsiveness.
+
+## Install Magisk
+
+```
+In Windows: ~# adb reboot recovery
+In recovery-mode: "Enable adb"
+In Windows: download Magisk from [here]
+In recovery-mode: "Apply patch from adb"
+In Windows: "adb sideload Magisk-*.zip"
+In recovery-mode: reboot
+In Android: open Magisk -> Error -> "Direct Installation"
+In Android: Reboot
+```
 
 ## Create custom.sh file
 
