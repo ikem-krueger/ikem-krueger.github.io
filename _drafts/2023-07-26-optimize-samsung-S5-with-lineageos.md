@@ -38,7 +38,7 @@ adb sideload Magisk-*.zip
 
 On your phone check if the last line says "Done". Reboot your phone.
 
-On your phone open Magisk. You get an error message.
+On your phone open Magisk.
 
 Next to the word "Magisk" tap on `Install`.
 
