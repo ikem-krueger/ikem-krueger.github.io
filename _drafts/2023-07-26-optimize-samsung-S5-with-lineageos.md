@@ -54,7 +54,9 @@ Tap the Build Number seven times until you see the message "You are now a develo
 
 ## Enable ADB
 
-On the phone open `Settings` > `System` > `Advanced` > `Developer Options`.
+On the phone open `Settings` > `System`.
+
+Tap on `Advanced` > `Developer Options`.
 
 Scroll down to "USB-Debugging" and enable it.
 
