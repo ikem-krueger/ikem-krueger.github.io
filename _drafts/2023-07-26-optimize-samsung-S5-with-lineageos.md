@@ -12,7 +12,7 @@ I was curious how it achieved that, so I looked into the source code of it.
 
 Finally I found out what it did. It writes a "1" to "/sys/devices/system/cpu/sched_mc_power_savings".
 
-I wanted this setting applied on every boot, and after some research, I found out you could use Magisk to run scripts at boot.
+I wanted this setting applied on every boot, and after some research, I found out you could use Magisk to run [boot scripts](https://topjohnwu.github.io/Magisk/guides.html#boot-scripts).
 
 ## Install Magisk
 
@@ -66,4 +66,3 @@ Open  the menu and tap on `CPU`. Scroll down to `Multicore Power Saving` and che
 
  - [Tunable sched_mc_power_savings=n [LWN.net]](https://lwn.net/Articles/297306/)
  - [Chapter 11. Power Management - 11.4. Tuning Options for C-states](http://www.vorkon.de/SU1210.001/drittanbieter/Dokumentation/openSUSE_11.4/manual/cha.tuning.power.html#sec.tuning.power.c-states.options)
- - [Developer Guides Magisk - Boot Scripts](https://topjohnwu.github.io/Magisk/guides.html#boot-scripts)
