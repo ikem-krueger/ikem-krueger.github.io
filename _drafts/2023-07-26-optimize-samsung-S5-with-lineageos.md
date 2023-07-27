@@ -68,6 +68,8 @@ On the pc open a terminal, and write:
 adb shell
 ```
 
+You're now operating on your phone.
+
 Gain root access:
 
 ```bash
@@ -90,7 +92,7 @@ echo 1 > /sys/devices/system/cpu/sched_mc_power_savings
 
 Hit `Ctrl` + `X` to safe.
 
-Make it executable:
+Make the script executable:
 
 ```
 chmod +x /data/adb/post-fs-data.d/custom.sh
