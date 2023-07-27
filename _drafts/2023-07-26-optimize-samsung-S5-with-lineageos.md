@@ -100,7 +100,7 @@ Reboot your phone
 
 ## Check if the script has run successfully
 
-Download and install [Kernel Adiutor](https://f-droid.org/de/packages/com.nhellfire.kerneladiutor/).
+Download and install [Kernel Adiutor](https://f-droid.org/packages/com.nhellfire.kerneladiutor/).
 
 Open  the menu and tap on `CPU`. Scroll down to `Multicore Power Saving` and check if it is set to enabled.
 
