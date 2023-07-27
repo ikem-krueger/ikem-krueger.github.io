@@ -48,7 +48,7 @@ Next to the word "Magisk" tap on `Install`.
 
 In the new dialog tap on `Method` > `Direct Installation`.
 
-When the installation finished, tap on `Reboot`.
+When the installation finished, tap on "Reboot".
 
 ## Enable developer options
 
