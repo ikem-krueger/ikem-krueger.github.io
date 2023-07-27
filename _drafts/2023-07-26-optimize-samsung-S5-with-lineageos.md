@@ -10,14 +10,17 @@ This has the advantages, that idle cores can go to sleep more often, which safes
 
 ## Install Magisk
 
- - In Windows: download Magisk-*.apk from [here](https://github.com/topjohnwu/Magisk/releases)
- - In Windows: rename apk to zip
- - In Windows: `~# adb reboot recovery`
- - In recovery-mode: "Enable adb"
- - In recovery-mode: "Apply patch from adb"
- - In Windows: `~# adb sideload Magisk-*.zip`
- - In recovery-mode: reboot
- - In Android: open Magisk -> Error -> "Direct Installation"
+Connect your phone to the pc.
+
+ - On your phone: boot into recovery mode
+ - On your phone: In recovery-mode: `Advanced` > `Enable ADB`
+ - On your phone: In recovery-mode: `Apply update` > `Apply from adb`
+ - On your pc: In Windows: download Magisk-*.apk from [here](https://github.com/topjohnwu/Magisk/releases)
+ - On your pc: In Windows: rename apk to zip
+ - On your pc: In Windows: open a terminal and type: `adb sideload Magisk-*.zip`
+ - On your phone: In recovery-mode: check if installed successfully
+ - On your phone: In recovery-mode: reboot
+ - On your phone: In Android: open Magisk -> Error -> "Direct Installation"
 
 ## Create custom.sh file
 
@@ -34,6 +37,12 @@ Make it executable with:
 ```bash
 ~# chmod +x /data/adb/post-fs-data.d/custom.sh
 ```
+
+## Check if the script run successfully
+
+Download and install [Kernel Adiutor ](https://f-droid.org/de/packages/com.nhellfire.kerneladiutor/).
+
+Open  the menu and tap on `CPU`. Scroll down to `Multicore Power Saving` and check if it is set to `Enabled`.
 
 ## Links
 
