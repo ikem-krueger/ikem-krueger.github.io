@@ -24,7 +24,7 @@ In recovery-mode tap on `Advanced` > `Enable ADB`. Go back to the main menu.
 
 Tap on `Apply update` > `Apply from adb`.
 
-On your pc in Windows download Magisk-v26.1.apk from [here](https://github.com/topjohnwu/Magisk/releases/download/v26.1/Magisk-v26.1.apk).
+On your pc download Magisk-v26.1.apk from [here](https://github.com/topjohnwu/Magisk/releases/download/v26.1/Magisk-v26.1.apk).
 
 Rename `Magisk-v26.1.apk` to `Magisk-v26.1.zip`.
 
