@@ -31,7 +31,7 @@ Rename `Magisk-v26.1.apk` to `Magisk-v26.1.zip`.
 Open a terminal and type:
 
 ```cmd
-adb sideload Magisk-*.zip
+adb sideload Magisk-v26.1.zip
 ```
 
 When asked "Signature verification failed. Install anyway?", tap on "Yes".
