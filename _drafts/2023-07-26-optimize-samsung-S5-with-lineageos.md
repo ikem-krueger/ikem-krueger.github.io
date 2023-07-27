@@ -11,9 +11,9 @@ This has the advantages, that idle cores can go to sleep more often, which safes
 ## Install Magisk
 
 ```
+In Windows: download Magisk from [here]
 In Windows: ~# adb reboot recovery
 In recovery-mode: "Enable adb"
-In Windows: download Magisk from [here]
 In recovery-mode: "Apply patch from adb"
 In Windows: "adb sideload Magisk-*.zip"
 In recovery-mode: reboot
