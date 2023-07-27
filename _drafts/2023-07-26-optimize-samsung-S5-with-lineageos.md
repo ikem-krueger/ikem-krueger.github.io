@@ -48,7 +48,9 @@ When the installation finished, tap on `Reboot`.
 
 ## Enable developer options
 
-On the phone open `Settings` > `Over this phone` and tap on "Build-Number" until "Developer options enabled" is shown.
+On the phone open `Settings` > `About phone`.
+
+Tap the Build Number seven times until you see the message "You are now a developer!".
 
 ## Enable ADB
 
@@ -64,10 +66,15 @@ On the pc open a terminal, and write:
 adb shell
 ```
 
-Create the file:
+Gain root access:
 
 ```bash
 su
+```
+
+Create the file:
+
+```bash
 nano /data/adb/post-fs-data.d/custom.sh
 ```
 
