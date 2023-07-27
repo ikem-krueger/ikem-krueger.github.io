@@ -36,7 +36,7 @@ Open a terminal and type:
 adb sideload Magisk-*.zip
 ```
 
-On your phone in recovery-mode check if Magisk installed successfully. Reboot your phone.
+On your phone check if the last line says "Done". Reboot your phone.
 
 On your phone open Magisk. You get an error message.
 
