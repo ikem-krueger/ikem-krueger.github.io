@@ -18,7 +18,7 @@ I wanted this setting applied on every boot, and after some research, I found ou
 
 Connect your phone to the pc.
 
-On your phone boot into recovery mode by holding `Volume Up` + `Home` + `Power`, let lose, when the boot logo appears.
+On your phone boot into recovery mode by holding `Volume Up` + `Home` + `Power`. When the blue text appears, release the buttons.
 
 In recovery-mode tap on `Advanced` > `Enable ADB`. Go back to the main menu.
 
