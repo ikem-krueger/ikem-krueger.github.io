@@ -46,6 +46,16 @@ In the new dialog tap on `Method` > `Direct Installation`.
 
 When the installation finished, tap on `Reboot`.
 
+## Enable developer options
+
+On the phone open `Settings` > `Over this phone` and tap on "Build-Number" until "Developer options enabled" is shown.
+
+## Enable ADB
+
+On the phone open `Settings` > `System` > `Advanced` > `Developer Options`.
+
+Scroll down to "USB-Debugging" and enable it.
+
 ## Create custom.sh file
 
 On the pc open a terminal, and write:
