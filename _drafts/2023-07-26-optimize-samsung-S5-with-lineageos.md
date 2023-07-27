@@ -40,6 +40,8 @@ On your phone check if the last line says "Done".
 
 Reboot your phone.
 
+## Install Magisk again
+
 On your phone open Magisk.
 
 Next to the word "Magisk" tap on `Install`.
