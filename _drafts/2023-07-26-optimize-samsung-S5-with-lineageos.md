@@ -12,15 +12,27 @@ This has the advantages, that idle cores can go to sleep more often, which safes
 
 Connect your phone to the pc.
 
- - On your phone: boot into recovery mode
- - On your phone: In recovery-mode: `Advanced` > `Enable ADB`
- - On your phone: In recovery-mode: `Apply update` > `Apply from adb`
- - On your pc: In Windows: download Magisk-*.apk from [here](https://github.com/topjohnwu/Magisk/releases)
- - On your pc: In Windows: rename apk to zip
- - On your pc: In Windows: open a terminal and type: `adb sideload Magisk-*.zip`
- - On your phone: In recovery-mode: check if installed successfully
- - On your phone: In recovery-mode: reboot
- - On your phone: In Android: open Magisk -> Error -> "Direct Installation"
+On your phone boot into recovery mode.
+
+In recovery-mode tap on `Advanced` > `Enable ADB`. Go back to the main menu.
+
+Tap on `Apply update` > `Apply from adb`.
+
+On your pc in Windows download Magisk-v26.1.apk from [here](https://github.com/topjohnwu/Magisk/releases/download/v26.1/Magisk-v26.1.apk).
+
+Rename `Magisk-v26.1.apk` to `Magisk-v26.1.zip`.
+
+Open a terminal and type:
+
+```
+adb sideload Magisk-*.zip
+```
+
+On your phone in recovery-mode check if Magisk installed successfully. Reboot your phone.
+
+On your phone in Android open Magisk. You get an error message.
+
+Next to Magisk tap on `Install`. In the new dialog tap on `Method` > `Direct Installation`. When the installation finished, tap on `Reboot`.
 
 ## Create custom.sh file
 
