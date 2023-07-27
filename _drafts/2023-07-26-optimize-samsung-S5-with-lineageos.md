@@ -22,7 +22,7 @@ On your phone boot into recovery mode by holding `Volume Up` + `Home` + `Power`,
 
 In recovery-mode tap on `Advanced` > `Enable ADB`. Go back to the main menu.
 
-Tap on `Apply update` > `Apply from adb` > `ADB sideload`.
+Tap on `Apply update` > `Apply from ADB` > `ADB sideload`.
 
 On your pc download Magisk-v26.1.apk from [here](https://github.com/topjohnwu/Magisk/releases/download/v26.1/Magisk-v26.1.apk).
 
