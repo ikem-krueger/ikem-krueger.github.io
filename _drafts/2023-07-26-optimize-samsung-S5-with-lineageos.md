@@ -52,7 +52,7 @@ On the phone open `Settings` > `About phone`.
 
 Tap the Build Number seven times until you see the message "You are now a developer!".
 
-## Enable ADB
+## Enable USB-debugging
 
 On the phone open `Settings` > `System`.
 
