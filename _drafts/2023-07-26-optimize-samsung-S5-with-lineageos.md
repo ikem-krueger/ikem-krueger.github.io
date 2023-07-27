@@ -20,7 +20,7 @@ Connect your phone to the pc.
 
 On your phone boot into recovery mode by holding `Volume Up` + `Home` + `Power`. When the blue text appears, release the buttons.
 
-In recovery-mode tap on `Advanced` > `Enable ADB`. Go back to the main menu.
+In recovery mode tap on `Advanced` > `Enable ADB`. Go back to the main menu.
 
 Tap on `Apply update` > `Apply from ADB` > `ADB sideload`.
 
