@@ -36,7 +36,7 @@ adb sideload Magisk-*.zip
 
 When asked "Signature verification failed. Install anyway?", tap on "Yes".
 
-On your phone check if the last line says "Done".
+Wait until the installation finished and the last line says "Done.".
 
 Reboot your phone.
 
