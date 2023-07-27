@@ -14,7 +14,9 @@ Finally I found out what it did. It writes a "1" to "/sys/devices/system/cpu/sch
 
 I wanted this setting applied on every boot, and after some research, I found out I could use Magisk to run [boot scripts](https://topjohnwu.github.io/Magisk/guides.html#boot-scripts).
 
-## Install Magisk on recovery
+I you want to do the same, follow this tutorial from top to bottom.
+
+## Install Magisk on recovery mode
 
 Connect your phone to the pc.
 
