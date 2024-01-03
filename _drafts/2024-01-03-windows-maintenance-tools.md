@@ -4,6 +4,8 @@ title: Windows Maintenance Tools
 tags: tag
 ---
 
+Because I get often asked, what tools I recommend for Windows maintenance, I collected this list.
+
 ## Windows native
 
  - Disk Defragmenter (dfrgui.exe)
