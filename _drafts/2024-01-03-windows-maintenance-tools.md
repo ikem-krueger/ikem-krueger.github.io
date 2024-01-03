@@ -7,7 +7,7 @@ tags: tag
 ## Windows native
 
  - Disk Defragmenter (dfrgui.exe)
- - cleanmgr.exe
+ - Disk Cleanup (cleanmgr.exe)
 
 ## Freeware
 
