@@ -4,7 +4,9 @@ title: Windows Maintenance Tools
 tags: tag
 ---
 
-Because I get often asked, what tools I recommend for Windows maintenance, I collected this list. All tools are free and I use them regularly.
+Because I get often asked, what tools I recommend for Windows maintenance, I collected this list.
+
+All tools are free and I use them regularly.
 
 ## Windows native
 
