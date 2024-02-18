@@ -4,7 +4,7 @@ title: Compile Xfce Panel
 tags: xfce
 ---
 
-Fork [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel) on GitHub.
+Goto GitHub and fork [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel).
 
 Clone repo:
 
