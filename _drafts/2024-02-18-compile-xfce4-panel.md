@@ -22,5 +22,5 @@ Configure:
 
 ```
 ./autogen.sh
-./configure --prefix=./build
+./configure --prefix=$PWD/build
 ```
