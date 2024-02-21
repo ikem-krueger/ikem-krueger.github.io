@@ -4,6 +4,8 @@ title: Compile Xfce Panel
 tags: xfce
 ---
 
+## Upstream
+
 Go to GitHub and fork [xfce4-panel](https://github.com/xfce-mirror/xfce4-panel).
 
 Clone repo:
@@ -23,4 +25,22 @@ Configure:
 ```
 ./autogen.sh
 ./configure --prefix=$PWD/build
+```
+
+## Apt
+
+Install sources:
+
+```
+apt source xfce4-panel
+```
+
+Install build dependencies:
+
+```
+sudo apt build-dep xfce4-panel
+```
+
+```
+cd xfce4-panel-4.18.2/
 ```
