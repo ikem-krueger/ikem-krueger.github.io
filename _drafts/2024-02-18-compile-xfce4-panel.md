@@ -41,6 +41,18 @@ Install build dependencies:
 sudo apt build-dep xfce4-panel
 ```
 
+Commit the changes:
+
 ```
+DEBEMAIL="your.email.address@example.org"
+DEBFULLNAME="Firstname Lastname"
+
 cd xfce4-panel-4.18.2/
+dpkg-source --commit
+```
+
+Build the package:
+
+```
+dpkg-buildpackage -us -uc
 ```
