@@ -4,17 +4,54 @@ title: Here comes the title
 tags: tag
 ---
 
-Register [GitLab](https://gitlab.xfce.org/).
+## Register on GitLab
+
+Register on [GitLab](https://gitlab.xfce.org/).
+
+
+## Add an SSH key in GitLab
+ 
+Click on Settings on the top right drop-down, which will appear once you select the icon.
+
+Click on SSH Keys:  
+[![enter image description here][2]][2]
+
+### Generate the ssh key
+ 
+1.	Open a terminal on Linux or macOS, or Git Bash / WSL on Windows.  
+2.	Generate a new ED25519 SSH key pair:
+
+        ssh-keygen -t ed25519 -C "Name Surname <email@example.com>"
+
+    It will generate the key in:
+
+  	 - Linux: `/home/user/.ssh`
+    - macOS: `/Users/name/.ssh`
+    - Windows: `C:\Users\name\.ssh`
+
+4. Copy the public key and paste in the gitlab location: 
+
+    [![enter image description here][3]][3]
+
+  [1]: https://i.stack.imgur.com/WXvgI.png
+  [2]: https://i.stack.imgur.com/q2QuV.png
+  [3]: https://i.stack.imgur.com/MDE0W.png
+
+## Register on Element
+
+Register on [Element](https://app.element.io/#/register).
+
+## Join Matrix channel and ask for permissions
 
 Join [Matrix channel #xfce-dev](https://matrix.to/#/#xfce-dev:matrix.org)
 
-Choose "Element" and Click "Continue":
+On the "Element" tile click on "Continue":
 
 ![](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/_drafts/2024-02-27-here-comes-the-title/Screenshot%202024-02-27%20at%2015-56-44%20You're%20invited%20to%20talk%20on%20Matrix.png)
 
-[Register on Element](https://app.element.io/#/register)
+When you've joined the chat, write something like:
 
-When you're registered and joined the chat, ask to "I want to be able to create forks and make merge requests".
+"I want to contribute and need to be able to create forks and make merge requests."
 
 ## Links
 
