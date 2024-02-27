@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Here comes the title
+title: How to contribute to XFCE
 tags: tag
 ---
 
 ## Register on GitLab
 
 Register on [GitLab](https://gitlab.xfce.org/).
-
 
 ## Add an SSH key in GitLab
  
