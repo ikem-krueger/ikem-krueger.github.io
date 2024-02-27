@@ -4,6 +4,8 @@ title: Here comes the title
 tags: tag
 ---
 
+Register [GitLab](https://gitlab.xfce.org/).
+
 Join [Matrix channel #xfce-dev](https://matrix.to/#/#xfce-dev:matrix.org)
 
 Choose "Element" and Click "Continue":
