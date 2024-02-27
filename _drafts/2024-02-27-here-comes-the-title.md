@@ -37,7 +37,7 @@ Click on SSH Keys:
 
 5. Paste in the GitLab location: 
 
-    ![enter image description here](https://i.stack.imgur.com/MDE0W.png)
+    ![](https://i.stack.imgur.com/MDE0W.png)
 
 ## Register on Element
 
