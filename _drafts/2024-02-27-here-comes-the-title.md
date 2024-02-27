@@ -36,7 +36,7 @@ On the left sidebar click on SSH Keys:
     - macOS: `pbcopy < ~/.ssh/id_ed25519.pub`
     - Windows: `type %USERPROFILE%\.ssh\id_ed25519.pub | clip`
 
-5. Paste in GitLab in this location: 
+5. In GitLab paste the key in this location: 
 
 ![](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/_drafts/2024-02-27-here-comes-the-title/MDE0W.png)
 
