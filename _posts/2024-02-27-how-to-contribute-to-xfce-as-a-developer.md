@@ -6,7 +6,7 @@ tags: tag
 
 ## Register on GitLab
 
-Register on [GitLab/XFCE](https://gitlab.xfce.org/).
+Register on [XFCE's GitLab](https://gitlab.xfce.org/).
 
 ## Add an SSH key in GitLab
  
@@ -21,7 +21,9 @@ On the left sidebar click on SSH Keys:
 1.	Open a terminal on Linux or macOS, or Git Bash / WSL on Windows.  
 2.	Generate a new ED25519 SSH key pair:
 
-    ssh-keygen -t ed25519 -C "Name Surname <email@example.com>"
+```
+ssh-keygen -t ed25519 -C "Name Surname <email@example.com>"
+```
 
 It will generate the key in:
 
