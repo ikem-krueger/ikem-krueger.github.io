@@ -17,7 +17,7 @@ On the left sidebar click on SSH Keys:
 
 ![](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/_drafts/2024-02-27-here-comes-the-title/q2QuV.png)
 
-### Generate the ssh key
+### Generate the SSH key
  
 1.	Open a terminal on Linux or macOS, or Git Bash / WSL on Windows.  
 2.	Generate a new ED25519 SSH key pair:
