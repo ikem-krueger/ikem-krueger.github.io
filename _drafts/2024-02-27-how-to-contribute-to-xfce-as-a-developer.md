@@ -61,12 +61,12 @@ Wait for a response. When you've got the permissions...
 
 ## Make changes
 
-The workflow is as follows:
+The workflow is roughly as follows:
 
-- Go to GitLab and fork a repo
-- Clone the repo to your local machine
-- Push your changes to GitLab
-- On GitLab make a merge request
+1. Go to GitLab and fork a repo
+2. Clone the repo to your local machine
+3. Push your changes to GitLab
+4. On GitLab make a merge request
 
 ## Links
 
