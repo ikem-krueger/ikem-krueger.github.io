@@ -13,7 +13,7 @@ Register on [GitLab](https://gitlab.xfce.org/).
  
 On the top right drop-down click on Settings.
 
-Click on SSH Keys:  
+On the left sidebar click on SSH Keys:  
 
 ![](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/_drafts/2024-02-27-here-comes-the-title/q2QuV.png)
 
