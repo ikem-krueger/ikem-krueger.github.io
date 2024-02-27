@@ -16,3 +16,9 @@ Choose "Element" and Click "Continue":
 
 When you're registered and joined the chat, ask to "I want to be able to create forks and make merge requests".
 
+## Links
+
+ - [Xfce Development Information](https://docs.xfce.org/contribute/dev/start)
+ - [The Ultimate Contributor's Guide to Xfce](https://andreldm.com/2018/12/03/xfce-contributor-guide.html)
+ - [xfce4-dev-tools](https://docs.xfce.org/xfce/xfce4-dev-tools/start)
+ - [Using Git within the Xfce development workflow](https://docs.xfce.org/contribute/dev/git/start)
