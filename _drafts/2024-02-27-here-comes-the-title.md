@@ -50,7 +50,7 @@ Register on [Element](https://app.element.io/#/register).
 
 Join the Matrix channel [#xfce-dev](https://matrix.to/#/#xfce-dev:matrix.org).
 
-On the "Element" tile click on "Continue":
+On the tile "Element" click on the button "Continue":
 
 ![](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/_drafts/2024-02-27-here-comes-the-title/Screenshot%202024-02-27%20at%2015-56-44%20You're%20invited%20to%20talk%20on%20Matrix.png)
 
