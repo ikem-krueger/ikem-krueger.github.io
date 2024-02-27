@@ -54,7 +54,7 @@ On the "Element" tile click on "Continue":
 
 When you've joined the chat, write something like:
 
-"I want to contribute and need to be able to create forks and make merge requests."
+"I want to contribute and want to be able to create forks and make merge requests."
 
 ## Links
 
