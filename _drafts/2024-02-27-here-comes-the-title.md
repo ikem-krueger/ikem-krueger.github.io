@@ -34,7 +34,7 @@ Click on SSH Keys:
 
   	 - Linux: `xclip -sel clip < ~/.ssh/id_ed25519.pub`
     - macOS: `pbcopy < ~/.ssh/id_ed25519.pub`
-    - Windows: `type %userprofile%\.ssh\id_ed25519.pub | clip`
+    - Windows: `type %USERPROFILE%\.ssh\id_ed25519.pub | clip`
 
 5. Paste in GitLab in this location: 
 
