@@ -29,7 +29,13 @@ Click on SSH Keys:
     - macOS: `/Users/name/.ssh`
     - Windows: `C:\Users\name\.ssh`
 
-4. Copy the public key and paste in the gitlab location: 
+4. Copy the public key to the clipboard:
+
+  	 - Linux: `xclip -sel clip < ~/.ssh/id_ed25519.pub`
+    - macOS: `pbcopy < ~/.ssh/id_ed25519.pub`
+    - Windows: `type %userprofile%\.ssh\id_ed25519.pub | clip`
+
+5. Paste in the GitLab location: 
 
     [![enter image description here][3]][3]
 
@@ -55,6 +61,8 @@ When you've joined the chat, write something like:
 
 ## Links
 
+ - [How do I add an SSH key in gitlab - Stack Overflow](https://stackoverflow.com/questions/35901982/how-do-i-add-an-ssh-key-in-gitlab/58561659#58561659)
+ - [How do I add an SSH key in gitlab - Stack Overflow](https://stackoverflow.com/questions/35901982/how-do-i-add-an-ssh-key-in-gitlab/54361066#54361066)
  - [Xfce Development Information](https://docs.xfce.org/contribute/dev/start)
  - [The Ultimate Contributor's Guide to Xfce](https://andreldm.com/2018/12/03/xfce-contributor-guide.html)
  - [xfce4-dev-tools](https://docs.xfce.org/xfce/xfce4-dev-tools/start)
