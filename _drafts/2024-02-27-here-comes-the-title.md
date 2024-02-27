@@ -14,7 +14,7 @@ Register on [GitLab](https://gitlab.xfce.org/).
 Click on Settings on the top right drop-down, which will appear once you select the icon.
 
 Click on SSH Keys:  
-[![enter image description here][2]][2]
+![](https://i.stack.imgur.com/q2QuV.png)
 
 ### Generate the ssh key
  
@@ -37,11 +37,7 @@ Click on SSH Keys:
 
 5. Paste in the GitLab location: 
 
-    [![enter image description here][3]][3]
-
-  [1]: https://i.stack.imgur.com/WXvgI.png
-  [2]: https://i.stack.imgur.com/q2QuV.png
-  [3]: https://i.stack.imgur.com/MDE0W.png
+    ![enter image description here](https://i.stack.imgur.com/MDE0W.png)
 
 ## Register on Element
 
