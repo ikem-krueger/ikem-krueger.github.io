@@ -21,19 +21,19 @@ On the left sidebar click on SSH Keys:
 1.	Open a terminal on Linux or macOS, or Git Bash / WSL on Windows.  
 2.	Generate a new ED25519 SSH key pair:
 
-        ssh-keygen -t ed25519 -C "Name Surname <email@example.com>"
+    ssh-keygen -t ed25519 -C "Name Surname <email@example.com>"
 
-    It will generate the key in:
+It will generate the key in:
 
-  	 - Linux: `/home/user/.ssh`
-    - macOS: `/Users/name/.ssh`
-    - Windows: `C:\Users\name\.ssh`
+ - Linux: `/home/user/.ssh`
+ - macOS: `/Users/name/.ssh`
+ - Windows: `C:\Users\name\.ssh`
 
 4. Copy the public key to the clipboard:
 
-  	 - Linux: `xclip -sel clip < ~/.ssh/id_ed25519.pub`
-    - macOS: `pbcopy < ~/.ssh/id_ed25519.pub`
-    - Windows: `type %USERPROFILE%\.ssh\id_ed25519.pub | clip`
+ - Linux: `xclip -sel clip < ~/.ssh/id_ed25519.pub`
+ - macOS: `pbcopy < ~/.ssh/id_ed25519.pub`
+ - Windows: `type %USERPROFILE%\.ssh\id_ed25519.pub | clip`
 
 5. In GitLab paste the key in this location: 
 
