@@ -66,7 +66,7 @@ The workflow is roughly as follows:
 1. Go to GitLab and fork a repo
 2. Clone the repo to your local machine
 3. Push your changes to GitLab
-4. On GitLab make a merge request
+4. Go to GitLab and the repo and make a merge request
 
 ## Links
 
