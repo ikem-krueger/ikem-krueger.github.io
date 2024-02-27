@@ -1,12 +1,12 @@
 ---
 layout: post
-title: How to contribute to XFCE
+title: How to contribute to XFCE as a developer
 tags: tag
 ---
 
 ## Register on GitLab
 
-Register on [GitLab](https://gitlab.xfce.org/).
+Register on [GitLab/XFCE](https://gitlab.xfce.org/).
 
 ## Add an SSH key in GitLab
  
