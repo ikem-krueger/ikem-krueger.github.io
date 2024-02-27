@@ -57,6 +57,17 @@ When you've joined the chat, write something like:
 
 "I want to contribute and want to be able to create forks and make merge requests."
 
+Wait for a response. When you've got the permissions...
+
+## Make changes
+
+The workflow is as follows:
+
+- Go to GitLab and fork a repo
+- Clone the repo to your local machine
+- Push your changes to GitLab
+- On GitLab make a merge request
+
 ## Links
 
  - [How do I add an SSH key in gitlab - Stack Overflow](https://stackoverflow.com/questions/35901982/how-do-i-add-an-ssh-key-in-gitlab/58561659#58561659)
