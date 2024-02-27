@@ -11,7 +11,7 @@ Register on [GitLab](https://gitlab.xfce.org/).
 
 ## Add an SSH key in GitLab
  
-Click on Settings on the top right drop-down, which will appear once you select the icon.
+On the top right drop-down click on Settings.
 
 Click on SSH Keys:  
 
