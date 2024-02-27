@@ -14,7 +14,7 @@ On the top right drop-down click on Settings.
 
 On the left sidebar click on SSH Keys:  
 
-![](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/_drafts/2024-02-27-here-comes-the-title/q2QuV.png)
+![](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/_posts/2024-02-27-how-to-contribute-to-xfce-as-a-developer/q2QuV.png)
 
 ### Generate the SSH key
  
@@ -37,7 +37,7 @@ On the left sidebar click on SSH Keys:
 
 5. In GitLab paste the key in this location: 
 
-![](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/_drafts/2024-02-27-here-comes-the-title/MDE0W.png)
+![](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/_posts/2024-02-27-how-to-contribute-to-xfce-as-a-developer/MDE0W.png)
 
 Give them a title and click on "Add key".
 
@@ -51,7 +51,7 @@ Join the Matrix channel [#xfce-dev](https://matrix.to/#/#xfce-dev:matrix.org).
 
 On the tile "Element" click on the button "Continue":
 
-![](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/_drafts/2024-02-27-here-comes-the-title/Screenshot%202024-02-27%20at%2015-56-44%20You're%20invited%20to%20talk%20on%20Matrix.png)
+![](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/_posts/2024-02-27-how-to-contribute-to-xfce-as-a-developer/Matrix.png)
 
 When you've joined the chat, write something like:
 
