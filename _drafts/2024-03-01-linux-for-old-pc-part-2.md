@@ -6,10 +6,10 @@ tags: linux mint, xfce
 
 ## Remove cpufrequtils
 
-Because `powertop` is already setting the cpu governor to "ondemand", drop "cpufrequtils":
+Because `powertop` is already setting the cpu governor to "ondemand", remove "cpufrequtils":
 
 ```
-sudo apt install -y cpufrequtils
+sudo apt remove -y cpufrequtils
 ```
 
 ## Undervolt and underclock
