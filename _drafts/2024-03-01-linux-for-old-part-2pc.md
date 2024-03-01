@@ -28,3 +28,7 @@ I noticed that my usb mouse got stuck after a few seconds. The culprit is, that 
 To disable that for this device:
 
  - [power management - How can I disable USB autosuspend for a specific device - Ask Ubuntu](https://askubuntu.com/questions/185274/how-can-i-disable-usb-autosuspend-for-a-specific-device/525916#525916)
+
+### Links
+
+ - [How to install missing Perl modules on Debian FOSS Linux](https://www.fosslinux.com/69651/how-to-install-missing-perl-modules-on-debian.htm)
