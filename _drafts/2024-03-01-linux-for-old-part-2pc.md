@@ -13,7 +13,7 @@ sudo apt install -y cpufrequtils
 Use "acer_ec.pl" to set fan profile to "silent":
 
 ```
-acer_ac.pl 5A 10
+sudo acer_ec.pl := 0x5A 0x01
 ```
 
 Firefox extensions:
