@@ -18,40 +18,53 @@ I made sure to use BTRFS during the installation. You have to specify this manua
 
 I was inspired by the tweaks from ValdikSS:
 
+## Tweaks
+
+Install XanMod Kernel:
+
 ```
-# Install XanMod Kernel
 wget -qO - https://dl.xanmod.org/archive.key | sudo gpg --dearmor -o /usr/share/keyrings/xanmod-archive-keyring.gpg
 echo 'deb [signed-by=/usr/share/keyrings/xanmod-archive-keyring.gpg] http://deb.xanmod.org releases main' | sudo tee /etc/apt/sources.list.d/xanmod-release.list
 sudo apt update
 sudo apt install -y linux-xanmod-x64v2
+```
 
-# Install zram
+Install zram:
+
+```
 sudo apt install -y zram-config zram-tools
+```
 
-# Install preload
+Install preload:
+
+```
 sudo apt install -y preload
+```
 
-# Install cpufrequtils
+Install cpufrequtils:
+
+```
 sudo apt install -y cpufrequtils
+```
 
-# Set scheduler to "on demand"
+Set scheduler to "on demand":
+
+```
 sudo cpufreq-set -g ondemand
+```
 
-# Install PowerSaver service
+Install PowerSaver service:
+
+```
 sudo bash -c "$(wget -qLO - https://github.com/alandoyle/helper-scripts/raw/main/installers/powersaver-installer)"
 ```
 
+## Conclusion
+
 It runs very well for such an old netbook!
-
-## Future improvements
-
- - Is "cpufrequtils" really needed, because "powertop" should automatically set the cpu governor to "ondemand".
- - Make use of "acer_ec.pl" to set fan profile to "silent".
- - Some Firefox extensions are very useful: uBlock Origin, h264ify, I still don't care about cookies
 
 ### Links
 
  - [Linux for old PC — Bringing PC from 2007 back to life](https://notes.valdikss.org.ru/linux-for-old-pc-from-2007/en/)
  - [XanMod Kernel](https://xanmod.org/)
  - [alandoyle_helper-scripts Collection of helper scripts to run on Ubuntu 22.04](https://github.com/alandoyle/helper-scripts/)
-
