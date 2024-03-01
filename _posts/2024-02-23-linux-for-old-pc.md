@@ -4,8 +4,6 @@ title: Linux for old PC
 tags: linux mint, xfce
 ---
 
-## Linux for old PC
-
 I have an "HP Pavilion dm1 3101sg" netbook from 2011.
 
 Out of the box it has an AMD E-350 Dual Core CPU @ 1.6GHz, 2GB RAM, 500GB HDD and Windows 7.
@@ -45,9 +43,11 @@ sudo bash -c "$(wget -qLO - https://github.com/alandoyle/helper-scripts/raw/main
 
 It runs very well for such an old netbook!
 
-## Thoughts
+## Future improvements
 
- - Is "cpufrequtils" really needed? Because "powertop" should automatically set the cpu governor to "ondemand".
+ - Is "cpufrequtils" really needed, because "powertop" should automatically set the cpu governor to "ondemand".
+ - Make use of "acer_ec.pl" to set fan profile to "silent".
+ - Some Firefox extensions are very useful: uBlock Origin, h264ify, I still don't care about cookies
 
 ### Links
 
