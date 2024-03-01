@@ -10,7 +10,7 @@ If `powertop` is already setting the cpu governor to "ondemand", then drop "cpuf
 sudo apt install -y cpufrequtils
 ```
 
-Use "acer_ec.pl" to set fan profile to "silent":
+Use "[acer_ec.pl](https://www.torsten-traenkner.de/linux/hardware/acer_ec.pl)" to set fan profile to "silent":
 
 ```
 sudo acer_ec.pl := 0x5A 0x01
