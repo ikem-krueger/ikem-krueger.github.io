@@ -45,6 +45,10 @@ sudo bash -c "$(wget -qLO - https://github.com/alandoyle/helper-scripts/raw/main
 
 It runs very well for such an old netbook!
 
+## Thoughts
+
+ - Is "cpufrequtils" really needed? Because "powertop" should automatically set the cpu governor to "ondemand".
+
 ### Links
 
  - [Linux for old PC — Bringing PC from 2007 back to life](https://notes.valdikss.org.ru/linux-for-old-pc-from-2007/en/)
