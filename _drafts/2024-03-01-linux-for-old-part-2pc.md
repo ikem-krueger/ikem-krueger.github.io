@@ -4,21 +4,19 @@ title: Linux for old PC (Part 2)
 tags: linux mint, xfce
 ---
 
-Because `powertop` is already settings the cpu governor to "ondemand", I dropped "cpufrequtils".
-
-Hence you can uninstall them with:
+If `powertop` is already setting the cpu governor to "ondemand", then drop "cpufrequtils":
 
 ```
 sudo apt install -y cpufrequtils
 ```
 
-I made use of "acer_ec.pl" to set fan profile to "silent":
+Use "acer_ec.pl" to set fan profile to "silent":
 
 ```
 acer_ac.pl 5A 10
 ```
 
-I installed this Firefox extensions:
+Firefox extensions:
 
  - [Tab Stash](https://addons.mozilla.org/en-US/firefox/addon/tab-stash/)
  - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
