@@ -21,7 +21,8 @@ When done:
 ```
 sudo modprobe msr
 sudo modprobe cpuid
-sudo amdmsrt P0=16@1.15 P1=10.88@1.0 P2=8@0.8
+sudo amdmsrt P0=16@1.3 P1=12.8@1.235 P2=8@0.9875 # stock
+sudo amdmsrt P0=16@1.15 P1=10.88@1.0 P2=8@0.8 # undervolt and underclock
 ```
 
 ## Set fan profile to silent
