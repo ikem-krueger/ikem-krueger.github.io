@@ -12,6 +12,13 @@ Because `powertop` is already setting the cpu governor to "ondemand", remove "cp
 sudo apt remove -y cpufrequtils
 ```
 
+## Remove undervolt
+
+```
+sudo trash /usr/sbin/undervolt
+```
+
+
 ## Undervolt and underclock
 
 Download and compile [amdmsrtweaker-lnx](https://github.com/johkra/amdmsrtweaker-lnx).
