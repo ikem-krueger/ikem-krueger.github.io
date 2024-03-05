@@ -1,3 +1,5 @@
+## Asus fan kernel module
+
 Compile the kernel module:
 
 ```
@@ -34,7 +36,7 @@ Enable the service:
 sudo systemctl enable asus.service
 ```
 
-----
+## Intel CPU tweaks
 
 Create the file `/usr/local/bin/intel.sh`:
 
