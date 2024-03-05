@@ -30,6 +30,13 @@ ExecStart=/usr/local/bin/asus.sh
 WantedBy=multi-user.target
 ```
 
+Set permissions:
+
+```
+sudo chmod +x /usr/local/bin/asus.sh
+sudo chmod 644 /etc/systemd/system/asus.service
+```
+
 Enable the service:
 
 ```
