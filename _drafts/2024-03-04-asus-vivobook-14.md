@@ -13,8 +13,8 @@ Create the file `/usr/local/bin/modprobe.sh`:
 
 modprobe asus_fan force_load=1
 
-echo 1 > /sys/devices/system/cpu/intel_pstate/no_turbo
 echo 1 > /sys/devices/system/cpu/intel_pstate/hwp_dynamic_boost
+echo 1 > /sys/devices/system/cpu/intel_pstate/no_turbo
 ```
 
 Create the file `/etc/systemd/system/modprobe.service`:
