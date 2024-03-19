@@ -67,4 +67,5 @@ It runs very well for such an old netbook!
 
  - [Linux for old PC — Bringing PC from 2007 back to life](https://notes.valdikss.org.ru/linux-for-old-pc-from-2007/en/)
  - [XanMod Kernel](https://xanmod.org/)
+ - [Alan Doyle - Running PowerTOP on boot](https://alandoyle.com/blog/running-powertop-on-boot/)
  - [alandoyle_helper-scripts Collection of helper scripts to run on Ubuntu 22.04](https://github.com/alandoyle/helper-scripts/)
