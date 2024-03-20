@@ -55,6 +55,7 @@ Create `/etc/powersaver.d/custom-rules.conf`:
 #
 ################################################################################
 
+# Disable auto suspend for usb-device usb receiver [Logitech]
 echo 'on' > '/sys/bus/usb/devices/1-2/power/control'
 ```
 
@@ -84,6 +85,20 @@ Exec=/usr/local/bin/hp.sh
 
 [Install]
 WantedBy=multi-user.agent
+```
+
+Set permissions:
+
+```
+sudo chmod +x /usr/sbin/acer_ec.pl
+sudo chmod +x /usr/local/bin/hp.sh
+sudo chmod 644 /etc/systemd/system/hp.service
+```
+
+Enable the service:
+
+```
+sudo systemctl enable hp.service
 ```
 
 ## Firefox extensions
