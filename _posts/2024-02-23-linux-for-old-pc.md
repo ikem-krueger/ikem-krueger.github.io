@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Linux for old PC
-tags: linux mint, xfce
+title: Linux Mint 21.3 on HP Pavilion dm1
+tags: linux mint, xfce, hp
 ---
 
 I have an "HP Pavilion dm1 3101sg" netbook from 2011.
