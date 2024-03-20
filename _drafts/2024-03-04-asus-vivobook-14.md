@@ -1,4 +1,44 @@
-## Asus fan kernel module service
+## Basic tweaks
+
+Install XanMod Kernel:
+
+```
+wget -qO - https://dl.xanmod.org/archive.key | sudo gpg --dearmor -o /usr/share/keyrings/xanmod-archive-keyring.gpg
+echo 'deb [signed-by=/usr/share/keyrings/xanmod-archive-keyring.gpg] http://deb.xanmod.org releases main' | sudo tee /etc/apt/sources.list.d/xanmod-release.list
+sudo apt update
+sudo apt install -y linux-xanmod-x64v2
+```
+
+Install zram:
+
+```
+sudo apt install -y zram-config zram-tools
+```
+
+Install preload:
+
+```
+sudo apt install -y preload
+```
+
+## PowerSaver service
+
+```
+sudo bash -c "$(wget -qLO - https://github.com/alandoyle/helper-scripts/raw/main/installers/powersaver-installer)"
+```
+
+Create `/etc/powersaver.d/custom-rules.conf`:
+
+```
+#
+# Additional PowerSaver Rules
+#
+################################################################################
+
+echo 'on' > '/sys/bus/usb/devices/1-2/power/control'
+```
+
+## Fan profile service
 
 Compile the kernel module:
 
@@ -83,5 +123,7 @@ sudo systemctl enable intel.service
 
 ## Links
 
+ - [XanMod Kernel](https://xanmod.org/)
  - [daringer_asus-fan Kernel module to get_set (both) fan speed(s) on ASUS Zenbooks](https://github.com/daringer/asus-fan?tab=readme-ov-file#ubuntu)
  - [Alan Doyle - Running PowerTOP on boot](https://alandoyle.com/blog/running-powertop-on-boot/)
+ - [alandoyle_helper-scripts Collection of helper scripts to run on Ubuntu 22.04](https://github.com/alandoyle/helper-scripts/)
