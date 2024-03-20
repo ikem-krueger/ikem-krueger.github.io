@@ -1,3 +1,9 @@
+---
+layout: post
+title: Linux Mint 21.3 XFCE on Asus VivoBook 14
+tags: linux mint, xfce, asus, vivobook
+---
+
 ## Basic tweaks
 
 Install XanMod Kernel:
