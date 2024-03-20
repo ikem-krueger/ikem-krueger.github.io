@@ -4,21 +4,6 @@ title: Linux for old PC (Part 2)
 tags: linux mint, xfce
 ---
 
-## Remove cpufrequtils
-
-Because `powertop` is already setting the cpu governor to "ondemand", remove "cpufrequtils":
-
-```
-sudo apt remove -y cpufrequtils
-```
-
-## Remove undervolt
-
-```
-sudo trash /usr/sbin/undervolt
-```
-
-
 ## Undervolt and underclock
 
 Download and compile [amdmsrtweaker-lnx](https://github.com/johkra/amdmsrtweaker-lnx).
