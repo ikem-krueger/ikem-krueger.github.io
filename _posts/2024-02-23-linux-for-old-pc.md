@@ -18,7 +18,7 @@ I made sure to use BTRFS during the installation. You have to specify this manua
 
 I was inspired by the tweaks from ValdikSS:
 
-## Tweaks
+## Basic tweaks
 
 Install XanMod Kernel:
 
@@ -41,30 +41,68 @@ Install preload:
 sudo apt install -y preload
 ```
 
-Install cpufrequtils:
-
-```
-sudo apt install -y cpufrequtils
-```
-
-Set scheduler to "on demand":
-
-```
-sudo cpufreq-set -g ondemand
-```
-
-Install PowerSaver service:
+## PowerSaver service
 
 ```
 sudo bash -c "$(wget -qLO - https://github.com/alandoyle/helper-scripts/raw/main/installers/powersaver-installer)"
 ```
 
+Create `/etc/powersaver.d/custom-rules.conf`:
+
+```
+#
+# Additional PowerSaver Rules
+#
+################################################################################
+
+echo 'on' > '/sys/bus/usb/devices/1-2/power/control'
+```
+
+## Fan profile service
+
+Download [acer_ec.pl](https://www.torsten-traenkner.de/linux/hardware/acer_ec.pl) and safe them to `/usr/sbin/acer_ec.pl`. Install missing Perl modules as described [here](https://www.fosslinux.com/69651/how-to-install-missing-perl-modules-on-debian.htm).
+
+Create `/usr/local/bin/hp.sh`:
+
+```
+#!/bin/bash
+
+modprobe msr
+
+acer_ec.pl := 0x5A 0x02
+```
+
+Create `/etc/systemd/system/hp.service`:
+
+```
+[Unit]
+Description=Set hp fan profile to silent
+
+[Service]
+Type=simple
+Exec=/usr/local/bin/hp.sh
+
+[Install]
+WantedBy=multi-user.agent
+```
+
+## Firefox extensions
+
+| Extension | Purpose |
+|--|--|
+| [Tab Stash](https://addons.mozilla.org/en-US/firefox/addon/tab-stash/) | Preserve RAM by unloading tabs |
+| [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | Preserve CPU/RAM by blocking ads |
+|  [h264ify](https://addons.mozilla.org/en-US/firefox/addon/h264ify/) | Force hardware accelerated h264 video |
+| [I still don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/) | Auto click cookie notifications |
+
 ## Conclusion
 
 It runs very well for such an old netbook!
 
-### Links
+## Links
 
+ - [Overclocking the E-350 APU on Linux - Super User](https://superuser.com/questions/492292/overclocking-the-e-350-apu-on-linux/922418#922418)
+ - [Undervolt, Underclock, Overclock AMD E-350 Zacate](https://forum.kodi.tv/showthread.php?tid=104716)
  - [Linux for old PC — Bringing PC from 2007 back to life](https://notes.valdikss.org.ru/linux-for-old-pc-from-2007/en/)
  - [XanMod Kernel](https://xanmod.org/)
  - [Alan Doyle - Running PowerTOP on boot](https://alandoyle.com/blog/running-powertop-on-boot/)
