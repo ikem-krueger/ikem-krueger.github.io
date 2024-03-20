@@ -38,6 +38,16 @@ Download [acer_ec.pl](https://www.torsten-traenkner.de/linux/hardware/acer_ec.pl
 
 Create `/etc/systemd/system/hp.service`:
 
+Create `/usr/local/bin/hp.sh`:
+
+```
+#!/bin/bash
+
+modprobe msr
+
+acer_ec.pl := 0x5A 0x02
+```
+
 ```
 [Unit]
 Description=Set hp fan profile to silent
@@ -48,16 +58,6 @@ Exec=/usr/local/bin/hp.sh
 
 [Install]
 WantedBy=multi-user.agent
-```
-
-Create `/usr/local/bin/hp.sh`:
-
-```
-#!/bin/bash
-
-modprobe msr
-
-acer_ec.pl := 0x5A 0x02
 ```
 
 ## Firefox extensions
