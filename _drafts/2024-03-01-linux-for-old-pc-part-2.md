@@ -41,6 +41,30 @@ sudo modprobe msr
 sudo ./acer_ec.pl := 0x5A 0x01
 ```
 
+Create `/etc/systemd/system/hp.service`:
+
+```
+[Unit]
+Description=Set hp fan profile to silent
+
+[Service]
+Type=simple
+Exec=/usr/local/bin/hp.sh
+
+[Install]
+WantedBy=multi-user.agent
+```
+
+Create `/usr/local/bin/hp.sh`:
+
+```
+#!/bin/bash
+
+modprobe msr
+
+acer_ec.pl := 0x5A 0x02
+```
+
 ## Firefox extensions
 
 | Extension | Purpose |
