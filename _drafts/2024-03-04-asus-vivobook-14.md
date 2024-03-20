@@ -4,6 +4,10 @@ title: Linux Mint 21.3 XFCE on Asus VivoBook 14
 tags: linux mint, xfce, asus, vivobook
 ---
 
+Since I am very happy with Linux Mint 21.3 XFCE on my netbook, I installed it on my notebook too.
+
+I made sure to use BTRFS during the installation. You have to specify this manually.
+
 ## Basic tweaks
 
 Install XanMod Kernel:
