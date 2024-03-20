@@ -69,12 +69,6 @@ WantedBy=multi-user.agent
 |  [h264ify](https://addons.mozilla.org/en-US/firefox/addon/h264ify/) | Force hardware accelerated h264 video |
 | [I still don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/) | Auto click cookie notifications |
 
-## Fix glitchy USB mouse
-
-I noticed that my USB mouse got stuck after a few seconds. The culprit is, that `powertop` is setting usb to autosuspend.
-
-Follow [this](https://askubuntu.com/questions/185274/how-can-i-disable-usb-autosuspend-for-a-specific-device/525916#525916) comment to change that.
-
 ### Links
 
  - [Overclocking the E-350 APU on Linux - Super User](https://superuser.com/questions/492292/overclocking-the-e-350-apu-on-linux/922418#922418)
