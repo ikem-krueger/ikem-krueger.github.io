@@ -132,6 +132,15 @@ Enable the service:
 sudo systemctl enable intel.service
 ```
 
+## Firefox extensions
+
+| Extension | Purpose |
+|--|--|
+| [Tab Stash](https://addons.mozilla.org/en-US/firefox/addon/tab-stash/) | Preserve RAM by unloading tabs |
+| [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | Preserve CPU/RAM by blocking ads |
+|  [h264ify](https://addons.mozilla.org/en-US/firefox/addon/h264ify/) | Force hardware accelerated h264 video |
+| [I still don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/) | Auto click cookie notifications |
+
 ## Links
 
  - [XanMod Kernel](https://xanmod.org/)
