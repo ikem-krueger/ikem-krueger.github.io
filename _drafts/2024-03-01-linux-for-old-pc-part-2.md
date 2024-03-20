@@ -36,8 +36,6 @@ sudo amdmsrt P0=16@1.15 P1=10.88@1.0 P2=8@0.8 # undervolt and underclock
 
 Download [acer_ec.pl](https://www.torsten-traenkner.de/linux/hardware/acer_ec.pl) and safe them to `/usr/sbin/acer_ec.pl`. Install missing Perl modules as described [here](https://www.fosslinux.com/69651/how-to-install-missing-perl-modules-on-debian.htm).
 
-Create `/etc/systemd/system/hp.service`:
-
 Create `/usr/local/bin/hp.sh`:
 
 ```
@@ -47,6 +45,8 @@ modprobe msr
 
 acer_ec.pl := 0x5A 0x02
 ```
+
+Create `/etc/systemd/system/hp.service`:
 
 ```
 [Unit]
