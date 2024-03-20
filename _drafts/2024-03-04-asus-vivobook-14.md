@@ -35,6 +35,7 @@ Create `/etc/powersaver.d/custom-rules.conf`:
 #
 ################################################################################
 
+# Disable auto suspend for usb-device usb receiver [Logitech]
 echo 'on' > '/sys/bus/usb/devices/1-2/power/control'
 ```
 
