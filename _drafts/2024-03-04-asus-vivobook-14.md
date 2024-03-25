@@ -103,6 +103,12 @@ Create the file `/usr/local/bin/intel.sh`:
 
 echo 1 > /sys/devices/system/cpu/intel_pstate/hwp_dynamic_boost
 echo 1 > /sys/devices/system/cpu/intel_pstate/no_turbo
+echo 1 > /sys/module/processor/parameters/ignore_ppc
+
+for x in /sys/devices/system/cpu/cpu*/cpufreq
+do
+  echo 1600000 > $x/scaling_max_freq
+done
 ```
 
 Create the file `/etc/systemd/system/intel.service`:
