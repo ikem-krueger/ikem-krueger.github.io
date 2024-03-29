@@ -41,6 +41,14 @@ Install preload:
 sudo apt install -y preload
 ```
 
+Install cpufrequtils:
+
+```
+sudo apt install -y cpufrequtils
+
+cpufreq-set -g powersave
+```
+
 ## PowerSaver service
 
 ```
