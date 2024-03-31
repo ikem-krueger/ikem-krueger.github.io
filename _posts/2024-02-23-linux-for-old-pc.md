@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux Mint 21.3 on HP Pavilion dm1
+title: Linux Mint 21.3 XFCE on HP Pavilion dm1
 tags: linux mint, xfce, hp
 ---
 
