@@ -41,14 +41,6 @@ Install preload:
 sudo apt install -y preload
 ```
 
-Install cpufrequtils:
-
-```
-sudo apt install -y cpufrequtils
-
-cpufreq-set -g powersave
-```
-
 ## PowerSaver service
 
 ```
@@ -64,6 +56,7 @@ Create `/etc/powersaver.d/custom-rules.conf`:
 ################################################################################
 
 # Disable auto suspend for usb-device usb receiver [Logitech]
+echo 'on' > '/sys/bus/usb/devices/1-1/power/control'
 echo 'on' > '/sys/bus/usb/devices/1-2/power/control'
 ```
 
