@@ -21,5 +21,5 @@ innoextract -I DIABDAT.MPQ -I hellfire.mpq -I hfmonk.mpq -I hfmusic.mpq -I hfvoi
 ```
 
 ```
-mv DIABDAT.MPQ hellfire.mpq hfmonk.mpq hfmusic.mpq hfvoice.mpq "Roms/PORTS/Games/Diablo.port/"```
+mv DIABDAT.MPQ hellfire.mpq hfmonk.mpq hfmusic.mpq hfvoice.mpq "Roms/PORTS/Games/Diablo.port/"
 ```
