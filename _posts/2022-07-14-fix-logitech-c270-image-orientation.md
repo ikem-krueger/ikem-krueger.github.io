@@ -12,7 +12,7 @@ Then I searched the internet even more, and found out, that Logitech had another
 
 ![Screenshot](https://raw.githubusercontent.com/ikem-krueger/ikem-krueger.github.io/master/images/webcam.png)
 
-Logitech abonded the software, but [Softpedia](https://www.softpedia.com/get/Internet/WebCam/Logitech-Webcam-Software.shtml) has them.
+Logitech abonded the software, but ~~Softpedia~~[FileHippo](https://filehippo.de/download_logitech_webcam_software/) has them.
 
 What you get is the file `lws280.exe`. If you run that, a setup dialog pops up, and if you're not careful, a lot of garbage is installed. So don't do that. Just extract the file with 7-Zip, go into the `Drivers` folder and install `LWS_Driver_Installer_x64.exe` or `LWS_Driver_Installer_x86.exe`, depending on your system.
 
@@ -20,7 +20,7 @@ And now the fun part, this driver comes with a tool, the `LogiDPPApp.exe`. And t
 
 ## TL;DR
 
-1. Download the `Logitech WebCam Software` from [Softpedia](https://www.softpedia.com/get/Internet/WebCam/Logitech-Webcam-Software.shtml)
+1. Download the `Logitech WebCam Software` from ~~Softpedia~~[FileHippo](https://filehippo.de/download_logitech_webcam_software/)
 2. Extract the file with 7-Zip
 3. Install the driver accordingly to your system
 4. Run `%CommonProgramFiles%\logishrd\DriverStore\PRO564\LogiDPPApp.exe`
