@@ -47,7 +47,10 @@ Commit the changes:
 DEBEMAIL="your.email.address@example.org"
 DEBFULLNAME="Firstname Lastname"
 
-cd xfce4-panel-4.18.2/
+cd xfce4-panel-*/
+
+dpkg-buildpackage -T clean # optional
+
 dpkg-source --commit
 ```
 
@@ -55,4 +58,10 @@ Build the package:
 
 ```
 dpkg-buildpackage -us -uc
+```
+
+Install the package:
+
+```
+sudo dpkg -i ../xfce4-panel-*.deb
 ```
