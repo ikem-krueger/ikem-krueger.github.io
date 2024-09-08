@@ -6,21 +6,23 @@ tags: linux mint, kvm, qemu, virt-manager
 
 On starting virt-manager, it asked me for a password and then silently failed.
 
-Then I looked ate the accourding desktop file and saw what was executed:
+Then I looked at the accourding desktop file and saw what was executed:
 
 ```
-pkexec virt-manager
+Exec=pkexec virt-manager
 ```
 
 I run that from the terminal and got the error message:
 
 ```
-no display found :0
+ikem@ESPRIMO-D738:~$ pkexec virt-manager
+ikem@ESPRIMO-D738:~$ 
+(virt-manager:3531745): Gtk-WARNING **: 13:54:46.694: cannot open display: 
 ```
 
 After a lot of research I found the solution.
 
-These are the changes I made:
+These are the changes I had to make:
 
 ```
 --- /usr/share/polkit-1/actions/org.libvirt.unix.policy.old	2024-09-08 13:37:43.414264026 +0200
