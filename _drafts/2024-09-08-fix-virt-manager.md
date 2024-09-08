@@ -37,7 +37,7 @@ These are the changes I had to make:
  </policyconfig>
 ```
 
-Download the modified `org.libvirt.unix.policy` from [here]().
+Download the modified `org.libvirt.unix.policy` from [here](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_files/Virtual%20Machine%20Manager/org.libvirt.unix.policy).
 
 Move the file to `/usr/share/polkit-1/actions/`.
 
