@@ -20,7 +20,7 @@ ikem@ESPRIMO-D738:~$
 (virt-manager:3531745): Gtk-WARNING **: 13:54:46.694: cannot open display: 
 ```
 
-After a lot of research I found the solution.
+After a lot of research I found the problem.
 
 There seems to be a polkit policy file missing. Hence I created one.
 
