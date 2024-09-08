@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Fix virt-manager
+title: Fix Virtual Machine Manager not starting
 tags: linux mint, kvm, qemu, virt-manager
 ---
 
-On starting virt-manager, it asked me for a password and then silently failed.
+On starting Virtual Machine Manager, it asked me for a password and then silently failed.
 
 Then I looked in the accourding desktop file and saw what was executed:
 
@@ -12,7 +12,7 @@ Then I looked in the accourding desktop file and saw what was executed:
 Exec=pkexec virt-manager
 ```
 
-I run that from the terminal and got the error message:
+I run the command from the terminal and got the error message:
 
 ```
 ikem@ESPRIMO-D738:~$ pkexec virt-manager
@@ -21,6 +21,8 @@ ikem@ESPRIMO-D738:~$
 ```
 
 After a lot of research I found the solution.
+
+There seems to be a polkit policy file missing. Hence I created one.
 
 Download the file `org.libvirt.virt-manager.policy` from [here](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_files/Virtual%20Machine%20Manager/org.libvirt.virt-manager.policy).
 
