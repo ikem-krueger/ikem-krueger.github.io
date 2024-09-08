@@ -24,8 +24,8 @@ Trace/breakpoint triggered (memory dump written)
 
 The problems are two-fold:
 
-1. Accessing `/root/.cache/at-spi/bus_0.0`
-2. Webkit no longer allows disabling the sandbox
+1. Evolution tries to access `/root/.cache/at-spi/bus_0.0`
+2. Evolution uses a Webkit version, which no longer allows disabling the sandbox
 
 Both can be worked around by setting two variables:
 
