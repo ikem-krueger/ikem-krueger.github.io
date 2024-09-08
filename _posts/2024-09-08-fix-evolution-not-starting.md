@@ -6,7 +6,7 @@ tags: linux mint, evolution
 
 Starting Evolution from the start menu did nothing.
 
-Running Evoltion from the console leads to a crash:
+Running Evolution from the console leads to a crash:
 
 ```
 ikem@ESPRIMO-D738:~$ evolution
