@@ -34,7 +34,7 @@ And run:
 sudo systemctl restart polkit
 ```
 
-The important parts of that file are:
+The important parts of the file are:
 
 ```
       <annotate key="org.freedesktop.policykit.exec.path">/usr/bin/virt-manager</annotate>
