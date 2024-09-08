@@ -6,7 +6,7 @@ tags: linux mint, kvm, qemu, virt-manager
 
 On starting virt-manager, it asked me for a password and then silently failed.
 
-Then I looked at the accourding desktop file and saw what was executed:
+Then I looked in the accourding desktop file and saw what was executed:
 
 ```
 Exec=pkexec virt-manager
@@ -39,7 +39,7 @@ These are the changes I had to make:
 
 Download the modified `org.libvirt.unix.policy` from [here]().
 
-Move them the file to `/usr/share/polkit-1/actions/`.
+Move the file to `/usr/share/polkit-1/actions/`.
 
 And run:
 
