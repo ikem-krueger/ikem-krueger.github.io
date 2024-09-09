@@ -36,14 +36,16 @@ WEBKIT_DISABLE_SANDBOX_THIS_IS_DANGEROUS=1
 
 To apply them to the start menu entry (for all users), you have to edit the file `/usr/share/applications/org.gnome.Evolution.desktop`.
 
-And change the line from:
+And change all the lines starting with:
 
 ```
-Exec=evolution %U
+Exec=evolution
 ```
 
 to:
 
 ```
-Exec=env NO_AT_BRIDGE=1 WEBKIT_DISABLE_SANDBOX_THIS_IS_DANGEROUS=1 evolution %U
+Exec=env NO_AT_BRIDGE=1 WEBKIT_DISABLE_SANDBOX_THIS_IS_DANGEROUS=1 evolution
 ```
+
+Alternatively you can download the `org.gnome.Evolution.desktop` file from [here](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_files/Fix%20Evolution%20not%20starting/org.gnome.Evolution.desktop).
