@@ -27,7 +27,7 @@ License along with this library.  If not, see
 <policyconfig>
     <action id="org.libvirt.virt-manager">
       <description>Start Virtual Machine Manager</description>
-      <message>System policy prevents management of local virtualized systems</message>
+      <message>Virtual Machine Manager</message>
       <defaults>
         <!-- Any program can use virt-manager if they provide the root password -->
         <allow_any>auth_admin_keep</allow_any>
