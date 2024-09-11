@@ -5,7 +5,7 @@ X-GNOME-FullName=Evolution Mail and Calendar
 Comment=Manage your email, contacts and schedule
 Keywords=email;calendar;contact;addressbook;task;
 Actions=new-window;compose;contacts;calendar;mail;memos;tasks;
-Exec=env NO_AT_BRIDGE=1 WEBKIT_DISABLE_SANDBOX_THIS_IS_DANGEROUS=1 %U
+Exec=env NO_AT_BRIDGE=1 WEBKIT_DISABLE_SANDBOX_THIS_IS_DANGEROUS=1 evolution %U
 Icon=evolution
 Terminal=false
 Type=Application
@@ -23,28 +23,28 @@ X-Ubuntu-Gettext-Domain=evolution
 
 [Desktop Action new-window]
 Name=New Window
-Exec=env NO_AT_BRIDGE=1 WEBKIT_DISABLE_SANDBOX_THIS_IS_DANGEROUS=1 -c current
+Exec=env NO_AT_BRIDGE=1 WEBKIT_DISABLE_SANDBOX_THIS_IS_DANGEROUS=1 evolution -c current
 
 [Desktop Action compose]
 Name=Compose a Message
-Exec=env NO_AT_BRIDGE=1 WEBKIT_DISABLE_SANDBOX_THIS_IS_DANGEROUS=1 mailto:
+Exec=env NO_AT_BRIDGE=1 WEBKIT_DISABLE_SANDBOX_THIS_IS_DANGEROUS=1 evolution mailto:
 
 [Desktop Action contacts]
 Name=Contacts
-Exec=env NO_AT_BRIDGE=1 WEBKIT_DISABLE_SANDBOX_THIS_IS_DANGEROUS=1 -c contacts
+Exec=env NO_AT_BRIDGE=1 WEBKIT_DISABLE_SANDBOX_THIS_IS_DANGEROUS=1 evolution -c contacts
 
 [Desktop Action calendar]
 Name=Calendar
-Exec=env NO_AT_BRIDGE=1 WEBKIT_DISABLE_SANDBOX_THIS_IS_DANGEROUS=1 -c calendar
+Exec=env NO_AT_BRIDGE=1 WEBKIT_DISABLE_SANDBOX_THIS_IS_DANGEROUS=1 evolution -c calendar
 
 [Desktop Action mail]
 Name=Mail
-Exec=env NO_AT_BRIDGE=1 WEBKIT_DISABLE_SANDBOX_THIS_IS_DANGEROUS=1 -c mail
+Exec=env NO_AT_BRIDGE=1 WEBKIT_DISABLE_SANDBOX_THIS_IS_DANGEROUS=1 evolution -c mail
 
 [Desktop Action memos]
 Name=Memos
-Exec=env NO_AT_BRIDGE=1 WEBKIT_DISABLE_SANDBOX_THIS_IS_DANGEROUS=1 -c memos
+Exec=env NO_AT_BRIDGE=1 WEBKIT_DISABLE_SANDBOX_THIS_IS_DANGEROUS=1 evolution -c memos
 
 [Desktop Action tasks]
 Name=Tasks
-Exec=env NO_AT_BRIDGE=1 WEBKIT_DISABLE_SANDBOX_THIS_IS_DANGEROUS=1 -c tasks
+Exec=env NO_AT_BRIDGE=1 WEBKIT_DISABLE_SANDBOX_THIS_IS_DANGEROUS=1 evolution -c tasks
