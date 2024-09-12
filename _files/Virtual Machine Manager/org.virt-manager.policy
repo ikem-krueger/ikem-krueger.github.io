@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE policyconfig PUBLIC
+ "-//freedesktop//DTD PolicyKit Policy Configuration 1.0//EN"
+ "http://www.freedesktop.org/standards/PolicyKit/1.0/policyconfig.dtd">
+<!--
+Policy definitions for Virtual Machine Manager
+
+Copyright (C) 2012 Red Hat, Inc.
+Copyright (C) 2007 Daniel P. Berrange <berrange redhat com>
+
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation; either
+version 2.1 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public
+License along with this library.  If not, see
+<http://www.gnu.org/licenses/>.
+-->
+<policyconfig>
+
+	<vendor>Virtual Machine Manager</vendor>
+	<vendor_url>https://virt-manager.org/</vendor_url>
+
+	<action id="org.virt-manager">
+		<icon_name>virt-manager</icon_name>
+		<message>Virtual Machine Manager</message>
+		<message xml:lang="as">ভাৰ্চুৱেল ডিভাইচ ব্যৱস্থাপক</message>
+		<message xml:lang="bg">Мениджър на виртуални машини</message>
+		<message xml:lang="bn_IN">ভার্চুয়াল মেশিন ম্যানেজার</message>
+		<message xml:lang="bs">Upravljač virtualnog računala</message>
+		<message xml:lang="ca">Eina de gestió de màquines virtuals</message>
+		<message xml:lang="cs">Správce virtuálních strojů</message>
+		<message xml:lang="da">Administration for virtuel maskine</message>
+		<message xml:lang="de">Virtuelle Maschinenverwaltung</message>
+		<message xml:lang="en_GB">Virtual Machine Manager</message>
+		<message xml:lang="es">Gestor de máquinas virtuales</message>
+		<message xml:lang="fi">Virtuaalikoneiden hallitsin</message>
+		<message xml:lang="fr">Gestionnaire de machines virtuelles</message>
+		<message xml:lang="fur">Gjestôr di Machinis Virtuâls</message>
+		<message xml:lang="gu">વર્ચ્યુઅલ મશીન વ્યવસ્થાપક</message>
+		<message xml:lang="hi">वर्चुअल मशीन प्रबंधक</message>
+		<message xml:lang="hr">Upravljač virtualnog računala</message>
+		<message xml:lang="hu">Virtuális gép vezérlőpult</message>
+		<message xml:lang="id">Manajer Mesin Virtual</message>
+		<message xml:lang="it">Virtual Machine Manager</message>
+		<message xml:lang="ja">仮想マシンマネージャー</message>
+		<message xml:lang="kn">ವರ್ಚುವಲ್‌ ಗಣಕ ವ್ಯವಸ್ಥಾಪಕ</message>
+		<message xml:lang="ko">가상 머신 관리자</message>
+		<message xml:lang="ml">വിര്‍ച്ച്വല്‍ മഷീന്‍ മാനേജര്‍</message>
+		<message xml:lang="mr">वर्च्युअल मशीन व्यवस्थापक</message>
+		<message xml:lang="ms">Pengurus Mesin Maya</message>
+		<message xml:lang="nl">Virtuele machine beheerder</message>
+		<message xml:lang="or">ଆଭାସୀ ମେସିନ ପରିଚାଳକ</message>
+		<message xml:lang="pa">ਵਰਚੁਅਲ ਮਸ਼ੀਨ ਮੈਨੇਜਰ</message>
+		<message xml:lang="pl">Menedżer maszyn wirtualnych</message>
+		<message xml:lang="pt_BR">Gerenciador de máquinas virtuais</message>
+		<message xml:lang="pt">Gestor de Máquinas Virtuais</message>
+		<message xml:lang="ro">Manager maşină virtuală</message>
+		<message xml:lang="ru">Менеджер виртуальных машин</message>
+		<message xml:lang="sk">Správca virtuálnych počítačov</message>
+		<message xml:lang="sr@latin">Upravnik virtuelne mašine</message>
+		<message xml:lang="sr">Управник виртуелне машине</message>
+		<message xml:lang="sv">Administrerare av virtuella maskiner</message>
+		<message xml:lang="ta">மெய்நிகர் கணினி மேலாளர்</message>
+		<message xml:lang="te">వర్చ్యువల్ కంప్యూటరు నిర్వహణాధికారి</message>
+		<message xml:lang="tr">Virtual Machine Manager</message>
+		<message xml:lang="uk">Інструмент керування віртуальними машинами</message>
+		<message xml:lang="zh_CN">虚拟系统管理器</message>
+		<message xml:lang="zh_TW">虛擬系統管理器</message>
+		<defaults>
+			<!-- Any program can use virt-manager if they provide the root password -->
+			<allow_any>auth_admin_keep</allow_any>
+			<allow_inactive>auth_admin_keep</allow_inactive>
+			<allow_active>auth_admin_keep</allow_active>
+		</defaults>
+		<annotate key="org.freedesktop.policykit.exec.path">/usr/bin/virt-manager</annotate>
+		<annotate key="org.freedesktop.policykit.exec.allow_gui">true</annotate>
+	</action>
+
+</policyconfig>
