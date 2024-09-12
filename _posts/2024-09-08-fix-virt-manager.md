@@ -24,7 +24,7 @@ After a lot of research I found the problem.
 
 There seems to be a polkit policy file missing. Hence I created one.
 
-Download the file `org.libvirt.virt-manager.policy` from [here](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_files/Virtual%20Machine%20Manager/org.libvirt.virt-manager.policy).
+Download the file `org.libvirt.virt-manager.policy` from [here](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_files/Virtual%20Machine%20Manager/org.virt-manager.policy).
 
 Move the file to `/usr/share/polkit-1/actions/`.
 
