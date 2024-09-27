@@ -24,11 +24,9 @@ After a lot of research I found the problem.
 
 There seems to be a polkit policy file missing. Hence I created one.
 
-Download the file `org.libvirt.virt-manager.policy` from [here](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_files/Virtual%20Machine%20Manager/org.virt-manager.policy).
+Download the file `org.libvirt.virt-manager.policy` from [here](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_files/Virtual%20Machine%20Manager/org.virt-manager.policy) and move the file to `/usr/share/polkit-1/actions/`.
 
-Move the file to `/usr/share/polkit-1/actions/`.
-
-And run:
+Finally run and you're good to go:
 
 ```
 sudo systemctl restart polkit
