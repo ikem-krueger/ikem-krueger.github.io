@@ -26,7 +26,7 @@ There seems to be a polkit policy file missing. Hence I created one.
 
 Download the file `org.libvirt.virt-manager.policy` from [here](https://github.com/ikem-krueger/ikem-krueger.github.io/raw/master/_files/Virtual%20Machine%20Manager/org.virt-manager.policy) and move the file to `/usr/share/polkit-1/actions/`.
 
-Finally run and you're good to go:
+Finally restart `polkit`:
 
 ```
 sudo systemctl restart polkit
