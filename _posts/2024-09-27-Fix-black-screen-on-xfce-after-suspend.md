@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fix black screen after suspend
+title: Fix black screen on XFCE after suspend
 tags: linux mint, xfce
 ---
 I fixed it by removing `light-locker`:
