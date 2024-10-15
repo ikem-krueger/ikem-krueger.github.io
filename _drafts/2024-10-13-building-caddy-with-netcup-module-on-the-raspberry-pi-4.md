@@ -4,8 +4,6 @@ title: Building Caddy with Netcup module on the Raspberry Pi 4
 tags: raspberry pi, caddy
 ---
 
-Content `inline quote`.
-
 ```
 sudo apt install golang-1.21-go
 echo 'export PATH=$PATH:/usr/lib/go-1.21/bin' >> ~/.bashrc
