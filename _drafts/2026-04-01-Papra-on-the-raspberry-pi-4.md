@@ -16,13 +16,13 @@ Create an `.env` file with an auth secret:
 echo "AUTH_SECRET=$(openssl rand -base64 36)" > .env
 ```
 
-Create `app-data` and `ingestion` folder:
+Create the folders `app-data` and `ingestion`:
 
 ```bash
 mkdir app-data ingestion
 ```
 
-Create `docker-compose.yml` file:
+Create the file `docker-compose.yml`:
 
 ```yml
 services:
@@ -45,7 +45,7 @@ services:
 
 Substitute `homelab` with the hostname of your Raspberry Pi 4!
 
-Change the `DOCUMENTS_OCR_LANGUAGES` to the languages you want (see the [documentation](https://docs.papra.app/self-hosting/configuration/#documents_ocr_languages) for it).
+Change the `DOCUMENTS_OCR_LANGUAGES` to the languages you want to use (see the [documentation](https://docs.papra.app/self-hosting/configuration/#documents_ocr_languages) for it).
 
 Start up the docker container via:
 
@@ -57,4 +57,4 @@ Open the url which you defined in `APP_BASE_URL` and register an account.
 
 When you are logged in in Papra, check the url and watch for the string after "organization".
 
-Open "ingestion" and create a folder with that (for `org_1GAP1Miap135XEcbKuBQF948`) and "ingestion" should work.
+Open the folder "ingestion" and create a folder with that string (for example `org_1GAP1Miap135XEcbKuBQF948`) and "ingestion" should work.
