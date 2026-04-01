@@ -55,6 +55,6 @@ docker compose -f docker-compose.yml up -d
 
 Open the url which you defined in `APP_BASE_URL` and register an account.
 
-When you are logged in in Papra, check the url and watch for the string after "organization".
+When you are logged in in Papra, check the url and watch for the string after "organization" (for example `org_1GAP1Miap135XEcbKuBQF948`).
 
-Open the folder "ingestion" and create a folder with that string (for example `org_1GAP1Miap135XEcbKuBQF948`) and "ingestion" should work.
+Open the folder "ingestion" and create a folder with that string and "ingestion" should work.
