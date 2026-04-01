@@ -45,8 +45,8 @@ services:
 
 Substitute `homelab` with the hostname of your Raspberry Pi 4!
 
-Change the `DOCUMENTS_OCR_LANGUAGES` to the languages you want (see the [documentation](#) for it).
+Change the `DOCUMENTS_OCR_LANGUAGES` to the languages you want (see the [documentation](https://docs.papra.app/self-hosting/configuration/#documents_ocr_languages) for it).
 
-You need to create a folder like `org_ywlxwcr2n26vabpjzncd319f`, if you want "ingestion" to work!
+If you want "ingestion" to work you need to create a folder in it like `org_1GAP1Miap135XEcbKuBQF948`!
 
-You find the name of the organization in "bla" -> "bla" -> "bla".
+You find the name of the organization in the url after "organizations".
