@@ -24,7 +24,7 @@ sudo mount -t ecryptfs -o ecryptfs_sig=${FEK_SIG},ecryptfs_fnek_sig=${FNEK_SIG},
 
 In the file "Private.sig" the first line is "ecryptfs_sig", the second line "ecryptfs_fnek_sig".
 
-When you mount the ecryptfs drive, use the passphrase shown by "ecryptfs-unwrap-passphrase".
+When ecryptfs asks for a passphrase use the passphrase shown by "ecryptfs-unwrap-passphrase".
 
 Glossar:
 
