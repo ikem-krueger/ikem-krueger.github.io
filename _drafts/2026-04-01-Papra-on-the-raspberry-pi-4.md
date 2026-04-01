@@ -4,7 +4,7 @@ title: Papra on the Raspberry Pi 4
 tags: raspberry pi, docker, papra, paperlessngx
 ---
 
-Papra is a lightweight alternative to PaperlessNGX.
+[Papra](https://github.com/papra-hq/papra) is a lightweight alternative to PaperlessNGX.
 
 I run them on a Raspberry Pi 4 in a Docker container.
 
