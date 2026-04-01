@@ -45,4 +45,8 @@ services:
 
 Substitute `homelab` with the hostname of your Raspberry Pi 4!
 
-You can change the `DOCUMENTS_OCR_LANGUAGES` to other languages. See the [documentation](#) for it.
+Change the `DOCUMENTS_OCR_LANGUAGES` to the languages you want (see the [documentation](#) for it).
+
+You need to create a folder like `org_ywlxwcr2n26vabpjzncd319f`, if you want "ingestion" to work!
+
+You find the name of the organization in "bla" -> "bla" -> "bla".
