@@ -47,6 +47,14 @@ Substitute `homelab` with the hostname of your Raspberry Pi 4!
 
 Change the `DOCUMENTS_OCR_LANGUAGES` to the languages you want (see the [documentation](https://docs.papra.app/self-hosting/configuration/#documents_ocr_languages) for it).
 
-If you want "ingestion" to work you need to create a folder in it like `org_1GAP1Miap135XEcbKuBQF948`!
+Start up the docker container via:
 
-You find the name of the organization in the url after "organizations".
+```bash
+docker compose -f docker-compose.yml up -d
+```
+
+Open the url which you defined in `APP_BASE_URL` and register an account.
+
+When you are logged in in Papra, check the url and watch for the string after "organization".
+
+Open "ingestion" and create a folder with that (for `org_1GAP1Miap135XEcbKuBQF948`) and "ingestion" should work.
