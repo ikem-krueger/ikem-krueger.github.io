@@ -12,6 +12,9 @@ That's the steps I followed to get access to my data:
 # show passphrase
 ecryptfs-unwrap-passphrase ~/.ecryptfs/wrapped-passphrase
 
+# add passphrase to keyring
+sudo ecryptfs-add-passphrase --fnek
+
 # show signatures
 cat ~/.ecryptfs/Private.sig
 
